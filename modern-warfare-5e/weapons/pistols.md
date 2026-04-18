@@ -1,12 +1,13 @@
 ---
 title: Pistols
-aliases: []
-tags: [weapon, pistol]
+aliases: [ ]
+tags: [ weapon, pistol ]
 ---
 
 # Pistols
 
-Holdout, backup, and service pistols, plus revolvers. See [Weapon Properties](../rules/weapon-properties.md) for the property keywords.
+Holdout, backup, and service pistols, plus revolvers. See [Weapon Properties](../rules/weapon-properties.md) for the
+property keywords.
 
 ## Holdout Pistols
 
@@ -19,27 +20,33 @@ Holdout, backup, and service pistols, plus revolvers. See [Weapon Properties](..
 | General Motors Liberato     | .45 ACP      | 1d12+1 | 1/19-20      | 5 ft  | 0.5 kg | 1H, Lite, Covert, CQC, Recoil (18), Inaccurate (-4), Reloading, Ammo 1                | 8   |
 | Kel-Tec P3AT                | .380 ACP     | 2d4    | 1-2/20       | 15 ft | 0.2 kg | 1H, Lite, Covert, CQC, Recoil (16), Inaccurate (-2), Reloading, Ammo 6                | 3   |
 | Ots-21                      | 9×18 Makarov | 2d4    | 1-2/20       | 10 ft | 0.5 kg | 1H, Lite, Covert, CQC, Recoil (14), Inaccurate (-2), Reloading, Ammo 5                | 3   |
+| Ruger LCP                   | .380 ACP     | 1d8    | 1/20         | 15 ft | 0.2 kg | 1H, Lite, Covert, CQC, Recoil (16), Inaccurate (-2), Reloading, Ammo 6                | 3   |
 | Sharps Model 1A             | .22 LR       | 1d4+2  | 1/20         | 5 ft  | 0.2 kg | 1H, Lite, Covert, CQC, Recoil (18), Inaccurate (-2), Manual Action, Reloading, Ammo 4 | 3   |
 
 ## Backup Pistols
 
 | Name               | Caliber      | Damage | Misfire/Crit | Range | Weight | Properties                                                                    | Req |
 |--------------------|--------------|--------|--------------|-------|--------|-------------------------------------------------------------------------------|-----|
+| Glock 19           | 9mm P        | 1d10+1 | 1/20         | 20 ft | 0.6 kg | 1H, Lite, Covert, CQC, Recoil (17), Reloading                                 | 6   |
 | Glock 26           | 9mm P        | 1d10+1 | 1/20         | 20 ft | 0.5 kg | 1H, Lite, Covert, CQC, Recoil (18), Reloading                                 | 6   |
 | Glock 27           | .40 S&W      | 1d12   | 1/20         | 20 ft | 0.5 kg | 1H, Lite, Covert, CQC, Recoil (17), Takedown, Reloading                       | 6   |
 | Glock 28           | .380 ACP     | 1d8    | 1/20         | 20 ft | 0.5 kg | 1H, Lite, Covert, CQC, Recoil (14), Reloading, Ammo 12                        | 6   |
 | Glock 29           | 10mm ACP     | 2d6    | 1/19-20      | 20 ft | 0.7 kg | 1H, Lite, Covert, CQC, Recoil (16), Takedown, Reloading                       | 7   |
 | Glock 30           | .45 ACP      | 1d12+1 | 1/19-20      | 20 ft | 0.7 kg | 1H, Lite, Covert, CQC, Recoil (17), Takedown, Reloading                       | 7   |
 | Glock 33           | .357 SiG     | 2d6+1  | 1/20         | 20 ft | 0.5 kg | 1H, Lite, Covert, CQC, Recoil (14), Reloading                                 | 6   |
+| Glock 43           | 9mm P        | 1d10+1 | 1/20         | 20 ft | 0.5 kg | 1H, Lite, Covert, CQC, Recoil (18), Reloading, Ammo 6                         | 6   |
 | H&K P7             | 9mm P        | 1d10+1 | 1/20         | 20 ft | 0.9 kg | 1H, Lite, Covert, CQC, Recoil (14), Reloading                                 | 10  |
 | H&K P7             | .40 S&W      | 1d12   | 1/20         | 20 ft | 1.2 kg | 1H, Lite, Covert, CQC, Recoil (10), Takedown, Reloading                       | 10  |
 | Kimber Ultra Carry | .40 S&W      | 1d12   | 1/20         | 20 ft | 0.7 kg | 1H, Lite, Covert, CQC, Recoil (16), Takedown, Reloading                       | 7   |
 | Kimber Ultra Carry | .45 ACP      | 1d12+1 | 1/19-20      | 20 ft | 0.7 kg | 1H, Lite, Covert, CQC, Recoil (16), Takedown, Reloading                       | 7   |
 | Makarov PB         | 9×18 Makarov | 2d4    | 1-2/20       | 20 ft | 0.9 kg | 1H, Lite, Covert, CQC, Recoil (9), Reloading, Ammo 8, **Built-in Suppressor** | 18  |
 | Makarov PM         | 9×18 Makarov | 2d4    | 1-2/20       | 20 ft | 0.7 kg | 1H, Lite, Covert, CQC, Recoil (10), Reloading, Ammo 8                         | 4   |
+| S&W M&P Shield     | 9mm P        | 1d10+1 | 1/20         | 20 ft | 0.5 kg | 1H, Lite, Covert, CQC, Recoil (17), Reloading, Ammo 8                         | 6   |
+| S&W M&P Shield     | .40 S&W      | 1d12   | 1/20         | 20 ft | 0.5 kg | 1H, Lite, Covert, CQC, Recoil (18), Takedown, Reloading, Ammo 7               | 6   |
 | SiG-Sauer P239     | 9mm P        | 1d10+1 | 1-2/20       | 20 ft | 0.8 kg | 1H, Lite, Covert, CQC, Recoil (15), Reloading, Ammo 8                         | 6   |
 | SiG-Sauer P239     | .357 SiG     | 2d6+1  | 1-2/20       | 20 ft | 0.8 kg | 1H, Lite, Covert, CQC, Recoil (16), Reloading, Ammo 7                         | 6   |
 | SiG-Sauer P239     | .40 S&W      | 1d12   | 1-2/20       | 20 ft | 0.8 kg | 1H, Lite, Covert, CQC, Recoil (14), Takedown, Reloading, Ammo 7               | 6   |
+| SiG-Sauer P365     | 9mm P        | 1d10+1 | 1/20         | 20 ft | 0.5 kg | 1H, Lite, Covert, CQC, Recoil (18), Reloading                                 | 6   |
 | Walther PP         | .22 LR       | 1d4+2  | 1-2/20       | 15 ft | 0.7 kg | 1H, Lite, Covert, CQC, Recoil (3), Reloading, Ammo 8                          | 4   |
 | Walther PP         | .25 ACP      | 1d6    | 1-2/20       | 15 ft | 0.7 kg | 1H, Lite, Covert, CQC, Recoil (2), Reloading, Ammo 8                          | 4   |
 | Walther PP         | .32 ACP      | 1d6+1  | 1-2/20       | 20 ft | 0.7 kg | 1H, Lite, Covert, CQC, Recoil (7), Reloading, Ammo 8                          | 4   |
@@ -48,6 +55,8 @@ Holdout, backup, and service pistols, plus revolvers. See [Weapon Properties](..
 | Walther PPK        | .25 ACP      | 1d6    | 1-2/20       | 10 ft | 0.6 kg | 1H, Lite, Covert, CQC, Recoil (2), Reloading                                  | 5   |
 | Walther PPK        | .32 ACP      | 1d6+1  | 1-2/20       | 15 ft | 0.6 kg | 1H, Lite, Covert, CQC, Recoil (8), Reloading                                  | 5   |
 | Walther PPK        | .380 ACP     | 1d8    | 1-2/20       | 15 ft | 0.6 kg | 1H, Lite, Covert, CQC, Recoil (13), Reloading                                 | 5   |
+| Walther PPS        | 9mm P        | 1d10+1 | 1/20         | 20 ft | 0.6 kg | 1H, Lite, Covert, CQC, Recoil (17), Reloading, Ammo 7                         | 6   |
+| Walther PPS        | .40 S&W      | 1d12   | 1/20         | 20 ft | 0.6 kg | 1H, Lite, Covert, CQC, Recoil (18), Takedown, Reloading, Ammo 6               | 6   |
 
 ## Service Pistols
 
@@ -55,11 +64,17 @@ Holdout, backup, and service pistols, plus revolvers. See [Weapon Properties](..
 |------------------------|-------------|--------|--------------|-------|-------------------------------------------------------------|-----|
 | Beretta 92             | 9mm P       | 1d10+1 | 1-2/20       | 25 ft | 1H, Lite, CQC, Recoil (12), Reloading                       | 6   |
 | Beretta 93R            | 9mm P       | 1d10+1 | 1-3/20       | 25 ft | 1H, Lite, CQC, Recoil (10), Select Fire S/B, Reloading      | 14  |
+| Beretta PX4 Storm      | 9mm P       | 1d10+1 | 1-2/20       | 25 ft | 1H, Lite, CQC, Recoil (11), Reloading                       | 6   |
+| Beretta PX4 Storm      | .40 S&W     | 1d12   | 1-2/20       | 25 ft | 1H, CQC, Recoil (13), Takedown, Reloading                   | 7   |
+| Beretta PX4 Storm      | .45 ACP     | 1d12+1 | 1-2/19-20    | 25 ft | 1H, CQC, Recoil (14), Takedown, Reloading                   | 7   |
 | Colt M1911A1           | .45 ACP     | 1d12+1 | 1/19-20      | 25 ft | 1H, Lite, CQC, Recoil (11), Dependable, Takedown, Reloading | 7   |
+| CZ 75                  | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (12), Dependable, Reloading                 | 6   |
+| CZ 75                  | .40 S&W     | 1d12   | 1/20         | 25 ft | 1H, CQC, Recoil (14), Dependable, Takedown, Reloading       | 6   |
 | Desert Eagle           | .357 Magnum | 3d4+1  | 1-2/19-20    | 40 ft | 1H, Light, CQC, Recoil (11), Reloading                      | 11  |
 | Desert Eagle           | .41 Magnum  | 3d4    | 1-2/19-20    | 35 ft | 1H, Light, CQC, Recoil (8), Takedown, Reloading             | 11  |
 | Desert Eagle           | .44 Magnum  | 2d6+2  | 1-3/19-20    | 35 ft | 1H, Light, CQC, Recoil (11), Takedown, Reloading            | 12  |
 | Desert Eagle           | .50 AE      | 3d6+1  | 1-3/19-20    | 40 ft | 1H, CQC, Recoil (19), Takedown, Reloading                   | 15  |
+| FN 509                 | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (16), Dependable, Reloading                 | 7   |
 | FN Browning High-Power | 9mm P       | 1d10+1 | 1/20         | 25 ft | Lite, 1H, CQC, Recoil (12), Dependable, Reloading           | 6   |
 | FN Browning High-Power | .40 S&W     | 1d12   | 1/20         | 25 ft | 1H, CQC, Recoil (13), Takedown, Reloading                   | 6   |
 | FN Five-seveN          | 5.7×28mm    | 1d8+2  | 1-2/20       | 30 ft | 1H, Lite, CQC, Recoil (11), Reloading                       | 10  |
@@ -72,12 +87,21 @@ Holdout, backup, and service pistols, plus revolvers. See [Weapon Properties](..
 | Glock 24               | .40 S&W     | 1d12   | 1/20         | 35 ft | 1H, CQC, Recoil (17), Takedown, Reloading                   | 10  |
 | Glock 31               | .357 SiG    | 2d6+1  | 1/20         | 25 ft | 1H, CQC, Recoil (18), Reloading                             | 7   |
 | H&K Mk. 23             | .45 ACP     | 1d12+1 | 1/19-20      | 30 ft | 1H, CQC, Recoil (12), Dependable, Takedown, Reloading       | 22  |
+| H&K P30                | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (14), Reloading                             | 7   |
+| H&K P30                | .40 S&W     | 1d12   | 1/20         | 25 ft | 1H, CQC, Recoil (15), Takedown, Reloading                   | 7   |
 | H&K USP                | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (15), Reloading                             | 6   |
 | H&K USP                | .40 S&W     | 1d12   | 1/20         | 25 ft | 1H, CQC, Recoil (16), Takedown, Reloading                   | 7   |
 | H&K USP                | .45 ACP     | 1d12+1 | 1/19-20      | 25 ft | 1H, CQC, Recoil (16), Takedown, Reloading                   | 8   |
+| H&K VP9                | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (14), Reloading                             | 7   |
 | Luger P08              | 9mm P       | 1d10+1 | 1-3/20       | 20 ft | 1H, CQC, Recoil (13), Reloading                             | 7   |
 | Ruger Mark III         | .22 LR      | 1d4+2  | 1-2/20       | 20 ft | 1H, Lite, CQC, Recoil (2), Reloading                        | 4   |
+| S&W M&P                | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (17), Reloading                             | 6   |
+| S&W M&P                | .40 S&W     | 1d12   | 1/20         | 25 ft | 1H, CQC, Recoil (18), Takedown, Reloading                   | 7   |
+| S&W M&P                | .45 ACP     | 1d12+1 | 1/19-20      | 25 ft | 1H, CQC, Recoil (17), Takedown, Reloading                   | 7   |
 | SiG P210               | 9mm P       | 1d10+1 | 1-2/20       | 30 ft | 1H, Light, CQC, Recoil (13), Reloading                      | 11  |
+| SiG-Sauer M17          | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (15), Dependable, Reloading                 | 7   |
+| SiG-Sauer M17          | .40 S&W     | 1d12   | 1/20         | 25 ft | 1H, CQC, Recoil (16), Dependable, Takedown, Reloading       | 7   |
+| SiG-Sauer M17          | .45 ACP     | 1d12+1 | 1/19-20      | 25 ft | 1H, CQC, Recoil (16), Dependable, Takedown, Reloading       | 8   |
 | SiG-Sauer P220         | .32 ACP     | 1d6+1  | 1-2/20       | 25 ft | 1H, Light, CQC, Recoil (6), Dependable, Reloading           | 8   |
 | SiG-Sauer P220         | 9mm P       | 1d10+1 | 1-2/20       | 25 ft | 1H, CQC, Recoil (16), Dependable, Reloading                 | 7   |
 | SiG-Sauer P220         | .38 Super   | 1d8+2  | 1-2/20       | 25 ft | 1H, CQC, Recoil (15), Dependable, Reloading                 | 7   |
@@ -88,8 +112,13 @@ Holdout, backup, and service pistols, plus revolvers. See [Weapon Properties](..
 | SiG-Sauer P229         | .357 SiG    | 2d6+1  | 1-2/20       | 25 ft | 1H, CQC, Recoil (18), Reloading                             | 7   |
 | SiG-Sauer P229         | .40 S&W     | 1d12   | 1-2/20       | 25 ft | 1H, CQC, Recoil (16), Takedown, Reloading                   | 7   |
 | SiG-Sauer P229         | 9mm P       | 1d10+1 | 1-2/20       | 25 ft | 1H, CQC, Recoil (15), Reloading                             | 8   |
+| Springfield XDM        | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (16), Reloading                             | 6   |
+| Springfield XDM        | .40 S&W     | 1d12   | 1/20         | 25 ft | 1H, CQC, Recoil (17), Takedown, Reloading                   | 7   |
+| Springfield XDM        | .45 ACP     | 1d12+1 | 1/19-20      | 25 ft | 1H, CQC, Recoil (17), Takedown, Reloading                   | 7   |
 | Walther P99 / S&W SW99 | 9mm P       | 1d10+1 | 1-2/20       | 25 ft | 1H, CQC, Recoil (16), Reloading                             | 7   |
 | Walther P99 / S&W SW99 | .40 S&W     | 1d12   | 1-2/20       | 25 ft | 1H, CQC, Recoil (17), Takedown, Reloading                   | 7   |
+| Walther PPQ            | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (15), Reloading                             | 7   |
+| Walther PPQ            | .40 S&W     | 1d12   | 1/20         | 25 ft | 1H, CQC, Recoil (16), Takedown, Reloading                   | 7   |
 
 ## Backup Revolvers
 
