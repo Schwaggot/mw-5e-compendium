@@ -10,8 +10,6 @@ See [Weapon Properties](../rules/weapon-properties.md) for the property keywords
 
 | Name                        | Caliber        | Damage | Misfire/Crit | Range  | Properties                                                      | Req |
 |-----------------------------|----------------|--------|--------------|--------|-----------------------------------------------------------------|-----|
-| Lee-Enfield DeLisle Carbine | .45 ACP        | 1d12   | 1/19-20      | 45 ft  | 2H, Recoil (3), Takedown, Manual Action, Reloading, Ammo 7      | 18  |
-| Weatherby Mk. V             | 5.56 NATO      | 4d4    | 1/20         | 125 ft | 2H, Recoil (11), Manual Action, Ammo 5                          | 16  |
 | AI AW                       | 7.62 NATO      | 4d4+2  | 1/19-20      | 175 ft | 2H, Recoil (12), Accurate (+1), Manual Action, Ammo 10          | 40  |
 | AI AW Covert                | 7.62 NATO      | 4d4+2  | 1/19-20      | 75 ft  | 2H, Recoil (2), Accurate (+2), Manual Action, Ammo 10           | 50  |
 | AI AW-50                    | .50 BMG        | 2d12+2 | 1/18-20      | 375 ft | 2H, Recoil (19), Takedown, Accurate (+3), Manual Action, Ammo 5 | 92  |
@@ -21,12 +19,15 @@ See [Weapon Properties](../rules/weapon-properties.md) for the property keywords
 | AMP DSR-1                   | 7.62 NATO      | 4d4+2  | 1/19-20      | 175 ft | 2H, Recoil (13), Accurate (+1), Manual Action, Ammo 5           | 36  |
 | AMP DSR-1                   | .300 Win       | 3d6+2  | 1/19-20      | 225 ft | 2H, Recoil (17), Accurate (+2), Ammo 5                          | 40  |
 | AMP DSR-1                   | .338 Lapua     | 5d4    | 1/19-20      | 250 ft | 2H, Recoil (18), Accurate (+2), Ammo 4                          | 44  |
+| FN Hecate II                | .50 BMG        | 2d12+2 | 1/18-20      | 375 ft | 2H, Recoil (18), Accurate (+3), Takedown, Ammo 7                | 110 |
 | FN Ultra-Ratio Commando II  | 7.62 NATO      | 4d4+2  | 1/19-20      | 200 ft | 2H, Recoil (10), Accurate (+1), Takedown, Ammo 10               | 27  |
+| Lee-Enfield DeLisle Carbine | .45 ACP        | 1d12   | 1/19-20      | 45 ft  | 2H, Recoil (3), Takedown, Manual Action, Reloading, Ammo 7      | 18  |
 | Lee-Enfield No. 1 Mk. 3     | .303 British   | 4d4+2  | 1/19-20      | 175 ft | 2H, Recoil (17), Takedown, Manual Action, Ammo 10               | 12  |
 | Lee-Enfield No. 2           | .22 LR         | 1d4+2  | 1/20         | 25 ft  | 2H, Recoil (1), Takedown, Ammo 10                               | 4   |
 | Lee-Enfield No. 4 Mk. 1     | .303 British   | 4d4+2  | 1/19-20      | 200 ft | 2H, Recoil (17), Takedown, Ammo 10                              | 14  |
 | Lee-Enfield No. 5           | .303 British   | 4d4+2  | 1/19-20      | 125 ft | 2H, Recoil (18), Ammo 10                                        | 12  |
 | Mauser Model 1898           | 8mm Mauser     | 2d10+1 | 1/19-20      | 175 ft | 2H, Recoil (18), Ammo 5                                         | 10  |
+| Mini-Hecate                 | .338 Lapua     | 5d4    | 1/19-20      | 250 ft | 2H, Recoil (17), Accurate (+1), Ammo 10                         | 32  |
 | Mosin-Nagant M1891          | 7.62×54R       | 2d10+1 | 1/19-20      | 175 ft | 2H, Recoil (18), Ammo 5                                         | 6   |
 | Mosin-Nagant M1891 Sniper   | 7.62×54R       | 2d10+1 | 1/19-20      | 200 ft | 2H, Recoil (19), Ammo 5                                         | 14  |
 | Remington 700               | 5.56 NATO      | 4d4    | 1/20         | 125 ft | 2H, Recoil (12), Ammo 5                                         | 7   |
@@ -38,12 +39,11 @@ See [Weapon Properties](../rules/weapon-properties.md) for the property keywords
 | Remington M24 SWS           | 7.62 NATO      | 4d4+2  | 1/19-20      | 200 ft | 2H, Recoil (12), Accurate (+3), Ammo 5                          | 95  |
 | Remington M24 SWS           | .300 Win       | 3d6+2  | 1/19-20      | 250 ft | 2H, Recoil (15), Accurate (+3), Ammo 5                          | 100 |
 | Remington M40A1             | 7.62 NATO      | 4d4+2  | 1/19-20      | 200 ft | 2H, Recoil (12), Ammo 5                                         | 53  |
+| Simonov PTRD                | 14.5mm Russian | 3d10+1 | 1/18-20      | 275 ft | 2H, Recoil (19), Dependable, Ammo 1                             | 85  |
 | Springfield M1903           | .30-06         | 2d10+2 | 1/19-20      | 175 ft | 2H, Recoil (18), Ammo 5                                         | 5   |
 | Springfield M1903A4         | .30-06         | 2d10+1 | 1/19-20      | 200 ft | 2H, Recoil (17), Ammo 5                                         | 7   |
+| Weatherby Mk. V             | 5.56 NATO      | 4d4    | 1/20         | 125 ft | 2H, Recoil (11), Manual Action, Ammo 5                          | 16  |
 | Weatherby Mk. V             | 7mm Rem        | 2d8+2  | 1/19-20      | 225 ft | 2H, Recoil (17), Ammo 3                                         | 13  |
 | Weatherby Mk. V             | 7.62 NATO      | 4d4    | 1/19-20      | 4d4+2  | 2H, Recoil (18), Ammo 5                                         | 14  |
 | Weatherby Mk. V             | .30-06         | 2d10+2 | 1/19-20      | 175 ft | 2H, Recoil (18), Ammo 5                                         | 13  |
 | Weatherby Mk. V             | .460 Weatherby | 2d12   | 1/19-20      | 250 ft | 2H, Recoil (18), Takedown, Ammo 2                               | 28  |
-| Mini-Hecate                 | .338 Lapua     | 5d4    | 1/19-20      | 250 ft | 2H, Recoil (17), Accurate (+1), Ammo 10                         | 32  |
-| FN Hecate II                | .50 BMG        | 2d12+2 | 1/18-20      | 375 ft | 2H, Recoil (18), Accurate (+3), Takedown, Ammo 7                | 110 |
-| Simonov PTRD                | 14.5mm Russian | 3d10+1 | 1/18-20      | 275 ft | 2H, Recoil (19), Dependable, Ammo 1                             | 85  |

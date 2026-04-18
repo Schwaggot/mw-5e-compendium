@@ -12,8 +12,8 @@ See [Weapon Properties](../rules/weapon-properties.md) for the property keywords
 
 | Name                  | Damage                   | Misfire/Crit | Range | Weight | Properties                                                   | Req |
 |-----------------------|--------------------------|--------------|-------|--------|--------------------------------------------------------------|-----|
-| M67 Fragmentation     | 2d8 Force + 2d8 Piercing | 1-3/19-20    | 30 ft | 1.4 kg | 1H, Thrown, Deviation, Blast 10 ft                           | 3   |
 | AN-M14 TH3 Incendiary | 6d6 Fire                 | 1-3/20       | 30 ft | -      | 1H, Thrown, Deviation, Blast 5 ft, Duration 4 rounds, Ignite | 5   |
+| M67 Fragmentation     | 2d8 Force + 2d8 Piercing | 1-3/19-20    | 30 ft | 1.4 kg | 1H, Thrown, Deviation, Blast 10 ft                           | 3   |
 | M84 Flashbang         | 5d6 Bang + 5d6 Flash     | 1-3/20       | 30 ft | -      | 1H, Thrown, Deviation, Blast 10 ft                           | 2   |
 
 ## Raw Explosives

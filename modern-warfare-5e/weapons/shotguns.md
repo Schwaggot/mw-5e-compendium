@@ -45,12 +45,12 @@ See [Weapon Properties](../rules/weapon-properties.md) for the property keywords
 
 | Name                  | Gauge      | Damage | Misfire/Crit | Range | Properties                                                          | Req |
 |-----------------------|------------|--------|--------------|-------|---------------------------------------------------------------------|-----|
-| KAC Masterkey         | 12 ga slug | 2d12+2 | 1/19-20      | 25 ft | 2H, Recoil (16), Takedown, Unreliable, Imprecise, Reloading, Ammo 3 | 16  |
-| KAC Masterkey         | 12 ga shot | 6d4+1  | 1/20         | 25 ft | same                                                                | 16  |
 | Browning BPS Stalker  | 12 ga slug | 2d12+2 | 1/19-20      | 25 ft | 2H, Recoil (17), Takedown, Imprecise, Reloading, Ammo 4             | 6   |
 | Browning BPS Stalker  | 12 ga shot | 6d4+1  | 1/20         | 25 ft | same                                                                | 6   |
 | Browning BPS Stalker  | 10 ga slug | 3d10+2 | 1/18-20      | 30 ft | 2H, Recoil (18), Ammo 4                                             | 7   |
 | Browning BPS Stalker  | 10 ga shot | 5d6+1  | 1/20         | 30 ft | 2H, Recoil (18), Ammo 4                                             | 7   |
+| KAC Masterkey         | 12 ga slug | 2d12+2 | 1/19-20      | 25 ft | 2H, Recoil (16), Takedown, Unreliable, Imprecise, Reloading, Ammo 3 | 16  |
+| KAC Masterkey         | 12 ga shot | 6d4+1  | 1/20         | 25 ft | same                                                                | 16  |
 | Remington 870         | 20 ga slug | 2d8+2  | 1/19-20      | 20 ft | 2H, Recoil (13), Takedown, Dependable, Ammo 4                       | 4   |
 | Remington 870         | 20 ga shot | 4d4+1  | 1/20         | 20 ft | same                                                                | 4   |
 | Remington 870         | 16 ga slug | 2d10+2 | 1/19-20      | 25 ft | 2H, Recoil (14), Ammo 4                                             | 6   |
@@ -68,12 +68,6 @@ See [Weapon Properties](../rules/weapon-properties.md) for the property keywords
 
 | Name                 | Gauge      | Damage | Misfire/Crit | Range | Properties                                  | Req |
 |----------------------|------------|--------|--------------|-------|---------------------------------------------|-----|
-| Saiga 12K            | .410 slug  | 2d6+2  | 1/20         | 10 ft | 2H, Recoil (3), Ammo 8                      | 4   |
-| Saiga 12K            | .410 shot  | 3d4+1  | 1/20         | 10 ft | same                                        | 4   |
-| Saiga 12K            | 20 ga slug | 2d8+2  | 1/19-20      | 20 ft | 2H, Recoil (9), Ammo 8                      | 6   |
-| Saiga 12K            | 20 ga shot | 3d4+1  | 1/20         | 20 ft | same                                        | 6   |
-| Saiga 12K            | 12 ga slug | 2d12+2 | 1/19-20      | 25 ft | 2H, Recoil (16)                             | 8   |
-| Saiga 12K            | 12 ga shot | 6d4+1  | 1/20         | 25 ft | same                                        | 8   |
 | Benelli M1 Practical | 12 ga slug | 2d12+2 | 1/19-20      | 25 ft | 2H, Recoil (17), Ammo 8                     | 10  |
 | Benelli M1 Practical | 12 ga shot | 6d4+1  | 1/20         | 25 ft | same                                        | 10  |
 | Benelli M1 Tactical  | 12 ga slug | 2d12+2 | 1/19-20      | 25 ft | 2H, Recoil (16), Ammo 4                     | 8   |
@@ -94,3 +88,9 @@ See [Weapon Properties](../rules/weapon-properties.md) for the property keywords
 | Franchi SPAS-15      | 12 ga shot | 6d4+1  | 1/20         | 25 ft | same                                        | 45  |
 | Reutech Striker      | 12 ga slug | 2d12+2 | 1/19-20      | 25 ft | 2H, Recoil (17), Ammo 12, Select Fire S/B/A | 33  |
 | Reutech Striker      | 12 ga shot | 6d4+1  | 1/20         | 25 ft | same                                        | 33  |
+| Saiga 12K            | .410 slug  | 2d6+2  | 1/20         | 10 ft | 2H, Recoil (3), Ammo 8                      | 4   |
+| Saiga 12K            | .410 shot  | 3d4+1  | 1/20         | 10 ft | same                                        | 4   |
+| Saiga 12K            | 20 ga slug | 2d8+2  | 1/19-20      | 20 ft | 2H, Recoil (9), Ammo 8                      | 6   |
+| Saiga 12K            | 20 ga shot | 3d4+1  | 1/20         | 20 ft | same                                        | 6   |
+| Saiga 12K            | 12 ga slug | 2d12+2 | 1/19-20      | 25 ft | 2H, Recoil (16)                             | 8   |
+| Saiga 12K            | 12 ga shot | 6d4+1  | 1/20         | 25 ft | same                                        | 8   |
