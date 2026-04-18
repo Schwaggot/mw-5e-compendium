@@ -1,0 +1,45 @@
+# JetBrains IDEs (IntelliJ, WebStorm, PyCharm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Vim / Emacs
+*.swp
+*.swo
+*~
+.#*
+\#*#
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.Trash-*
+.nfs*
+
+# Editor backups and temp files
+*.bak
+*.tmp
+*.orig
+
+# Common build / export artifacts for markdown projects
+/dist/
+/build/
+/out/
+*.pdf
+*.html
+!modern-warfare-5e-compendium.html
