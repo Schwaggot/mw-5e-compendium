@@ -1,13 +1,12 @@
 # Modern Warfare (5E D&D)
 
-**Realistic modern Combat, D&D 5E Compendium**
+A Realistic Modern Combat, D&D 5E Compendium.
 
-*By Killbodies0313*
+*Original work by Killbodies0313*
 *Original source: https://www.gmbinder.com/share/-MDbF8cyWo5BA-obmIkf*
 *© 2020, published via GM Binder*
 
-> This document is a verbatim transcription of the original GM Binder compendium, with structure normalized for
-> markdown. Author's spelling and grammar have been preserved.
+*Transcription, edits, and additions by Schwaggot (2026)*
 
 ---
 
@@ -2014,4 +2013,6 @@ is a torso shot.
 
 *End of Compendium.*
 
-*Document published © 2020 via GM Binder. Original URL: https://www.gmbinder.com/share/-MDbF8cyWo5BA-obmIkf*
+*Original document © 2020 Killbodies0313, published via GM Binder. Original URL: https://www.gmbinder.com/share/-MDbF8cyWo5BA-obmIkf*
+
+*Transcription to markdown, structural changes, editorial notes, and further additions © 2026 Schwaggot, released under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/. See `LICENSE` in the repository for the full notice.*
