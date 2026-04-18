@@ -13,17 +13,34 @@ tables, lists, cross-references) and with further edits and adjustments made by 
 - **Original publication:** © 2020, via GM Binder
 - **This edition:** transcribed to markdown and subsequently edited by [Schwaggot](https://github.com/Schwaggot)
 
+## Reading the compendium
+
+The compendium lives under [`modern-warfare-5e/`](./modern-warfare-5e/home.md). Start at [
+`modern-warfare-5e/home.md`](./modern-warfare-5e/home.md) for a table of contents, or jump straight to a section:
+
+- [Character Creation](./modern-warfare-5e/character-creation.md)
+- [Operator Class](./modern-warfare-5e/operator-class.md)
+- [Combat Designations](./modern-warfare-5e/combat-designations.md)
+- [Training Programs](./modern-warfare-5e/training-programs.md)
+- [Weapons](./modern-warfare-5e/weapons.md)
+- [Armor](./modern-warfare-5e/armor.md)
+- [Gear](./modern-warfare-5e/gear.md)
+- [Rules](./modern-warfare-5e/rules.md)
+
+Open the `modern-warfare-5e/` folder as an Obsidian vault for in-session lookup, or browse it on GitHub.
+
 ## What has changed from the original
 
-- The original GM Binder document was transcribed into a single markdown file with a generated table of contents.
+- The original GM Binder document was transcribed into markdown and then split into topic files under
+  `modern-warfare-5e/`.
 - Layout-specific formatting from GM Binder has been replaced with standard markdown constructs (tables, lists,
   headings, block quotes).
 - Editorial notes have been added in a few places where the source text appears to contain typos or inconsistencies (for
   example, the armor proficiency entries for some Combat Designations). These notes are marked inline in italics.
 - Spelling, wording, and minor phrasing have been adjusted in places for clarity. Rules content is intended to match the
   original in substance.
-- Additional classes, skills, features, weapons, items etc. were added.
-- Weight units were converted from lbs to the metric system (kg).
+- Additional classes, skills, features, weapons, items etc. have been added.
+- Weight units have been converted from lbs to the metric system (kg).
 
 ## Licensing
 
