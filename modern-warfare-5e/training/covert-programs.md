@@ -19,7 +19,7 @@ tags: [training-program, covert]
 - **Level 3:** Sneak Attack increases to 4d6.
 - **Level 4:** Advantage on attacks against creatures who haven't acted yet. Any hit vs a surprised creature is a critical.
 - **Level 5:** Sneak Attack 6d6.
-- **Level 6:** On a Sneak Attack hit, target Dex save (DC 8 + Dex + Prof). Fail = double damage.
+- **Level 6:** On a Sneak Attack hit, target DEX save (DC 8 + DEX + Prof). Fail = double damage.
 
 ## Ambush Training 1-4
 

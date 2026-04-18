@@ -9,7 +9,7 @@ tags: [training-program, ranged]
 ## Automatic Weapons Training 1-5
 
 - **Level 1:** During Riddle and Spray firing modes, only suffer -4 per Target/Volley.
-- **Level 2:** Nominate Dex modifier + 1 when determining max targets/volleys during Riddle and Spray.
+- **Level 2:** Nominate DEX modifier + 1 when determining max targets/volleys during Riddle and Spray.
 - **Level 3:** Only -3 per Target/Volley.
 - **Level 4:** Fire max rounds during each burst; add 1 damage die to damage rolls.
 - **Level 5:** Only -2 per Target/Volley.

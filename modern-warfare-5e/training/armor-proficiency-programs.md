@@ -10,7 +10,7 @@ tags: [training-program, armor]
 
 - **Level 1:** Proficiency in Lite armor.
 - **Level 2:** +1 AC while wearing Lite.
-- **Level 3:** Expertise in Dex saves.
+- **Level 3:** Expertise in DEX saves.
 - **Level 4:** +1 AC while wearing Lite.
 
 ## Medium Armor Training 1-4
@@ -19,7 +19,7 @@ tags: [training-program, armor]
 
 - **Level 1:** Proficiency in Medium armor (as written in source: Heavy).
 - **Level 2:** +HP equal to your Proficiency.
-- **Level 3:** Expertise in Con saves.
+- **Level 3:** Expertise in CON saves.
 - **Level 4:** +HP equal to your Proficiency × 2.
 
 ## Heavy Armor Training 1-4

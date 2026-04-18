@@ -37,7 +37,7 @@ The following appear across most categories and follow the same rules in each.
 - **Silencer Threads (Req 10):** Removable suppressor. -1d4 damage per shot (min 1). Disadvantage for enemies to hear; inaudible past 100 ft.
 - **Flash Hider (Req 5):** Disadvantage on Perception to see muzzle flash.
 - **Compensator (Req 10):** Burst/auto negatives reduced by 1.
-- **Muzzle Break (Req 12):** +2 to damage rolls.
+- **Muzzle Brake (Req 12):** +2 to damage rolls.
 
 ### Stocks
 
@@ -85,5 +85,5 @@ The source lists each weapon class with its own available mod slots. The distrib
 - **Pistol:** Receiver, Sights (up to 6× Hybrid), Magazines (ext +10, quick), Muzzle, Trigger Housing, Underbarrel (Flash Lite, Laser Sight), Barrel.
 - **Bolt-Action Rifle:** Receiver, Sights (all), Muzzle, Stocks, Underbarrel (Fore Grip, Bipods, Angled Fore Grip), Trigger Housing (Comfort, No Slip), Barrel.
 - **Submachine Gun:** Receiver, Sights (up to 6× Hybrid), Magazines (ext +20, quick), Muzzle, Stocks, Underbarrel (Fore, Angled Fore, Angled Short), Trigger Housing (all, Select Fire), Side Rails, Barrel.
-- **Shotgun:** Receiver, Sights (Dot, 4× Scope, 4× Hybrid), Magazines (ext +10, drum +30, quick), Muzzle (Compensator, Muzzle Break), Stocks, Underbarrel (Fore, Angled Fore), Trigger Housing (Comfort, No Slip), Side Rails, Barrel.
+- **Shotgun:** Receiver, Sights (Dot, 4× Scope, 4× Hybrid), Magazines (ext +10, drum +30, quick), Muzzle (Compensator, Muzzle Brake), Stocks, Underbarrel (Fore, Angled Fore), Trigger Housing (Comfort, No Slip), Side Rails, Barrel.
 - **Machine Gun:** Receiver, Sights (Dot, 4× Scope, 4× Hybrid), Quick Mag, Muzzle, Stocks (all), Underbarrel (Fore, Bipods, Angled Fore, Angled Short), Trigger Housing (Comfort, No Slip), Side Rails, Barrel.

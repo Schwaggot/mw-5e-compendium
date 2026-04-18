@@ -8,7 +8,7 @@ tags: [rules, condition]
 
 Standard 5E conditions are repeated (abbreviated here where unchanged from core 5E): **Blinded**, **Charmed**, **Deafened**, **Frightened**, **Grappled**, **Incapacitated**, **Invisible**, **Paralyzed**, **Poisoned**, **Prone**, **Restrained**, **Stunned**, **Unconscious**. The compendium also adds or modifies the following:
 
-**Bleed:** At the start of turn lose 1 HP. Moving or attacking deals more bleed damage.
+**Bleed:** At the start of the turn, lose 1 HP. Moving or attacking deals more bleed damage.
 
 **Crouched:**
 
@@ -32,8 +32,8 @@ Standard 5E conditions are repeated (abbreviated here where unchanged from core 
 **Slowed:**
 
 - Movement halved (rounded down, min 5 ft).
-- Auto-fails Dex saves.
-- Attacks against have advantage.
+- Auto-fails DEX saves.
+- Attacks against it have advantage.
 
 ## Shaken
 
@@ -45,7 +45,7 @@ Stress damage condition with 5 levels.
 | 2      | Disadvantage on INT, WIS, CHA saves                  |
 | 3      | Disadvantage on all initiative checks                |
 | 4      | Disadvantage on STR/DEX checks and saves             |
-| Broken | Disadvantage on all attacks and Con checks and saves |
+| Broken | Disadvantage on all attacks and CON checks and saves |
 
 A creature suffers all effects up to its current level. Stress damage heals over rest. See [Damage Types](damage-types.md#stress-damage).
 

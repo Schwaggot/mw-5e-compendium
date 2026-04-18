@@ -27,12 +27,12 @@ Expend one use of the Trauma Bag and roll a Wisdom (Medicine) check DC 15. On pa
 Trauma Bag gains a third part holding 10 uses of your choice of the following:
 
 - **Combat Pill Pack:** 24 hours after consumption, gain advantage on all checks to resist disease or poison for 48 hours.
-- **Morphine:** Action; give to a creature within 5 ft or take yourself. Heals 6d6 HP on any triage code. Target must make a Con save (DC = HP restored) or fall unconscious, retesting each round. 3+ uses in 24 hours may cause addiction.
-- **Quick Clot:** Stops Bleed or Major Bleed. Target makes Con save DC 15 or falls unconscious, retesting each turn.
+- **Morphine:** Action; give to a creature within 5 ft or take yourself. Heals 6d6 HP on any triage code. Target must make a CON save (DC = HP restored) or fall unconscious, retesting each round. 3+ uses in 24 hours may cause addiction.
+- **Quick Clot:** Stops Bleed or Major Bleed. Target makes CON save DC 15 or falls unconscious, retesting each turn.
 - **Narcotics:** Action. Target regains 1d6 HP on use plus 1d6 for 3 additional rounds. Any triage code. 4+ uses in 24 hours may cause addiction.
 - **I.V. 500cc:** 1 minute to prep, up to 5 minutes to administer. Regain 1 HP every 2 rounds. Usable on Green, Yellow, Orange only.
 - **Liquid Skin Patch:** Action; heal 2d6 HP. Usable only on Triage Orange and Red.
-- **Epinephrine:** Action; on a creature reduced to 0 HP within the last 3 rounds, regain 6d4 HP. Usable only once per day safely - otherwise Con save (DC = HP gained), fail = unconscious for 10 rounds. 3+ uses/day = disadvantage on save; 4+ = target fails 3 death saves.
+- **Epinephrine:** Action; on a creature reduced to 0 HP within the last 3 rounds, regain 6d4 HP. Usable only once per day safely - otherwise CON save (DC = HP gained), fail = unconscious for 10 rounds. 3+ uses/day = disadvantage on save; 4+ = target fails 3 death saves.
 - **5 Days Diazepam:** After 5 consecutive days, each day's use lets you treat yourself as one Shaken level less than current, but not for healing purposes. See [Shaken](../rules/conditions.md#shaken).
 
 ## Practical Applications (10th)
@@ -45,7 +45,7 @@ Gain Expertise in Wisdom (Medicine) and a Corpsman's Bag with 3 parts:
 
 - IFAK with 15 uses and 4 tourniquets.
 - Trauma Bag with 10 uses.
-- Third part holds up to 20 corpsman-grade medical supply.
+- Third part holds up to 20 corpsman-grade medical supplies.
 
 Plus access to BAS equipment and supplies.
 

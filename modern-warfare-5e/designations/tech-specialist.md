@@ -25,7 +25,7 @@ During a long rest, modify your drone with a Technology (Int) DC 15 check. Pass 
 - **Night Vision:** Darkvision 120 ft, low-light 240 ft.
 - **Thermal:** Advantage spotting living creatures; disadvantage on all other sight perception rolls.
 - **Focused Microphone:** Hear through drone via headphones or speaker.
-- **Pistol Mount:** Mount a pistol on the drone. If you moved no more than 60 ft, make 1 ranged attack using operator Dex + Proficiency.
+- **Pistol Mount:** Mount a pistol on the drone. If you moved no more than 60 ft, make 1 ranged attack using operator DEX + Proficiency.
 - **Stealth Kit:** Advantage on Stealth rolls while operating.
 - **Armor Kit:** AC now 18.
 - **Structural Support:** +HP equal to your level.
@@ -42,7 +42,7 @@ You gain:
 
 ## Enhanced B1-RD (E B1-RD) (10th)
 
-- Mark targets equal to your Int bonus with your E B1-RD.
+- Mark targets equal to your INT bonus with your E B1-RD.
 - The E B1-RD may have 2 Upgrades active at once.
 
 ## MacGyver (15th)
@@ -52,5 +52,5 @@ With a Drone Repair Kit, create or maintain basic Tech devices in the field - au
 ## Tech Master (18th)
 
 - No movement test needed with your B1-RD.
-- Double Proficiency bonus on all Dex saves and checks with the B1-RD.
+- Double Proficiency bonus on all DEX saves and checks with the B1-RD.
 - Advantage on all Tech checks.

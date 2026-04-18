@@ -9,7 +9,7 @@ tags: [designation]
 **Proficiencies gained:**
 
 - Level 1 training in Weapon Proficiency Training: SAW, GPM, Heavy MG.
-- Save Training Level 1 in Con Saves.
+- Save Training Level 1 in CON Saves.
 - One level of training in Survival and Athletics.
 - T&E (Tool).
 
@@ -19,7 +19,7 @@ When using automatic weapons, you fire max rounds for each burst, allowing you t
 
 ## Beating Zone (7th)
 
-As an action with a SAW, GPM or Heavy Machine Gun, nominate a cube within the weapon's range. All targets in the cube make a Dex save; fail = full damage, pass = half. Size and DC depend on distance. If you would have had disadvantage on attack rolls this turn, enemies gain advantage on the save.
+As an action with a SAW, GPM, or Heavy Machine Gun, nominate a cube within the weapon's range. All targets in the cube make a DEX save; fail = full damage, pass = half. Size and DC depend on distance. If you would have had disadvantage on attack rolls this turn, enemies gain advantage on the save.
 
 | Normal Range Multiplier | Cube Size | Save DC                    |
 |-------------------------|-----------|----------------------------|
@@ -30,7 +30,7 @@ As an action with a SAW, GPM or Heavy Machine Gun, nominate a cube within the we
 
 ## Mass Suppression (10th)
 
-Use Suppressive Fire as a bonus action with a machine gun. You may target Dex modifier × 2 creatures.
+Use Suppressive Fire as a bonus action with a machine gun. You may target DEX modifier × 2 creatures.
 
 ## Machine Gun Expert (15th)
 

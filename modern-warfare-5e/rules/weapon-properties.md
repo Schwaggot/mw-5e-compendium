@@ -10,7 +10,7 @@ tags: [rules, weapon]
 
 **Accurate (-):** +N to all attack rolls with this weapon.
 
-**Deviation (-):** Nominate a point within range. Roll an attack vs AC 10 (+5 per range increment beyond first). On a miss, roll the scatter die and a deviation die (subtract Dex bonus, min 1); result = 5 ft increments deviated in scatter direction. At long range, targets have advantage on saves and deviation dice doubled.
+**Deviation (-):** Nominate a point within range. Roll an attack vs AC 10 (+5 per range increment beyond first). On a miss, roll the scatter die and a deviation die (subtract DEX bonus, min 1); result = 5 ft increments deviated in scatter direction. At long range, targets have advantage on saves and deviation dice doubled.
 
 **Range:** Attacks at normal range have no penalty. Beyond that, penalties scale.
 
@@ -33,7 +33,7 @@ tags: [rules, weapon]
 
 **Manual Action:** After firing, spend an action or sacrifice an attack to chamber the next round.
 
-**Blast (-ft):** Creatures within the radius make a Dex save DC 8 + proficiency + Dex mod (if proficient). Fail = full damage; pass = half.
+**Blast (-ft):** Creatures within the radius make a DEX save DC 8 + proficiency + DEX mod (if proficient). Fail = full damage; pass = half.
 
 **Braced:** Disadvantage on attack rolls unless braced (bipod, wall, sandbags, etc.).
 
@@ -43,7 +43,7 @@ tags: [rules, weapon]
 
 **Inaccurate (-):** -N penalty to attack rolls with this weapon.
 
-**Engulf (-ft):** Cone; targets make Dex save DC 8 + Dex + Prof; pass = half damage.
+**Engulf (-ft):** Cone; targets make DEX save DC 8 + DEX + Prof; pass = half damage.
 
 **Misfire:** Natural roll at or below misfire = attack misses; roll d100 on the misfire chart.
 
@@ -56,7 +56,7 @@ tags: [rules, weapon]
 | 16-60  | Jammed. Action + DC 10 Dex check. Fail = treat as 21-45%                                                                               |
 | 61-100 | Weapon fine; you just missed                                                                                                           |
 
-**Takedown:** On damage, target Con save (DC = damage). Fail = Prone.
+**Takedown:** On damage, target CON save (DC = damage). Fail = Prone.
 
 **Quirky:** Non-proficient users fire at disadvantage.
 

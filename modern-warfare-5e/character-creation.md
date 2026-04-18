@@ -170,7 +170,7 @@ Once you make a decision, you back it with everything you've got.
 
 - +2 Wisdom, -2 Dexterity.
 - Proficiency in Survival.
-- Gain a +2 to all Wisdom and Con saves.
+- Gain a +2 to all Wisdom and CON saves.
 
 ### Vigilant
 

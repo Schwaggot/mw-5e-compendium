@@ -9,7 +9,7 @@ tags: [designation]
 **Proficiencies gained:**
 
 - One level of training in 2 different Weapon Proficiency Training.
-- Save Training Level 1 in Con Saves.
+- Save Training Level 1 in CON Saves.
 - One level of training in 2 different Skills Training.
 - LBS (Tools).
 
@@ -19,7 +19,7 @@ Re-roll a single skill check. Uses equal to your Intelligence modifier + Profici
 
 ## Close with and Destroy (7th)
 
-When you use an assault rifle during an attack, use your bonus action to make an extra attack that turn. Furthermore Assault Rifles have the CQC Property.
+When you use an assault rifle during an attack, use your bonus action to make an extra attack that turn. Furthermore, Assault Rifles have the CQC Property.
 
 ## Assault Rifle Master (10th)
 

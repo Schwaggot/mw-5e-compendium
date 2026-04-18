@@ -8,7 +8,7 @@ tags: [training-program, martial]
 
 ## Unarmed Training 1-5
 
-- **Level 1:** Proficient with unarmed strikes. Unarmed attacks deal 1d4 and may use Dex or Str for attack and damage.
+- **Level 1:** Proficient with unarmed strikes. Unarmed attacks deal 1d4 and may use DEX or STR for attack and damage.
 - **Level 2:** On an unarmed hit, use a bonus action to grapple.
 - **Level 3:** Unarmed strikes become 1d6.
 - **Level 4:** Advantage on attack rolls against grappled creatures. Action to pin (another grapple check). If successful both are restrained until grapple ends.
@@ -30,18 +30,18 @@ Spend Brawler Points for techniques. Unavailable until a short or long rest is f
 
 ## Brawler Techniques
 
-Brawler Technique Save DC = 8 + Proficiency Bonus + Dex or Strength modifier (your choice).
+Brawler Technique Save DC = 8 + Proficiency Bonus + DEX or Strength modifier (your choice).
 
 - **Double Strike:** After Attack action, spend 1 Brawler point for one unarmed strike, or 2 points for 2 unarmed attacks as a bonus action.
 - **Sturdy Defense:** 1 point. Dodge action as a bonus action.
 - **Reposition:** 1 point. Disengage or Dash as a bonus action.
-- **Stunning Strike:** 2 points on an unarmed/brawler hit. Target Con save or Stunned until end of your next turn.
+- **Stunning Strike:** 2 points on an unarmed/brawler hit. Target CON save or Stunned until end of your next turn.
 - **Accurate Strike:** 1 point for advantage on next unarmed attack.
-- **Knock Out:** 4 points on an unarmed hit. Target Con save or unconscious, retesting each of your turns.
+- **Knock Out:** 4 points on an unarmed hit. Target CON save or unconscious, retesting each of your turns.
 - **Solid Strike:** 3 points before an unarmed/brawler attack. If it hits, double the damage.
-- **Disarming Strike:** 2 points on a melee attack. On hit, target takes normal damage; Str save or drop one held object.
+- **Disarming Strike:** 2 points on a melee attack. On hit, target takes normal damage; STR save or drop one held object.
 - **Defense:** 1 point. Dodge as a bonus action.
-- **Trip:** 1 point on an unarmed hit. Target Dex save or knocked prone.
+- **Trip:** 1 point on an unarmed hit. Target DEX save or knocked prone.
 
 ## Close Quarters Battle (CQB) Training 1-4
 

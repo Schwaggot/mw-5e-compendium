@@ -12,11 +12,11 @@ The B-1 Recon Drone (B1-RD or "bird") is a small man-portable 4-rotor drone weig
 
 - Only passive skills apply during operation.
 - Drone vision grants +5 Perception through the drone.
-- DC 15 Dex (B1-RD tools) check to move the drone 60 ft; DC 20 for 120 ft dash. On fail, move half that turn (plus disadvantage on perception).
+- DC 15 DEX (B1-RD tools) check to move the drone 60 ft; DC 20 for 120 ft dash. On fail, move half that turn (plus disadvantage on perception).
 - Hover as a free action; land on a surface within 60 ft as a bonus action.
-- Stats: AC 15, 10 HP, Dex saves use operator Dex + Prof (if proficient).
+- Stats: AC 15, 10 HP, DEX saves use operator DEX + Prof (if proficient).
 - Battery: 1 hour flight. Recharge with a long rest + power source.
-- If destroyed and recovered: short rest + Drone Repair Kit + DC 15 Technology (Int) check (+1 per 20 ft fallen). Fail = one more attempt during a long rest at DC 20 + fall modifier. Second fail = unrepairable.
+- If destroyed and recovered: short rest + Drone Repair Kit + DC 15 Technology (INT) check (+1 per 20 ft fallen). Fail = one more attempt during a long rest at DC 20 + fall modifier. Second fail = unrepairable.
 
 ## Standard Gear Issue
 

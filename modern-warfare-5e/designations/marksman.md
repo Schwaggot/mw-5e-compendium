@@ -9,7 +9,7 @@ tags: [designation]
 **Proficiencies gained:**
 
 - Level 1 training in Weapon Proficiency Training: Bolt Action Rifles, Single Shot Rifles.
-- Save Training Level 1 in Wis Saves.
+- Save Training Level 1 in WIS Saves.
 - One level of training in Perception and Stealth.
 - Spotting Scope (tool).
 
@@ -19,7 +19,7 @@ As an action, fire one shot from a Single Shot or Bolt Action rifle - if it hits
 
 ## Stalker (7th)
 
-When using a ghillie suit in appropriate environment, gain +10 to Stealth (instead of +5). Outside of 500 ft (instead of 1000 ft) you are considered invisible.
+When using a ghillie suit in an appropriate environment, gain +10 to Stealth (instead of +5). Outside of 500 ft (instead of 1000 ft) you are considered invisible.
 
 ## One Shot One Kill (10th)
 
@@ -27,7 +27,7 @@ When dealing damage with a Critical Shot, the target may be forced into a Consti
 
 ## Master Stalker (15th)
 
-With a ghillie suit in appropriate environment, gain +10 to Stealth; outside 250 ft you are considered invisible.
+With a ghillie suit in an appropriate environment, gain +10 to Stealth; outside 250 ft you are considered invisible.
 
 ## Master Marksman (18th)
 

@@ -10,12 +10,12 @@ tags: [armor, equipment]
 
 | Type                            | AC               | Modifiers                                             | Stealth      | Resistances                            | Coverage                       | Plates              | Weight  | Req |
 |---------------------------------|------------------|-------------------------------------------------------|--------------|----------------------------------------|--------------------------------|---------------------|---------|-----|
-| Plate Carrier (Light)           | 12 + Dex         | -                                                     | -            | Piercing, Slashing                     | Torso                          | Torso Plates        | 5.5 kg  | 5   |
-| Flak Jacket (Light)             | 13 + Dex (max 3) | -                                                     | -            | Piercing, Slashing                     | Chest, Back, Groin             | Torso + Side        | 7.5 kg  | 10  |
-| Medium Flak                     | 14 + Dex (max 2) | -                                                     | Disadvantage | Piercing, Slashing                     | Chest, Back, Groin             | Torso F/B, Side × 2 | 12 kg   | 15  |
-| Medium Flak w/ Shoulders        | 15 + Dex (max 2) | -                                                     | Disadvantage | Piercing, Slashing                     | Chest, Back, Arms, Groin       | Torso F/B, Side × 2 | 14.5 kg | 20  |
-| Medium Flak w/ Shoulders & Legs | 16               | Disadvantage on Dex saves                             | Disadvantage | Piercing, Slashing                     | Chest, Back, Arms, Legs, Groin | Torso F/B, Side × 2 | 14.5 kg | 25  |
-| Bomb Suit                       | 18               | -10 ft movement, disadvantage on Dex saves and checks | Disadvantage | Bludgeoning, Piercing, Slashing, Force | Chest, Back, Arms, Legs, Groin | Torso F/B, Side     | 40 kg   | 40  |
+| Plate Carrier (Light)           | 12 + DEX         | -                                                     | -            | Piercing, Slashing                     | Torso                          | Torso Plates        | 5.5 kg  | 5   |
+| Flak Jacket (Light)             | 13 + DEX (max 3) | -                                                     | -            | Piercing, Slashing                     | Chest, Back, Groin             | Torso + Side        | 7.5 kg  | 10  |
+| Medium Flak                     | 14 + DEX (max 2) | -                                                     | Disadvantage | Piercing, Slashing                     | Chest, Back, Groin             | Torso F/B, Side × 2 | 12 kg   | 15  |
+| Medium Flak w/ Shoulders        | 15 + DEX (max 2) | -                                                     | Disadvantage | Piercing, Slashing                     | Chest, Back, Arms, Groin       | Torso F/B, Side × 2 | 14.5 kg | 20  |
+| Medium Flak w/ Shoulders & Legs | 16               | Disadvantage on DEX saves                             | Disadvantage | Piercing, Slashing                     | Chest, Back, Arms, Legs, Groin | Torso F/B, Side × 2 | 14.5 kg | 25  |
+| Bomb Suit                       | 18               | -10 ft movement, disadvantage on DEX saves and checks | Disadvantage | Bludgeoning, Piercing, Slashing, Force | Chest, Back, Arms, Legs, Groin | Torso F/B, Side     | 40 kg   | 40  |
 
 ## Helmets
 
@@ -29,9 +29,9 @@ tags: [armor, equipment]
 
 | Gloves           | AC | Modifiers                                      | Resistances                            | Weight | Req |
 |------------------|----|------------------------------------------------|----------------------------------------|--------|-----|
-| Tactical/Leather | -  | -2 to Dex checks with hands                    | Slashing                               | 0.2 kg | 1   |
-| Carbon Fiber     | -  | -2 to Dex checks with hands, +1 unarmed damage | Piercing, Slashing                     | 0.2 kg | 2   |
-| Bomb Suit Gloves | +2 | Disadvantage on Dex-based tests with hands     | Force, Piercing, Slashing, Bludgeoning | 1.8 kg | 10  |
+| Tactical/Leather | -  | -2 to DEX checks with hands                    | Slashing                               | 0.2 kg | 1   |
+| Carbon Fiber     | -  | -2 to DEX checks with hands, +1 unarmed damage | Piercing, Slashing                     | 0.2 kg | 2   |
+| Bomb Suit Gloves | +2 | Disadvantage on DEX-based tests with hands     | Force, Piercing, Slashing, Bludgeoning | 1.8 kg | 10  |
 
 ## Boots
 
