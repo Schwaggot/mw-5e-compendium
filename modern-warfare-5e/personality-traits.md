@@ -57,6 +57,26 @@ You're so tricky that you sometimes amaze even yourself.
 - Proficiency in History.
 - Proficiency in Insight.
 
+## Commanding
+
+You're a natural squad leader. When the shooting starts and the plan falls apart, people look to you to call the next
+move.
+
+- +2 Charisma, -2 Dexterity.
+- Proficiency in Persuasion.
+- Once per short rest, as a bonus action, you may grant an ally within 30 ft a +2 bonus to their next attack roll or
+  saving throw.
+
+## Connected
+
+You know people - across agencies, cities, and the wrong side of the tracks, there's almost always someone who owes you
+a favor.
+
+- +2 Charisma, -2 Constitution.
+- Proficiency in your pick of Persuasion or Deception.
+- Once per session, you may invoke a contact: the GM works with you to define a useful acquaintance, a small favor, or a
+  piece of local information.
+
 ## Convincing
 
 Your earnest presence makes you the envy of used car salesmen everywhere.
@@ -126,6 +146,14 @@ You're a gruff and intimidating figure, and if the world hasn't killed you yet, 
 - Base AC increases by 1.
 - +1 hit point per level.
 
+## Lucky
+
+Call it providence, call it a guardian angel - things just tend to work out for you when they really shouldn't.
+
+- +2 to any 1 attribute, -2 to any 1 attribute.
+- Once per long rest, you may reroll any d20 - your own roll, or an attack roll made against you - and use either
+  result.
+
 ## Mysterious
 
 You probably smile a lot - just to make people nervous about your motives.
@@ -148,6 +176,22 @@ Once you make a decision, you back it with everything you've got.
 - +2 Wisdom, -2 Dexterity.
 - Proficiency in Survival.
 - +2 to all Wisdom and Constitution saves.
+
+## Steady
+
+Bullets snap past, mortars fall close, and your pulse barely moves. You were built for this.
+
+- +2 Constitution, -2 Charisma.
+- Advantage on saves against being Frightened and against gaining [Shaken](rules/conditions.md#shaken) levels from
+  stress damage.
+
+## Stoic
+
+You're a closed book. Threats, insults, and pressure all wash over you without leaving a mark.
+
+- +2 Wisdom, -2 Intelligence.
+- Proficiency in Insight.
+- Advantage on saves and opposed checks to resist Intimidation, Persuasion, Deception, and being Charmed.
 
 ## Vigilant
 
