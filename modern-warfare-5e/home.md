@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare 5E Compendium
-aliases: [Home, Index]
-tags: [moc]
+aliases: [ Home, Index ]
+tags: [ moc ]
 ---
 
 # Modern Warfare 5E Compendium
@@ -27,8 +27,13 @@ The homebrew rules set for realistic modern combat in D&D 5E. Use the index belo
 
 - [Weapons](weapons.md) - firearms, launchers, grenades, and explosives by category.
 - [Armor](armor.md) - torso armor, plates, helmets, add-on soft armor, and ballistic shields.
-- [Gear](gear.md) - mission kits, clothing, packs, field kit, comms, optics, electronics, medical, demolitions, and drones.
+- [Gear](gear.md) - mission kits, clothing, packs, field kit, comms, optics, electronics, medical, demolitions, and
+  drones.
 
 ## Rules
 
 - [Rules](rules.md) - weapon properties, modifications, combat actions, conditions, and damage types.
+
+## Reference
+
+- [Abbreviations](abbreviations.md) - glossary of acronyms, initialisms, and unit symbols used across the compendium.
