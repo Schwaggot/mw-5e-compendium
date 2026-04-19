@@ -6,11 +6,11 @@ tags: [ clothing, equipment ]
 
 # Clothing
 
-Everyday and operational apparel for Operators. Clothing is always worn under [armor](armor.md) - an Operator never has
+Everyday and operational apparel for Operators. Clothing is always worn under [armor](../armor.md) - an Operator never has
 a bare chest or feet beneath a plate carrier. Clothing doesn't contribute AC on its own; instead, every item carries
 tags that the GM uses to rule on situational advantage/disadvantage.
 
-Protective footwear and gloves live here too, with a separate stat schema. See [Armor](armor.md) for torso armor,
+Protective footwear and gloves live here too, with a separate stat schema. See [Armor](../armor.md) for torso armor,
 helmets, and plates.
 
 ## Quick Outfits
@@ -77,7 +77,7 @@ Ballistic eyewear grants resistance to flashbang and debris-based blindness at G
 | Fur trapper hat   | Civilian | 0.3 kg | civilian, insulated     |
 | Wide-brim sun hat | Civilian | 0.2 kg | civilian, ventilated    |
 
-Combat helmets are under [Armor - Helmets](armor.md#helmets).
+Combat helmets are under [Armor - Helmets](../armor.md#helmets).
 
 ## Eyewear
 

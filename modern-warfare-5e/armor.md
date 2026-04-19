@@ -6,8 +6,8 @@ tags: [ armor, equipment ]
 
 # Armor and Protective Gear
 
-For protective gloves and boots, see [Clothing - Gloves](clothing.md#gloves)
-and [Clothing - Footwear](clothing.md#footwear).
+For protective gloves and boots, see [Clothing - Gloves](gear/clothing.md#gloves)
+and [Clothing - Footwear](gear/clothing.md#footwear).
 
 ## Stopping Power (NIJ Levels)
 

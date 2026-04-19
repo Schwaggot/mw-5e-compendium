@@ -6,7 +6,7 @@ tags: [ moc, gear, equipment ]
 
 # Gear
 
-Packs, field kit, comms, optics, electronics, medical, demolitions, and drones. Item effects are primarily narrative -
+Clothing, packs, field kit, comms, optics, electronics, medical, demolitions, and drones. Item effects are primarily narrative -
 each item carries tags that the GM uses to rule on situational advantage, access, or capability. Weight values are
 provided so Operators can track encumbrance.
 
@@ -63,6 +63,7 @@ Add the row matching your designation to your inventory instead of tracking the 
 
 ## Gear Index
 
+- [Clothing](gear/clothing.md) - civilian, military, and tactical apparel, including protective gloves and boots.
 - [Packs](gear/packs.md) - rucksacks, assault packs, chest rigs, battle belts, pouches.
 - [Field Kit](gear/field-kit.md) - standard-issue items, canteens, sleeping bags, multi-tools, flashlights.
 - [Consumables](gear/consumables.md) - rations, drinks, stimulants, vices, and cooking fuel.

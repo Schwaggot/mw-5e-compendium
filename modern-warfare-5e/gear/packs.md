@@ -40,7 +40,7 @@ Eagle CIRAS) and skip the separate rig entirely.
 
 ## Belts and Pouches
 
-The battle belt overlaps with the riggers and pistol belts under [Clothing - Belts](../clothing.md#belts). The
+The battle belt overlaps with the riggers and pistol belts under [Clothing - Belts](clothing.md#belts). The
 difference is padding and MOLLE-compatibility: a battle belt is built to mount pouches and a holster, while a riggers or
 pistol belt serves the same role with clip-on attachments. Pick one belt system, not both. Most pouches listed here are
 modular and also mount on the chest rigs above or on a [plate carrier](../armor.md#plate-carriers).
