@@ -15,7 +15,10 @@ Rules references pulled into one section for quick lookup during play.
 - [Ability Checks](rules/ability-checks.md) - rolling a check, the DC ladder, contested and passive checks.
 - [Saving Throws](rules/saving-throws.md) - what a save is, the six save types, and Save DCs.
 - [Advantage and Disadvantage](rules/advantage.md) - 2d20 take higher / take lower, stacking rule, common sources.
+- [Combat Turn](rules/combat-turn.md) - initiative, surprise, the action / bonus action / reaction economy.
+- [Movement](rules/movement.md) - speed, difficult terrain, prone and crouched, dash, disengage, climb and jump.
 - [Cover](rules/cover.md) - half / three-quarters / full cover, concealment, and how cover is granted or defeated.
+- [Vision and Light](rules/vision-and-light.md) - bright / dim / darkness, obscurement, NVG, thermal, smoke.
 - [Hit Points](rules/hit-points.md) - HP, Triage Code, going down at 0 HP, death saves, and stabilization.
 - [Rest](rules/rest.md) - short and long rests, Hit Dice spending, and feature recovery.
 
