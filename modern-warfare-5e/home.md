@@ -10,7 +10,8 @@ The homebrew rules set for realistic modern combat in D&D 5E. Use the index belo
 
 ## Character
 
-- [Character Creation](character-creation.md) - attributes and personality traits.
+- [Character Creation](character-creation.md) - attributes and point-buy.
+- [Personality Traits](personality-traits.md) - Race pick; each trait's attribute adjustments and proficiencies.
 - [Operator Class](operator-class.md) - core class features, training, and progression.
 
 ## Combat Designations
