@@ -15,6 +15,8 @@ tags: [designation]
 
 ## Combat Trauma Trained (3rd)
 
+See [Medical Supplies](../gear/medical.md) for the full catalog of trauma items.
+
 You get a Trauma Bag with 2 parts:
 
 - IFAK with 10 uses and 2 Tourniquets.

@@ -26,7 +26,7 @@ The homebrew rules set for realistic modern combat in D&D 5E. Use the index belo
 - [Weapons](weapons.md) - firearms, launchers, grenades, and explosives by category.
 - [Armor](armor.md) - torso armor, plates, helmets, add-on soft armor, and ballistic shields.
 - [Clothing](clothing.md) - civilian, military, and tactical apparel, including protective gloves and boots.
-- [Gear](gear.md) - standard-issue equipment and the B-1 Recon Drone.
+- [Gear](gear.md) - mission kits, packs, field kit, comms, optics, electronics, medical, demolitions, and drones.
 
 ## Rules
 

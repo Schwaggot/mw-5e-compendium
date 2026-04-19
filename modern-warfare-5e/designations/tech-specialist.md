@@ -30,7 +30,7 @@ During a long rest, modify your drone with a Technology (Int) DC 15 check. Pass 
 - **Armor Kit:** AC now 18.
 - **Structural Support:** +HP equal to your level.
 
-See also the [B-1 Recon Drone](../gear.md#b-1-recon-drone) base stats.
+See also the [B-1 Recon Drone](../gear/drones.md#b-1-recon-drone) base stats.
 
 ## Tech Package (7th)
 

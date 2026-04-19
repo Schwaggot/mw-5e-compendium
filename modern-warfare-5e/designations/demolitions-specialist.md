@@ -19,6 +19,8 @@ When rolling damage for a Rocket, Grenade, Grenade Launcher, Mine, or Raw Explos
 
 ## Explosive Bag (7th)
 
+See [Demolitions](../gear/demolitions.md) for the full catalog of charges, initiators, and accessories.
+
 Access to an Explosives Bag from the ASP. You may carry 5 items (10 at 10th level). Available items:
 
 - **Bow Tie:** Small bow-tie-shaped det cord charge. Gain advantage and +20 to the Strength check to break a lock. Timed charge.
