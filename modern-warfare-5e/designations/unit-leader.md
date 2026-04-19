@@ -71,7 +71,7 @@ use their reactions. You may suppress one extra target per character that joined
 
 **Rally.** Bonus action. Expend a Leadership Die to pick an ally within 30 ft. They regain Leadership Die + Charisma
 modifier HP (only if at Triage Yellow or Green). May target multiple at 1 die each.
-See [Triage Code](../rules/conditions.md#triage-code).
+See [Triage Code](../rules/hit-points.md#triage-code).
 
 **Double Time.** On your turn, pick willing targets within 60 ft and expend one die per target. They may dash as a bonus
 action. Roll Leadership Die - lasts that many rounds.

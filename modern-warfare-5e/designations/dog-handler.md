@@ -22,7 +22,7 @@ Gain a Level 1 Military war dog. Choose the **Tracking Dog** or the **Attack Dog
 its turn on your initiative but doesn't act unless commanded. You can verbally command it to move (no action). Use your
 action to command Attack, Dash, Disengage, Dodge, or Help. Once you have Extra Attack, you may substitute a dog's attack
 for one or all of your attacks. War dogs follow triage healing rules naturally. If it dies, you may request another by
-command. See [Triage Code](../rules/conditions.md#triage-code).
+command. See [Triage Code](../rules/hit-points.md#triage-code).
 
 ## War Dog Training (7th)
 

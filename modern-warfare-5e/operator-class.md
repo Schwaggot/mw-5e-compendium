@@ -95,7 +95,7 @@ one more trait at Levels 10 and 20. You may take the same style more than once.
 
 You have a limited well of stamina. On your turn you can use a bonus action to regain hit points equal to 1d10 + your
 class level. Once used, you must finish a short or long rest before you can use it again. May only be used if you are at
-Triage code Orange or better. See [Triage Code](rules/conditions.md#triage-code).
+Triage code Orange or better. See [Triage Code](rules/hit-points.md#triage-code).
 
 ## Operator Training
 

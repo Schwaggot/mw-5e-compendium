@@ -106,5 +106,5 @@ intimidation effects, INT for technical attacks.
   suppression, interrogation, and disorientation.
 - Class-locked save proficiencies become Save Training Programs. Every Operator starts with STR and DEX trained, and can
   pick up the others as they level.
-- Death saves work as in classic 5E (see [Conditions - Triage Code](conditions.md#triage-code) for how dying is handled
-  in this compendium).
+- Death saves work as in classic 5E (see [Hit Points - Going Down at 0 HP](hit-points.md#going-down-at-0-hp) for how
+  dying is handled in this compendium).

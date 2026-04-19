@@ -61,7 +61,7 @@ level-ups), or may be purchased at character creation as a Level 2 Training Prog
   creature within 5 ft: DC 10 to end Bleed, DC 15 to end Major Bleed.
 - **Action:** Spend one use of an IFAK to tend a wound on a creature within 5 ft. Make a DC 15 WIS (Medicine) check; on
   success, the creature regains 1d6 + your WIS modifier HP. Only works on creatures at Triage Code Green, Yellow, or
-  Orange (see [Triage Code](../rules/conditions.md#triage-code)). The die scales to 2d6 at 7th level, 3d6 at 14th, and
+  Orange (see [Triage Code](../rules/hit-points.md#triage-code)). The die scales to 2d6 at 7th level, 3d6 at 14th, and
   4d6 at 20th.
 
 ## Radio Operations Training 1-4

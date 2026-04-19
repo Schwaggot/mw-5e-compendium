@@ -12,6 +12,7 @@ The homebrew rules set for realistic modern combat in D&D 5E. Use the index belo
 
 - [Character Creation](character-creation.md) - attributes and point-buy.
 - [Personality Traits](personality-traits.md) - Race pick; each trait's attribute adjustments and proficiencies.
+- [Backgrounds](backgrounds.md) - pre-unit career; grants a fixed Level 1 Training Program and a narrative feature.
 - [Operator Class](operator-class.md) - core class features, training, and progression.
 
 ## Combat Designations
