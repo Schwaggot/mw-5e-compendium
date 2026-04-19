@@ -81,21 +81,22 @@ In your initial training during the unit endoc you picked up on a few styles of 
 one more trait at Levels 10 and 20. You may take the same style more than once.
 
 - **Marksman:** +2 bonus to attack rolls made with ranged weapons.
-- **Defense:** +1 bonus to AC.
-- **Dirty Fighting:** When a creature within 5 feet of you attacks, you can use your reaction to impose disadvantage on
-  a single attack.
+- **Defense:** +1 bonus to [AC](armor.md).
+- **Dirty Fighting:** When a creature within 5 feet of you attacks, you can use your
+  [reaction](rules/combat-turn.md#reactions) to impose [disadvantage](rules/advantage.md) on a single attack.
 - **Dueling:** When wielding a melee weapon in one hand and nothing in the other, gain +2 to damage rolls with that
   weapon.
 - **Two-Weapon Fighting:** When engaged in two-weapon fighting, add your ability modifier to the damage of the second
   attack.
-- **Mobility:** +5 ft movement.
+- **Mobility:** +5 ft [movement](rules/movement.md).
 - **Strong Throw:** When using a thrown weapon, always count as having 1 less range multiple (minimum 1).
 
 ## Second Wind
 
-You have a limited well of stamina. On your turn you can use a bonus action to regain hit points equal to 1d10 + your
-class level. Once used, you must finish a short or long rest before you can use it again. May only be used if you are at
-Triage code Orange or better. See [Triage Code](rules/hit-points.md#triage-code).
+You have a limited well of stamina. On your turn you can use a [bonus action](rules/combat-turn.md#bonus-actions) to
+regain hit points equal to 1d10 + your class level. Once used, you must finish a [short or long rest](rules/rest.md)
+before you can use it again. May only be used if you are at Triage code Orange or better.
+See [Triage Code](rules/hit-points.md#triage-code).
 
 ## Operator Training
 
@@ -106,7 +107,7 @@ See [Training Programs](training-programs.md).
 ## Action Surge
 
 Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one
-additional action on top of your regular action and possible bonus action.
+additional [action](rules/combat-turn.md#actions) on top of your regular action and possible bonus action.
 
 ## Combat Designation
 
@@ -116,13 +117,14 @@ level. See [Combat Designations](combat-designations.md).
 
 ## Extra Attack
 
-At 5th level, you can attack twice, instead of once, when you take the Attack action. Increases to three attacks at 11th
-level and four attacks at 20th level.
+At 5th level, you can attack twice, instead of once, when you take the
+[Attack action](rules/combat-turn.md#actions). Increases to three attacks at 11th level and four attacks at 20th level.
 
 ## Indomitable
 
-Beginning at 9th level, reroll a failed saving throw (use the new roll). Cannot be used again until a long rest. Usable
-twice between long rests starting at 13th level and three times starting at 17th level.
+Beginning at 9th level, reroll a failed [saving throw](rules/saving-throws.md) (use the new roll). Cannot be used again
+until a [long rest](rules/rest.md#long-rest). Usable twice between long rests starting at 13th level and three times
+starting at 17th level.
 
 ## Resourceful
 

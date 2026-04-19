@@ -33,8 +33,9 @@ None of this costs points. It shapes the picks you make below.
 
 ## Step 2 - Attributes
 
-Your character's most basic strengths and weaknesses are defined by six attributes - Strength (STR), Dexterity (DEX),
-Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA) - each of which begins with a score of 8 to 18.
+Your character's most basic strengths and weaknesses are defined by six [attributes](rules/attributes.md) - Strength
+(STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA) - each of which begins
+with a score of 8 to 18.
 
 Your character's attribute scores begin at 8 each. You may spend 36 points to increase these scores, as shown in the
 table below.
@@ -176,9 +177,9 @@ specialization path within the designation.
 
 Before the first session, sanity-check the sheet:
 
-- Recompute **AC** using your armor + any trait bonuses.
-- Recompute **movement** using base speed + any trait or Basic Training bonuses.
-- Note your **Proficiency Bonus** from the Operator Class table (+2 at levels 1-4).
+- Recompute **AC** using your [armor](armor.md) + any trait bonuses.
+- Recompute **[movement](rules/movement.md)** using base speed + any trait or Basic Training bonuses.
+- Note your **[Proficiency Bonus](rules/proficiency.md)** from the Operator Class table (+2 at levels 1-4).
 - Write down what Second Wind, Action Surge, and any designation features actually do, so you don't stall in combat.
 
 > **Example:** Kevin totals his sheet: HP 21, AC from medium flak with plates, movement 35 ft (30 base + 5 from Agile),

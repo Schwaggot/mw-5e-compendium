@@ -612,7 +612,8 @@ Pins, wafers, and a box of tools that looks harmless in a briefcase.
 Ten hours of asphalt, diesel, and truck-stop coffee.
 
 - [Cardio Training](training/physical-fitness-programs.md#cardio-training-1-4) Level 1.
-- Licensed on every civilian vehicle class. Six hours in a sleeper cab counts as a long rest for you.
+- Licensed on every civilian vehicle class. Six hours in a sleeper cab counts as a [long rest](rules/rest.md#long-rest)
+  for you.
 
 ### Makeup Artist
 

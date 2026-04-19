@@ -19,8 +19,10 @@ tags: [ designation ]
 ## Man's Best Friend (3rd)
 
 Gain a Level 1 Military war dog. Choose the **Tracking Dog** or the **Attack Dog** (stat blocks below). The dog takes
-its turn on your initiative but doesn't act unless commanded. You can verbally command it to move (no action). Use your
-action to command Attack, Dash, Disengage, Dodge, or Help. Once you have Extra Attack, you may substitute a dog's attack
+its turn on your [initiative](../rules/combat-turn.md#rolling-initiative) but doesn't act unless commanded. You can
+verbally command it to move (no action). Use your action to command
+[Attack, Dash, Disengage, Dodge, or Help](../rules/combat-turn.md#actions). Once you have Extra Attack, you may
+substitute a dog's attack
 for one or all of your attacks. War dogs follow triage healing rules naturally. If it dies, you may request another by
 command. See [Triage Code](../rules/hit-points.md#triage-code).
 

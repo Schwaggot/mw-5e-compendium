@@ -23,8 +23,8 @@ panel's rating; rifle plate stopping power is listed separately under [Plates](#
 | III+  | + 5.56 M855 and 7.62×39 MSC "green tip" steel-core.                 |
 | IV    | .30-06 AP and most armor-piercing rifle rounds.                     |
 
-AC bonus and DR from armor/plates apply only to the side/slot they cover. The GM adjudicates which piece catches a given
-hit.
+AC bonus and [DR](rules/damage-types.md#damage-reduction) from armor/plates apply only to the side/slot they cover. The
+GM adjudicates which piece catches a given hit.
 
 ## Torso Armor
 
@@ -128,6 +128,7 @@ Additional soft-armor pieces that attach to a carrier or vest.
 
 Hand-held shields for breaching and protective details. A shield grants its AC bonus only against attacks from the
 covered side, and occupies one hand - you cannot wield a two-handed weapon while carrying one.
+See [Cover](rules/cover.md#granting-cover) for how shields and ballistic blankets create cover for allies.
 
 | Shield                             | AC | Stops | Modifiers                                                                                           | Weight | Req |
 |------------------------------------|----|-------|-----------------------------------------------------------------------------------------------------|--------|-----|

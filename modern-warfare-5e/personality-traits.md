@@ -6,7 +6,8 @@ tags: [ character ]
 
 # Personality Traits
 
-*Essential - choose one. This is the equivalent of your Race pick in classic D&D 5E.*
+*Essential - choose one during [Character Creation](character-creation.md#step-3-personality-trait). This is the
+equivalent of your Race pick in classic D&D 5E.*
 
 ## Adaptable
 
@@ -21,7 +22,7 @@ solution - or at least a fair attempt.
 You're naturally fast on your feet, an asset that's saved you from disaster many times.
 
 - +2 Dexterity, -2 Strength.
-- +5 ft movement.
+- +5 ft [movement](rules/movement.md).
 - Proficiency in Acrobatics.
 
 ## Brainy
@@ -38,7 +39,7 @@ curiosity about a wide range of subjects.
 You're built like a linebacker or can otherwise soak up and dish out punishment when needed.
 
 - +2 Strength, -2 Dexterity.
-- Base AC increases by 1.
+- Base [AC](armor.md) increases by 1.
 - Proficiency in Athletics.
 
 ## Caustic
@@ -99,14 +100,14 @@ You survive by your wits, which ensures that they're very, very sharp.
 it. Usually.
 
 - +2 Dexterity, -2 Intelligence.
-- +5 to Initiative.
+- +5 to [Initiative](rules/combat-turn.md#rolling-initiative).
 
 ## Disciplined
 
 You're in control of your life at all times and have the drive to accomplish anything to which you set your mind.
 
 - +2 to any 1 attribute, -2 to any 1 attribute.
-- +1 to all saving throws.
+- +1 to all [saving throws](rules/saving-throws.md).
 
 ## Fierce
 
@@ -160,7 +161,7 @@ You probably smile a lot - just to make people nervous about your motives.
 
 - +2 Wisdom, -2 Charisma.
 - Proficiency in Insight.
-- +5 to passive Perception.
+- +5 to [passive Perception](rules/ability-checks.md#passive-checks).
 
 ## Persistent
 
@@ -182,8 +183,8 @@ Once you make a decision, you back it with everything you've got.
 Bullets snap past, mortars fall close, and your pulse barely moves. You were built for this.
 
 - +2 Constitution, -2 Charisma.
-- Advantage on saves against being Frightened and against gaining [Shaken](rules/conditions.md#shaken) levels from
-  stress damage.
+- [Advantage](rules/advantage.md) on saves against being Frightened and against gaining
+  [Shaken](rules/conditions.md#shaken) levels from [stress damage](rules/damage-types.md#stress-damage).
 
 ## Stoic
 
@@ -199,7 +200,7 @@ You grew up in a war zone or in other conditions that required your full attenti
 
 - +2 Wisdom, -2 Charisma.
 - Proficiency in Perception.
-- You cannot be surprised.
+- You cannot be [surprised](rules/combat-turn.md#surprise).
 
 ## Witty
 

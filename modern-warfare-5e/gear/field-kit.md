@@ -23,6 +23,8 @@ Every Operator is issued the following at check-in. Items referenced across othe
 - 1× 100 ft paracord (550), 1× multi-tool, 1× flashlight, 1× headlamp
 - 1× [Combat knife or Bayonet](#individual-items)
 
+See [Character Creation - Step 7](../character-creation.md#step-7-equipment) for how starting equipment is allocated.
+
 ## Individual Items
 
 | Item                               | Weight  | Tags      | Notes                                                  |
