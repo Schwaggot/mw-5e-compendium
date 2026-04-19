@@ -8,9 +8,9 @@ tags: [ designation ]
 
 **Proficiencies gained:**
 
-- One level of training in 2 different Weapon Proficiency Training.
-- Save Training Level 1 in CON Saves.
-- One level of training in 2 different Skills Training.
+- Level 1 training in 2 Weapon Proficiency Trainings of your choice.
+- Save Training Level 1 in Constitution Saves.
+- Level 1 training in 2 Skills Trainings of your choice.
 - LBS Kit (Tools) - Load-Bearing System; the modular MOLLE vest, chest rig, and pouches worn by infantry to carry magazines,
   grenades, radio, IFAK, and mission gear. Proficiency covers proper load distribution, rapid magazine changes,
   retention of kit under stress, and configuring the rig for different mission profiles.
@@ -41,7 +41,7 @@ room or moving through a breached doorway. Against targets within 10 ft, you ign
 ### Grenadier
 
 When you take the Attack action, you may use your bonus action to fire a grenade launcher (including underbarrel). The
-scatter radius of any grenade you throw or fire is halved (minimum 5 ft). You may stow one extra 40mm round in your LBS.
+scatter radius of any grenade you throw or fire is halved (minimum 5 ft). You may stow one extra 40mm round in your LBS Kit.
 
 ## Weathered Vet (15th)
 

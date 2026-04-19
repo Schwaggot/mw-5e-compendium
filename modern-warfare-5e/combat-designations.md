@@ -53,5 +53,5 @@ Combat Designations
 └── Tech Specialist
     ├── Drone Operator
     ├── Signals Specialist
-    └── Cyber
+    └── Hacker
 ```

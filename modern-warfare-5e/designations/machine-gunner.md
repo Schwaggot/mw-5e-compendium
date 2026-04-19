@@ -9,7 +9,7 @@ tags: [ designation ]
 **Proficiencies gained:**
 
 - Level 1 training in Weapon Proficiency Training: SAW, GPM, Heavy MG.
-- Save Training Level 1 in CON Saves.
+- Save Training Level 1 in Constitution Saves.
 - One level of training in Survival and Athletics.
 - T&E Kit (Tools) - Traverse and Elevation mechanism; a dial-and-scale device mounted between a tripod and a machine gun that
   locks precise horizontal (traverse) and vertical (elevation) aim. Used to preplot sectors of fire, mark range cards,

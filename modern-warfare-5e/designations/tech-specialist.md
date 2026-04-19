@@ -11,8 +11,8 @@ tags: [ designation ]
 - Level 1 training in Weapon Proficiency Training: Sub Machine Guns, Shotguns.
 - Save Training Level 1 in Intelligence Saves.
 - One level of training in Technology and Investigation.
-- B1ARD (Tools) - B-1 Advanced Recon Drone toolkit; the diagnostic kit, spare parts, micro-tools, and firmware loader
-  used to field-service the B1-RD. Proficiency covers repair, upgrade installation, rotor and optics replacement,
+- B1ARD Kit (Tools) - B-1 Advanced Recon Drone toolkit; the diagnostic kit, spare parts, micro-tools, and firmware
+  loader used to field-service the B1-RD. Proficiency covers repair, upgrade installation, rotor and optics replacement,
   software reflashing, and battery management.
 
 ## B-1 Recon Drone Operator (3rd)
@@ -64,7 +64,7 @@ bonus. Uses per long rest equal to your Intelligence modifier. You may intercept
 Technology check. You have advantage on Technology checks to hack electronic locks, and may disable a hostile drone
 within 60 ft by winning an opposed Intelligence check against its operator.
 
-### Cyber
+### Hacker
 
 With access to a target device or its network, breach a computer, phone, or security system with a Technology check (DC
 set by GM). You may plant persistent access that lets you reconnect later without re-hacking. As an action, disable all

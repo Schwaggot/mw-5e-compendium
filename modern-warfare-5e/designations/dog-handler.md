@@ -62,12 +62,13 @@ traits) rather than granting a third dog.
 
 ## Veteran War Dog (15th)
 
-Your dog gains 4 more War Dog Training traits.
+Your dog gains 1 more War Dog Training trait (4 total).
 
 ## Master Handler (18th)
 
-Gain a second War Dog of your choice with 6 War Dog Training traits. When you command one dog to take an action, the
-other may take the same (or an equivalent) action.
+Gain a second War Dog of your choice with 6 War Dog Training traits. If you chose Kennel Master at 10th, your existing
+second dog matures to 6 traits instead. When you command one dog to take an action, the other may take the same (or an
+equivalent) action.
 
 ## Tracking Dog
 

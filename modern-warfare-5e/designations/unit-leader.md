@@ -8,7 +8,7 @@ tags: [ designation ]
 
 **Proficiencies gained:**
 
-- One level of training in 2 different Weapon Proficiency Training.
+- Level 1 training in 2 Weapon Proficiency Trainings of your choice.
 - Save Training Level 1 in Charisma Saves.
 - One level of training in Persuasion and Intimidation.
 - Command Kit (Tools) - the leader's bundle of map case, compass, protractor, range cards, tactical radio, and
@@ -19,7 +19,7 @@ tags: [ designation ]
 
 You learn Orders that use special Leadership Dice.
 
-- **Orders:** Learn a number equal to your Charisma modifier (minimum), plus one more at 7th, 10th, 15th and 18th level.
+- **Orders:** Learn a number equal to your Charisma modifier (minimum 1), plus one more at 7th, 10th, 15th and 18th level.
 - **Leadership Dice:** Number = Proficiency Bonus + Charisma modifier. They are d4s. Regain all on short or long rest.
   Size increases to d6 at 7th, d8 at 10th, d10 at 15th, d12 at 18th.
 
@@ -53,7 +53,7 @@ intel about the objective, area, or opposition.
 
 When you roll for initiative and have no Leadership Dice, regain a number equal to your Wisdom modifier.
 
-## Tactician (18th)
+## Master Commander (18th)
 
 +10 initiative bonus. All enemy creatures are surprised during the first round of combat.
 

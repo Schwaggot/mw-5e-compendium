@@ -9,7 +9,7 @@ tags: [ designation ]
 **Proficiencies gained:**
 
 - Level 1 training in Weapon Proficiency Training: Bolt Action Rifles, Single Shot Rifles.
-- Save Training Level 1 in WIS Saves.
+- Save Training Level 1 in Wisdom Saves.
 - One level of training in Perception and Stealth.
 - Observation Kit (Tools) - the shooter's bundle of spotting scope, rifle optic, laser rangefinder, wind meter, and DOPE
   book (Data On Previous Engagements / range card). Proficiency covers reading wind and mirage, calling corrections,
@@ -52,4 +52,4 @@ With a ghillie suit in an appropriate environment, gain +10 to Stealth; outside 
 
 ## Master Marksman (18th)
 
-All ranged attacks gain +5 to hit and damage rolls when using Sniper Shot.
+All ranged attacks gain +5 to hit and damage rolls when using Critical Shot.

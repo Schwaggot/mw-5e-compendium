@@ -27,7 +27,7 @@ You get a Trauma Bag with 2 parts:
 - Trauma Kit with 5 uses.
 
 Expend one use of the Trauma Bag and roll a Wisdom (Medicine) check DC 15. On pass, restore 1d10 + Wisdom modifier HP (
-only on targets at Triage Yellow, Orange, or Red). Increases to 2d10 at 10th, 3d10 at 20th.
+only on targets at Triage Yellow, Orange, or Red). Increases to 2d10 at 10th, 3d10 at 18th.
 See [Triage Code](../rules/conditions.md#triage-code).
 
 ## Medical Grade Supply (7th)
