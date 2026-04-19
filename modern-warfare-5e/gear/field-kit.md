@@ -11,21 +11,17 @@ definitions.
 
 ## Standard Operator Issue
 
-Standard operator-issued gear:
+Every Operator is issued the following at check-in. Items referenced across other gear pages are linked.
 
-- 1× Main rucksack
-- 1× Day pack
-- 1× Light sleeping bag
-- 1× Heavy sleeping bag
-- 1× Load-bearing vest suite
-- 1× CamelBak 2-liter
-- 1× Iso-mat
-- 1× Camo tarpaulin 10×10 ft
-- 1× 100 ft paracord (550 cord)
-- 4× Canteens, 1 liter each
-- 1× Canteen cup
-- 1× Mess kit
-- 1× Combat knife or Bayonet
+- 1× Main rucksack, 1× day pack - see [Packs](packs.md#rucksacks-and-packs)
+- 1× [Chest rig](packs.md#chest-rigs) or [plate carrier](../armor.md#plate-carriers)
+- 1× [Battle belt](packs.md#belts-and-pouches) with dump, admin, mag, and IFAK pouches
+- 1× [IFAK](medical.md#kits-and-bags) with 2 tourniquets
+- 1× [Squad radio](comms.md#radios) with earpiece and PTT
+- 1× Light sleeping bag, 1× heavy sleeping bag, 1× iso-mat, 1× camo tarpaulin 10×10 ft
+- 1× CamelBak 2 L, 4× canteens (1 L each), 1× canteen cup, 1× MSR water filter, 1× mess kit
+- 1× 100 ft paracord (550), 1× multi-tool, 1× flashlight, 1× headlamp
+- 1× [Combat knife or Bayonet](#individual-items)
 
 ## Individual Items
 
@@ -40,6 +36,7 @@ Standard operator-issued gear:
 | Camo tarpaulin 10×10 ft            | 1.0 kg  | -         | Bivy cover or hasty hide.                              |
 | 100 ft paracord (550)              | 0.4 kg  | -         | 550 lb test; all-purpose.                              |
 | Mess kit                           | 0.5 kg  | -         | Pot + plate + utensils.                                |
+| Canteen cup                        | 0.2 kg  | -         | Steel nesting cup; fits under 1 L canteen.             |
 | Leatherman Wave multi-tool         | 0.25 kg | repair    | Pliers, drivers, blade.                                |
 | Gerber MP600 multi-tool            | 0.3 kg  | repair    | Milspec multi-tool.                                    |
 | Surefire M600DF flashlight         | 0.2 kg  | -         | 1500 lm weapon light; white.                           |
