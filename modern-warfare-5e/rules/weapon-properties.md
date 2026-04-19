@@ -1,16 +1,21 @@
 ---
 title: Weapon Properties
-aliases: []
-tags: [rules, weapon]
+aliases: [ ]
+tags: [ rules, weapon ]
 ---
 
 # Weapon Properties
+
+**1H / 2H:** Whether the weapon is wielded one-handed or two-handed. A 2H weapon cannot be fired with one hand without
+the appropriate training.
 
 **Ammunition ( - / - ):** Two numbers - rounds per magazine / round type. You can only fire when loaded.
 
 **Accurate (-):** +N to all attack rolls with this weapon.
 
-**Deviation (-):** Nominate a point within range. Roll an attack vs AC 10 (+5 per range increment beyond first). On a miss, roll the scatter die and a deviation die (subtract DEX bonus, min 1); result = 5 ft increments deviated in scatter direction. At long range, targets have advantage on saves and deviation dice doubled.
+**Deviation (-):** Nominate a point within range. Roll an attack vs AC 10 (+5 per range increment beyond first). On a
+miss, roll the scatter die and a deviation die (subtract DEX bonus, min 1); result = 5 ft increments deviated in scatter
+direction. At long range, targets have advantage on saves and deviation dice doubled.
 
 **Range:** Attacks at normal range have no penalty. Beyond that, penalties scale.
 
@@ -23,9 +28,11 @@ tags: [rules, weapon]
 
 **Reloading:** Spend an action or one attack to reload when empty.
 
-**Recoil (-):** If Strength is less than the Recoil value, -1 to Single-Shot attack rolls; for Burst/Auto, attack penalty = Recoil - Strength.
+**Recoil (-):** If Strength is less than the Recoil value, -1 to Single-Shot attack rolls; for Burst/Auto, attack
+penalty = Recoil - Strength.
 
-**Critical Success/Failure:** Natural rolls at or below the critical-failure range auto-fail; natural rolls at or above the critical range score a critical (double damage dice).
+**Critical Success/Failure:** Natural rolls at or below the critical-failure range auto-fail; natural rolls at or above
+the critical range score a critical (double damage dice).
 
 **Close Quarter Combat (CQC):** No disadvantage firing within 5 ft of an enemy.
 
@@ -33,7 +40,8 @@ tags: [rules, weapon]
 
 **Manual Action:** After firing, spend an action or sacrifice an attack to chamber the next round.
 
-**Blast (-ft):** Creatures within the radius make a DEX save DC 8 + proficiency + DEX mod (if proficient). Fail = full damage; pass = half.
+**Blast (-ft):** Creatures within the radius make a DEX save DC 8 + proficiency + DEX mod (if proficient). Fail = full
+damage; pass = half.
 
 **Braced:** Disadvantage on attack rolls unless braced (bipod, wall, sandbags, etc.).
 
@@ -42,6 +50,14 @@ tags: [rules, weapon]
 **Ignite:** On damage to a creature wearing cloth, ignites for 1d6 fire damage per round until extinguished (action).
 
 **Inaccurate (-):** -N penalty to attack rolls with this weapon.
+
+**Lite:** Compact, lightweight, and easy to carry concealed. Allows off-hand bonus-action attacks without dual-wielding
+training, and grants advantage on Sleight of Hand to draw quickly. (Distinct from the "Light" armor weight class.)
+
+**Mounted:** Cannot be fired without a tripod, bipod, or vehicle mount. Setting up the mount costs an action.
+
+**Select Fire (S/B/A):** The weapon offers more than one firing mode - any combination of Single-shot, Burst, and Auto.
+Switch modes as a free action on your turn.
 
 **Engulf (-ft):** Cone; targets make DEX save DC 8 + DEX + Prof; pass = half damage.
 
@@ -53,7 +69,7 @@ tags: [rules, weapon]
 | 2-5    | Requires replacement parts (% of full cost d100), then day of work + DC 15 Weapon Maintenance and Armorer's Tools checks. Fail = FUBAR |
 | 6-10   | Broken. Long rest + DC 15 Armorer's Tools. Fail = treat as 4-10%                                                                       |
 | 11-15  | Broken. Short rest + DC 10 Weapon Maintenance. Fail = treat as 11-20%                                                                  |
-| 16-60  | Jammed. Action + DC 10 Dex check. Fail = treat as 21-45%                                                                               |
+| 16-60  | Jammed. Action + DC 10 DEX check. Fail = treat as 21-45%                                                                               |
 | 61-100 | Weapon fine; you just missed                                                                                                           |
 
 **Takedown:** On damage, target CON save (DC = damage). Fail = Prone.

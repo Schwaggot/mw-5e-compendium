@@ -121,7 +121,7 @@ No choice to make here - you have Second Wind from 1st level. Note it on your sh
 
 No choice to make here - you receive **all** of the following for free with the class:
 
-- **Armor Training** Level 1 in Lite and Medium.
+- **Armor Training** Level 1 in Light and Medium.
 - **Weapons Training** Level 1 in Assault Rifles, Pistols, Grenades, Grenade Launchers, Combat Knife, and Bayonet.
 - **Saving Throw Training** Level 1 in Strength and Dexterity.
 
@@ -168,7 +168,8 @@ specialization path within the designation.
 >
 > With the designation's weapon training stacked on top of his Basic Training (also Marksman, +2 to ranged attack
 > rolls - note the name collision), his DEX 17 (+3), and his Proficiency Bonus +2 at level 3, Kevin's to-hit with a
-> bolt-action rifle is **+7** (+2 PB, +3 DEX, +2 Basic Training). Critical Shot on top of that makes a landed hit
+> bolt-action rifle is **+7** (+2 Proficiency Bonus, +3 DEX, +2 Basic Training). Critical Shot on top of that makes a
+> landed hit
 > automatically a crit.
 
 ## Step 9 - Final Pass

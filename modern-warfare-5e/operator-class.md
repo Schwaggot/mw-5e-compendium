@@ -59,7 +59,7 @@ As an Operator you have completed and gain the following Training Programs.
 
 ### Starter Training Programs
 
-- **Armor Training:** Armor Training Level 1 in Lite and Medium.
+- **Armor Training:** Armor Training Level 1 in Light and Medium.
 - **Weapons Training:** Weapon Training Level 1 in Assault Rifles, Pistols, Grenades, Grenade Launchers, Combat Knife,
   and Bayonet.
 - **Tools Training:** None.
@@ -81,7 +81,7 @@ In your initial training during the unit endoc you picked up on a few styles of 
 one more trait at Levels 10 and 20. You may take the same style more than once.
 
 - **Marksman:** +2 bonus to attack rolls made with ranged weapons.
-- **Defence:** +1 bonus to AC.
+- **Defense:** +1 bonus to AC.
 - **Dirty Fighting:** When a creature within 5 feet of you attacks, you can use your reaction to impose disadvantage on
   a single attack.
 - **Dueling:** When wielding a melee weapon in one hand and nothing in the other, gain +2 to damage rolls with that
@@ -110,9 +110,9 @@ additional action on top of your regular action and possible bonus action.
 
 ## Combat Designation
 
-At 3rd level, choose a Combat Designation: Rifleman, Marksman, Machine Gunner, Demolitionist, Unit Leader, Medic, Dog
-Handler, or Tech Specialist. The chosen Designation grants features at 3rd, 7th, 10th, 15th, and 18th level.
-See [Combat Designations](combat-designations.md).
+At 3rd level, choose a Combat Designation: Rifleman, Marksman, Machine Gunner, Demolitions Specialist, Unit Leader,
+Combat Medic, Dog Handler, or Tech Specialist. The chosen Designation grants features at 3rd, 7th, 10th, 15th, and 18th
+level. See [Combat Designations](combat-designations.md).
 
 ## Extra Attack
 

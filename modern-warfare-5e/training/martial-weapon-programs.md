@@ -88,7 +88,7 @@ to aim.
 
 Fighting with a melee weapon in each hand.
 
-- **Level 1:** You may make an off-hand bonus-action attack with melee weapons that do not have the Light property.
+- **Level 1:** You may make an off-hand bonus-action attack with melee weapons that do not have the Lite property.
 - **Level 2:** +1 to attack and damage rolls from either hand while wielding two melee weapons.
 - **Level 3:** Make two off-hand attacks as a bonus action instead of one.
 - **Level 4:** You may dual-wield two-handed melee weapons, but all attacks with them are at disadvantage.

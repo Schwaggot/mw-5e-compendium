@@ -17,7 +17,7 @@ with nature."
 ## Modifier Table
 
 The modifier is what you actually add to rolls. The score itself only matters for a few things (HP at 1st level,
-encumbrance, the point-buy in [Character Creation](../character-creation.md#step-2---attributes)).
+encumbrance, the point-buy in [Character Creation](../character-creation.md#step-2-attributes)).
 
 | Score | Modifier |
 |-------|----------|

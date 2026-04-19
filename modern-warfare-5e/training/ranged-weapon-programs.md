@@ -93,7 +93,7 @@ Optimized for precision shooting at extended distance (beyond one range incremen
 
 Shooting with a pistol (or larger weapon at higher levels) in each hand.
 
-- **Level 1:** You may make an off-hand bonus-action attack with pistols that do not have the Light property.
+- **Level 1:** You may make an off-hand bonus-action attack with pistols that do not have the Lite property.
 - **Level 2:** +1 to attack and damage rolls from either hand while wielding two ranged weapons.
 - **Level 3:** Make two off-hand attacks as a bonus action instead of one.
 - **Level 4:** You may dual-wield two-handed ranged weapons, but all attacks with them are at disadvantage.

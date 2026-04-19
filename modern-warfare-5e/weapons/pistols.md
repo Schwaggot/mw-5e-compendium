@@ -70,9 +70,9 @@ property keywords.
 | Colt M1911A1           | .45 ACP     | 1d12+1 | 1/19-20      | 25 ft | 1H, Lite, CQC, Recoil (11), Dependable, Takedown, Reloading | 7   |
 | CZ 75                  | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (12), Dependable, Reloading                 | 6   |
 | CZ 75                  | .40 S&W     | 1d12   | 1/20         | 25 ft | 1H, CQC, Recoil (14), Dependable, Takedown, Reloading       | 6   |
-| Desert Eagle           | .357 Magnum | 3d4+1  | 1-2/19-20    | 40 ft | 1H, Light, CQC, Recoil (11), Reloading                      | 11  |
-| Desert Eagle           | .41 Magnum  | 3d4    | 1-2/19-20    | 35 ft | 1H, Light, CQC, Recoil (8), Takedown, Reloading             | 11  |
-| Desert Eagle           | .44 Magnum  | 2d6+2  | 1-3/19-20    | 35 ft | 1H, Light, CQC, Recoil (11), Takedown, Reloading            | 12  |
+| Desert Eagle           | .357 Magnum | 3d4+1  | 1-2/19-20    | 40 ft | 1H, Lite, CQC, Recoil (11), Reloading                       | 11  |
+| Desert Eagle           | .41 Magnum  | 3d4    | 1-2/19-20    | 35 ft | 1H, Lite, CQC, Recoil (8), Takedown, Reloading              | 11  |
+| Desert Eagle           | .44 Magnum  | 2d6+2  | 1-3/19-20    | 35 ft | 1H, Lite, CQC, Recoil (11), Takedown, Reloading             | 12  |
 | Desert Eagle           | .50 AE      | 3d6+1  | 1-3/19-20    | 40 ft | 1H, CQC, Recoil (19), Takedown, Reloading                   | 15  |
 | FN 509                 | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (16), Dependable, Reloading                 | 7   |
 | FN Browning High-Power | 9mm P       | 1d10+1 | 1/20         | 25 ft | Lite, 1H, CQC, Recoil (12), Dependable, Reloading           | 6   |
@@ -98,11 +98,11 @@ property keywords.
 | S&W M&P                | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (17), Reloading                             | 6   |
 | S&W M&P                | .40 S&W     | 1d12   | 1/20         | 25 ft | 1H, CQC, Recoil (18), Takedown, Reloading                   | 7   |
 | S&W M&P                | .45 ACP     | 1d12+1 | 1/19-20      | 25 ft | 1H, CQC, Recoil (17), Takedown, Reloading                   | 7   |
-| SiG P210               | 9mm P       | 1d10+1 | 1-2/20       | 30 ft | 1H, Light, CQC, Recoil (13), Reloading                      | 11  |
+| SiG P210               | 9mm P       | 1d10+1 | 1-2/20       | 30 ft | 1H, Lite, CQC, Recoil (13), Reloading                       | 11  |
 | SiG-Sauer M17          | 9mm P       | 1d10+1 | 1/20         | 25 ft | 1H, CQC, Recoil (15), Dependable, Reloading                 | 7   |
 | SiG-Sauer M17          | .40 S&W     | 1d12   | 1/20         | 25 ft | 1H, CQC, Recoil (16), Dependable, Takedown, Reloading       | 7   |
 | SiG-Sauer M17          | .45 ACP     | 1d12+1 | 1/19-20      | 25 ft | 1H, CQC, Recoil (16), Dependable, Takedown, Reloading       | 8   |
-| SiG-Sauer P220         | .32 ACP     | 1d6+1  | 1-2/20       | 25 ft | 1H, Light, CQC, Recoil (6), Dependable, Reloading           | 8   |
+| SiG-Sauer P220         | .32 ACP     | 1d6+1  | 1-2/20       | 25 ft | 1H, Lite, CQC, Recoil (6), Dependable, Reloading            | 8   |
 | SiG-Sauer P220         | 9mm P       | 1d10+1 | 1-2/20       | 25 ft | 1H, CQC, Recoil (16), Dependable, Reloading                 | 7   |
 | SiG-Sauer P220         | .38 Super   | 1d8+2  | 1-2/20       | 25 ft | 1H, CQC, Recoil (15), Dependable, Reloading                 | 7   |
 | SiG-Sauer P220         | .45 ACP     | 1d12+1 | 1-2/19-20    | 25 ft | 1H, CQC, Recoil (17), Dependable, Takedown, Reloading       | 7   |

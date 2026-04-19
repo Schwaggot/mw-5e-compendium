@@ -1,12 +1,13 @@
 ---
 title: Assault Rifles
-aliases: []
-tags: [weapon, rifle, assault-rifle]
+aliases: [ ]
+tags: [ weapon, rifle, assault-rifle ]
 ---
 
 # Assault Rifles
 
-See [Weapon Properties](../rules/weapon-properties.md) for the property keywords and [Weapon Modifications](../rules/weapon-modifications.md) for the Mods column.
+See [Weapon Properties](../rules/weapon-properties.md) for the property keywords
+and [Weapon Modifications](../rules/weapon-modifications.md) for the Mods column.
 
 | Name                    | Caliber   | Damage | Misfire/Crit | Range  | Properties                                                                     | Mods                                                   | Req |
 |-------------------------|-----------|--------|--------------|--------|--------------------------------------------------------------------------------|--------------------------------------------------------|-----|
@@ -45,7 +46,7 @@ See [Weapon Properties](../rules/weapon-properties.md) for the property keywords
 | H&K G3A3/A4             | 7.62 NATO | 4d4+2  | 1-2/19-20    | 175 ft | 2H, Recoil (16-17), Reloading, Ammo 20                                         | -                                                      | 11  |
 | H&K G41                 | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Accurate (1), Select Fire S/B/A, Reloading, Ammo 30           | -                                                      | 12  |
 | H&K HK33A2/A3           | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Reloading, Ammo 30                                            | -                                                      | 9   |
-| H&K HK33SG1             | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Accurate (+1), Reloading                                      | -                                                      | 67  |
+| H&K HK33SG1             | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Accurate (1), Reloading                                       | -                                                      | 67  |
 | H&K HK416               | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (11), Dependable, Select Fire S/B/A, Reloading, Ammo 30             | Full modification                                      | 22  |
 | H&K HK416C              | 5.56 NATO | 4d4    | 1-3/20       | 50 ft  | 2H, Recoil (13), Dependable, Select Fire S/B/A, Reloading, Ammo 30             | Full modification                                      | 20  |
 | H&K HK417               | 7.62 NATO | 4d4+2  | 1-2/19-20    | 175 ft | 2H, Recoil (15), Accurate (1), Dependable, Reloading, Ammo 20                  | Full modification                                      | 25  |
