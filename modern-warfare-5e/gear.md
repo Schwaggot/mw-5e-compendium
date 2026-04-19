@@ -45,6 +45,22 @@ kit into individual pieces.
 | Protective Detail    | ~6 kg  | Civilian escort / low-profile security | Covert pouch + concealable IFAK + earpiece + short-range radio                 |
 | Humanitarian / SERE  | ~10 kg | Non-combat or escape-and-evasion       | Day pack + expanded medical + radio + GPS + survival kit                       |
 
+## Designation Kits
+
+The tool proficiency granted by each [Combat Designation](combat-designations.md) comes bundled as an all-in-one pack.
+Add the row matching your designation to your inventory instead of tracking the individual pieces.
+
+| Kit             | Weight  | Designation                                                      | Contents (summary)                                                                                                                    |
+|-----------------|---------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| LBS Kit         | ~2.5 kg | [Rifleman](designations/rifleman.md)                             | Modular MOLLE chest rig or load-bearing vest with mag, admin, grenade, IFAK, and radio pouches (empty weight).                        |
+| T&E Kit         | ~2.0 kg | [Machine Gunner](designations/machine-gunner.md)                 | Traverse and Elevation mechanism for tripod-mounted MGs; dial-and-scale head, clamp bracket, T&E plate.                               |
+| Observation Kit | ~2.0 kg | [Marksman](designations/marksman.md)                             | Spotting scope with field tripod, laser rangefinder, wind meter, DOPE book, and range cards.                                          |
+| Demolitions Kit | ~3.0 kg | [Demolitions Specialist](designations/demolitions-specialist.md) | Electric and non-electric caps, time fuse, det cord, crimpers, clacker, galvanometer, wire, tape, EOD probes.                         |
+| Command Kit     | ~3.0 kg | [Unit Leader](designations/unit-leader.md)                       | Map case with laminated sheets, compass, protractor, range cards, tactical radio, and binoculars.                                     |
+| Medic's Kit     | ~2.0 kg | [Combat Medic](designations/combat-medic.md)                     | Stethoscope, BP cuff, pulse oximeter, airways, BVM, decompression needle, suture kit, IV gear, syringes.                              |
+| Handler's Kit   | ~3.5 kg | [Dog Handler](designations/dog-handler.md)                       | Working lead, long tracking line, tactical harness and muzzle, bite sleeve, clicker and whistle, e-collar, reward pouch, canine IFAK. |
+| B1ARD Kit       | ~2.0 kg | [Tech Specialist](designations/tech-specialist.md)               | Diagnostic unit, spare rotors and optics, micro-tools, firmware loader, and replacement battery pack.                                 |
+
 ## Gear Index
 
 - [Packs](gear/packs.md) - rucksacks, assault packs, chest rigs, battle belts, pouches.
