@@ -20,7 +20,8 @@ Before you touch any numbers, sketch the operator in your head. Answer these in 
 
 - **Name and callsign.** A legal name for paperwork and a callsign the squad actually uses on comms.
 - **Background.** Which service did they come from - Army, Navy, Marines, Air Force, police SWAT, a foreign ally?
-  What put them on the unit's radar?
+  What put them on the unit's radar? You will formally pick a [Background](backgrounds.md) for its mechanical effect
+  in Step 4, but it helps to have one in mind already.
 - **Appearance and age.** Operators skew late 20s to mid 40s. Anything visible when kitted up (scars, tattoos, build)?
 - **Hook.** One line on what drives them - a debt, a mentor, a mission that never closed.
 
@@ -69,52 +70,17 @@ your sheet.
 > **Example:** Kevin picks **Agile** (+2 DEX, -2 STR, +5 ft movement, Proficiency in Acrobatics). His attributes become
 > STR 11, DEX 17, CON 11, INT 12, WIS 12, CHA 14. He notes Acrobatics proficiency and the movement bonus.
 
-## Step 4 - Operator Class
+## Step 4 - Background
 
-Every player character in Modern Warfare 5E is an Operator. The full progression lives in
-[Operator Class](operator-class.md); at 1st level, work through each sub-step below.
+Pick a [Background](backgrounds.md). Your background grants one Level 1 Training Program fixed by the choice, plus
+a small narrative feature.
 
-### 4a. Hit Points
+> **Example:** Kevin picks **Airborne / Paratrooper**, reflecting his Fallschirmjäger service. He gains Obstacle
+> Course Training Level 1 and is jump-qualified (no damage from falls of 20 ft or less onto clear ground).
 
-Your maximum hit points at 1st level equal **10 + your Constitution score** (the full score, not the modifier).
+## Step 5 - Nationality / Languages
 
-> **Example:** Kevin has CON 11, so his HP is 10 + 11 = **21**.
-
-### 4b. Basic Training - pick one style
-
-Pick one fighting style from [Basic Training](operator-class.md#basic-training). You gain another later when you
-level-up on levels 10 and 20.
-
-> **Example:** Kevin picks **Marksman** (+2 to attack rolls with ranged weapons), leaning into his paratrooper rifle
-> background.
-
-### 4c. Second Wind
-
-No choice to make here - you have Second Wind from 1st level. Note it on your sheet; see
-[Second Wind](operator-class.md#second-wind).
-
-> **Example:** Kevin writes "Second Wind: bonus action, regain 1d10 + level HP, once per short rest" on his sheet.
-
-### 4d. Starter Training Programs
-
-No choice to make here - you receive **all** of the following for free with the class:
-
-- **Armor Training** Level 1 in Lite and Medium.
-- **Weapons Training** Level 1 in Assault Rifles, Pistols, Grenades, Grenade Launchers, Combat Knife, and Bayonet.
-- **Saving Throw Training** Level 1 in Strength and Dexterity.
-
-> **Example:** Kevin records all three blocks as granted. No picks needed.
-
-### 4e. Skills - pick 2 + INT modifier
-
-Pick **2 + your Intelligence modifier** skills (minimum 2) from this list, each at Level 1: Acrobatics, Animal Handling,
-Athletics, History, Insight, Intimidation, Investigation, Perception, Nature, Survival.
-
-> **Example:** Kevin has INT 12 (+1 modifier), so he picks **3** skills: Perception, Athletics, and Survival.
-
-### 4f. Language Training
-
-Pick one of the following:
+Decide your operator's home country and primary language, then allocate Language Training. Pick one of the following:
 
 - Language Training Level 1-4 in English, or
 - Language Training Level 1-3 in English plus Level 1 in another language of your choice, or
@@ -125,14 +91,50 @@ See [Language Training](training/mental-fitness-programs.md#language-training-1-
 > **Example:** Kevin is German, so he takes the third option: Level 1-4 in **German** (fluent, mother tongue) plus
 > Level 1-2 in **English** (NATO working level).
 
-### 4g. One Level 1 Training Program of your choice
+## Step 6 - Operator Class
 
-Pick one extra Training Program at Level 1 from any category. See [Training Programs](training-programs.md) for the
-full list.
+Every player character in Modern Warfare 5E is an Operator. The full progression lives in
+[Operator Class](operator-class.md); at 1st level, work through each sub-step below.
 
-> **Example:** Kevin picks **Covert Movement Training Level 1** to sharpen his sneak-and-recon side.
+### 6a. Hit Points
 
-## Step 5 - Equipment
+Your maximum hit points at 1st level equal **10 + your Constitution score** (the full score, not the modifier).
+
+> **Example:** Kevin has CON 11, so his HP is 10 + 11 = **21**.
+
+### 6b. Basic Training - pick one style
+
+Pick one fighting style from [Basic Training](operator-class.md#basic-training). You gain another later when you
+level-up on levels 10 and 20.
+
+> **Example:** Kevin picks **Marksman** (+2 to attack rolls with ranged weapons), leaning into his paratrooper rifle
+> background.
+
+### 6c. Second Wind
+
+No choice to make here - you have Second Wind from 1st level. Note it on your sheet; see
+[Second Wind](operator-class.md#second-wind).
+
+> **Example:** Kevin writes "Second Wind: bonus action, regain 1d10 + level HP, once per short rest" on his sheet.
+
+### 6d. Starter Training Programs
+
+No choice to make here - you receive **all** of the following for free with the class:
+
+- **Armor Training** Level 1 in Lite and Medium.
+- **Weapons Training** Level 1 in Assault Rifles, Pistols, Grenades, Grenade Launchers, Combat Knife, and Bayonet.
+- **Saving Throw Training** Level 1 in Strength and Dexterity.
+
+> **Example:** Kevin records all three blocks as granted. No picks needed.
+
+### 6e. Skills - pick 2 + INT modifier
+
+Pick **2 + your Intelligence modifier** skills (minimum 2) from this list, each at Level 1: Acrobatics, Animal Handling,
+Athletics, History, Insight, Intimidation, Investigation, Perception, Nature, Survival.
+
+> **Example:** Kevin has INT 12 (+1 modifier), so he picks **3** skills: Perception, Athletics, and Survival.
+
+## Step 7 - Equipment
 
 Your starting loadout has three parts:
 
@@ -146,17 +148,30 @@ you aren't trained in, but you won't get the bonuses and may have disadvantage.
 > **Example:** Kevin takes his Standard Issue kit, then spends all 30 Weapon Req on an assault rifle with a basic optic
 > plus a sidearm, and all 20 Armor Req on a medium flak vest with front/back plates.
 
-## Step 6 - Combat Designation (only if starting at 3rd level or higher)
+## Step 8 - Combat Designation (only if starting at 3rd level or higher)
 
 At 3rd level an Operator locks in a [Combat Designation](combat-designations.md) - Rifleman, Marksman, Machine Gunner,
 Demolitions Specialist, Unit Leader, Combat Medic, Dog Handler, or Tech Specialist. Apply its 3rd-level feature, plus
 any 7th, 10th, 15th, or 18th-level features you qualify for at your starting level. At 10th level you also pick a
 specialization path within the designation.
 
-> **Example:** Kevin is starting at 1st level, so he skips this step. (If the table had started at 3rd level, he would
-> take **Marksman** and apply its 3rd-level feature.)
+> **Example (starting at 3rd level):** Kevin picks **Marksman** as his designation, doubling down on his
+> Fallschirmjäger rifle habit. He records the proficiencies:
+>
+> - Weapon Training Level 1 in Bolt Action Rifles and Single Shot Rifles.
+> - Save Training Level 1 in Wisdom Saves.
+> - Perception and Stealth training (Level 1).
+> - Observation Kit proficiency (spotting scope, rifle optic, laser rangefinder, wind meter, DOPE book).
+>
+> And the 3rd-level feature: **Critical Shot** - as an action, fire one shot from a bolt-action or single-shot rifle;
+> if it hits, it auto-crits. If the underlying roll is a natural 20, the damage dice triple instead of double.
+>
+> With the designation's weapon training stacked on top of his Basic Training (also Marksman, +2 to ranged attack
+> rolls - note the name collision), his DEX 17 (+3), and his Proficiency Bonus +2 at level 3, Kevin's to-hit with a
+> bolt-action rifle is **+7** (+2 PB, +3 DEX, +2 Basic Training). Critical Shot on top of that makes a landed hit
+> automatically a crit.
 
-## Step 7 - Final Pass
+## Step 9 - Final Pass
 
 Before the first session, sanity-check the sheet:
 
@@ -173,12 +188,12 @@ Before the first session, sanity-check the sheet:
 - [ ] Name, callsign, and short background written down
 - [ ] 36 attribute points spent; all six attributes recorded
 - [ ] Personality Trait picked and its adjustments applied
+- [ ] Background picked; its Level 1 Training Program and narrative feature noted
+- [ ] Nationality set and Language Training allocation chosen
 - [ ] Hit points = 10 + Constitution score
 - [ ] Basic Training fighting style chosen
-- [ ] Skills picked (2 + INT modifier from the class list)
-- [ ] Language Training allocation chosen
-- [ ] One free Level 1 Training Program picked
 - [ ] Starter Training Programs (Armor, Weapons, Saves) noted on sheet
+- [ ] Skills picked (2 + INT modifier from the class list)
 - [ ] Standard Issue gear recorded
 - [ ] 30 Req spent on Weapons
 - [ ] 20 Req spent on Armor
