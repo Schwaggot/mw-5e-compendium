@@ -8,6 +8,9 @@
 .vscode/
 *.code-workspace
 
+# Obsidian
+.obsidian/
+
 # Vim / Emacs
 *.swp
 *.swo

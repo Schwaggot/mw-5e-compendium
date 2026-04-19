@@ -6,6 +6,8 @@ tags: [armor, equipment]
 
 # Armor and Protective Gear
 
+For protective gloves and boots, see [Clothing - Gloves](clothing.md#gloves) and [Clothing - Footwear](clothing.md#footwear).
+
 ## Torso Armor
 
 | Type                            | AC               | Modifiers                                             | Stealth      | Resistances                            | Coverage                       | Plates              | Weight  | Req |
@@ -24,22 +26,6 @@ tags: [armor, equipment]
 | Tactical       | +1 | -             | Bludgeoning, Slashing                  | 0.9 kg | 5   |
 | Kevlar         | +1 | -2 perception | Piercing, Slashing, Bludgeoning        | 1.8 kg | 10  |
 | Bomb Suit Helm | +2 | -5 perception | Force, Piercing, Slashing, Bludgeoning | 1.8 kg | 20  |
-
-## Gloves
-
-| Gloves           | AC | Modifiers                                      | Resistances                            | Weight | Req |
-|------------------|----|------------------------------------------------|----------------------------------------|--------|-----|
-| Tactical/Leather | -  | -2 to DEX checks with hands                    | Slashing                               | 0.2 kg | 1   |
-| Carbon Fiber     | -  | -2 to DEX checks with hands, +1 unarmed damage | Piercing, Slashing                     | 0.2 kg | 2   |
-| Bomb Suit Gloves | +2 | Disadvantage on DEX-based tests with hands     | Force, Piercing, Slashing, Bludgeoning | 1.8 kg | 10  |
-
-## Boots
-
-| Boots                    | AC | Modifiers                             | Resistances                            | Weight  | Req |
-|--------------------------|----|---------------------------------------|----------------------------------------|---------|-----|
-| Tactical/Leather         | -  | -1 to foot checks                     | Slashing                               | 0.05 kg | 1   |
-| Carbon Fiber / Steel Toe | -  | -1 to foot checks                     | Piercing, Slashing                     | 0.1 kg  | 2   |
-| Bomb Suit Boots          | +2 | Disadvantage on all foot-based checks | Force, Piercing, Slashing, Bludgeoning | 1.8 kg  | 10  |
 
 ## Plate Protection
 
