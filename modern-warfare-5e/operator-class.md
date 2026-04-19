@@ -64,8 +64,8 @@ As an Operator you have completed and gain the following Training Programs.
   and Bayonet.
 - **Tools Training:** None.
 - **Saving Throw Training:** Save Training Level 1 in Strength and Dexterity.
-- **Language Training:** Language Training Level 1-4 (English), OR Language Training Level 1-3 (English) plus Level 1 in
-  another language of your choice.
+- **Language Training:** Pick one - Level 1-4 in English; OR Level 1-3 in English plus Level 1 in another language of
+  your choice; OR Level 1-4 in a non-English mother tongue plus Level 1-2 in English (NATO working level).
 - **Skills Training:** 2 + Intelligence Modifier Level 1 Trainings, chosen from Acrobatics, Animal Handling, Athletics,
   History, Insight, Intimidate, Investigation, Perception, Nature, Survival.
 
