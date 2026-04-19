@@ -16,31 +16,33 @@ CamelBaks, and water filters live under [Field Kit](field-kit.md).
 Baseline calorie requirement for a deployed Operator: ~3000-4500 kcal/day. Heavy workload, cold, and altitude raise
 that.
 
-| Item                        | Weight  | Tags | Notes                                                         |
-|-----------------------------|---------|------|---------------------------------------------------------------|
-| MRE (24 h rations)          | 1.1 kg  | -    | One day's calories; 3 meals with heater, snacks, drink mix.   |
-| MRE entrée only             | 0.4 kg  | -    | Main course stripped from the pouch; common weight-cut.       |
-| MRE pound cake / dessert    | 0.1 kg  | -    | Morale favorite; the unofficial currency of any MRE trade.    |
-| First Strike Ration (FSR)   | 0.9 kg  | -    | SOF 24h eat-on-the-move ration; no heater required.           |
-| Long-Range Patrol (LRP)     | 0.3 kg  | -    | Lightweight freeze-dried ration; needs hot water.             |
-| Humanitarian Daily Ration   | 0.9 kg  | -    | 2000 kcal civilian-distribution pack; vegetarian.             |
-| EPa (Einmannpackung)        | 1.6 kg  | -    | Bundeswehr 1-day ration; Typ I-IV. Cult item in German units. |
-| EPa Leberwurst tube         | 0.1 kg  | -    | Liver-sausage spread in a toothpaste tube; EPa classic.       |
-| EPa Corned Beef tin         | 0.2 kg  | -    | Rindfleisch-in-Dose; EPa staple.                              |
-| EPa Schmelzkäse tube        | 0.1 kg  | -    | Processed-cheese spread in a tube.                            |
-| Clif bar                    | 0.07 kg | -    | Civilian energy bar; 250 kcal.                                |
-| Snickers bar                | 0.05 kg | -    | Trade currency; morale.                                       |
-| Protein bar                 | 0.07 kg | -    | Civilian/gym staple.                                          |
-| Ritter Sport square (100 g) | 0.1 kg  | -    | Iconic German chocolate; fits any pocket.                     |
-| Haribo Goldbären (bag)      | 0.2 kg  | -    | Near-universal trade currency.                                |
-| Landjäger (pair)            | 0.1 kg  | -    | Hard smoked sausage; pocket-carry, no refrigeration.          |
-| Cabanossi (stick)           | 0.1 kg  | -    | Similar hard smoked sausage; shelf-stable.                    |
-| Knäckebrot (pack)           | 0.25 kg | -    | German crispbread; indefinite shelf life.                     |
-| Beef jerky (4 oz)           | 0.1 kg  | -    | Shelf-stable protein.                                         |
-| Trail mix (4 oz)            | 0.1 kg  | -    | Fat + carbs; pocket snack.                                    |
-| Hard tack / pilot bread     | 0.1 kg  | -    | Survival biscuit; indefinite shelf life.                      |
-| Maggi bouillon cubes (pack) | 0.05 kg | -    | Flavors bland field food.                                     |
-| Maggi Würze (small bottle)  | 0.1 kg  | -    | Liquid seasoning; ubiquitous in German kitchens.              |
+| Item                            | Weight  | Tags | Notes                                                         |
+|---------------------------------|---------|------|---------------------------------------------------------------|
+| MRE (24 h rations)              | 1.1 kg  | -    | One day's calories; 3 meals with heater, snacks, drink mix.   |
+| MRE entrée only                 | 0.4 kg  | -    | Main course stripped from the pouch; common weight-cut.       |
+| MRE pound cake / dessert        | 0.1 kg  | -    | Morale favorite; the unofficial currency of any MRE trade.    |
+| First Strike Ration (FSR)       | 0.9 kg  | -    | SOF 24h eat-on-the-move ration; no heater required.           |
+| Long-Range Patrol (LRP)         | 0.3 kg  | -    | Lightweight freeze-dried ration; needs hot water.             |
+| Humanitarian Daily Ration       | 0.9 kg  | -    | 2000 kcal civilian-distribution pack; vegetarian.             |
+| EPa (Einmannpackung)            | 1.6 kg  | -    | Bundeswehr 1-day ration; Typ I-IV. Cult item in German units. |
+| EPa Leberwurst tube             | 0.1 kg  | -    | Liver-sausage spread in a toothpaste tube; EPa classic.       |
+| EPa Corned Beef tin             | 0.2 kg  | -    | Rindfleisch-in-Dose; EPa staple.                              |
+| EPa Schmelzkäse tube            | 0.1 kg  | -    | Processed-cheese spread in a tube.                            |
+| Clif bar                        | 0.07 kg | -    | Civilian energy bar; 250 kcal.                                |
+| Snickers bar                    | 0.05 kg | -    | Trade currency; morale.                                       |
+| Protein bar                     | 0.07 kg | -    | Civilian/gym staple.                                          |
+| Ritter Sport square (100 g)     | 0.1 kg  | -    | Iconic German chocolate; fits any pocket.                     |
+| Haribo Goldbären (bag)          | 0.2 kg  | -    | Near-universal trade currency.                                |
+| Landjäger (pair)                | 0.1 kg  | -    | Hard smoked sausage; pocket-carry, no refrigeration.          |
+| Cabanossi (stick)               | 0.1 kg  | -    | Similar hard smoked sausage; shelf-stable.                    |
+| Knäckebrot (pack)               | 0.25 kg | -    | German crispbread; indefinite shelf life.                     |
+| Beef jerky (4 oz)               | 0.1 kg  | -    | Shelf-stable protein.                                         |
+| Trail mix (4 oz)                | 0.1 kg  | -    | Fat + carbs; pocket snack.                                    |
+| Hard tack / pilot bread         | 0.1 kg  | -    | Survival biscuit; indefinite shelf life.                      |
+| Mountain House dehydrated pouch | 0.15 kg | -    | Freeze-dried meal; needs 2 cups hot water. 7-year shelf life. |
+| 3600 kcal survival bar          | 0.6 kg  | -    | Dense calorie brick; 5-year shelf life.                       |
+| Maggi bouillon cubes (pack)     | 0.05 kg | -    | Flavors bland field food.                                     |
+| Maggi Würze (small bottle)      | 0.1 kg  | -    | Liquid seasoning; ubiquitous in German kitchens.              |
 
 ## Drinks
 
@@ -65,6 +67,7 @@ that.
 | Jägermeister miniature (40 mL)  | 0.08 kg | -    | Herbal liqueur; morale / local barter.                                               |
 | Korn / Schnaps flask (200 mL)   | 0.3 kg  | -    | Clear grain spirit; bribery currency.                                                |
 | Mini-bottle (liquor, 50 mL)     | 0.06 kg | -    | Airplane-bottle size; bribery currency.                                              |
+| Water purification tablets (50) | 0.05 kg | -    | Aquatabs; treats ~50 liters of field water.                                          |
 
 ## Stimulants and Vices
 
@@ -95,3 +98,9 @@ bribe currency in austere environments.
 | Jetboil stove           | 0.4 kg  | -    | Integrated canister stove; boils 0.5 L in ~100 s.  |
 | Jetboil canister (4 oz) | 0.2 kg  | -    | Isobutane + propane mix.                           |
 | MSR PocketRocket        | 0.07 kg | -    | Minimalist canister-top burner.                    |
+| Jerry can (20 L, empty) | 2.0 kg  | -    | Steel or plastic fuel transport container.         |
+| Petrol / gasoline (1 L) | 0.75 kg | -    | Unleaded fuel.                                     |
+| Diesel (1 L)            | 0.85 kg | -    | Vehicle and generator fuel.                        |
+| Kerosene (0.5 L)        | 0.45 kg | -    | Lanterns, heaters, small stoves.                   |
+| Propane canister (227g) | 0.5 kg  | -    | Small bottle; stoves and torches.                  |
+| Fire-starter cubes (20) | 0.08 kg | -    | Paraffin tinder cubes; lights wet wood.            |
