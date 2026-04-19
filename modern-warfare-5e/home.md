@@ -36,4 +36,5 @@ The homebrew rules set for realistic modern combat in D&D 5E. Use the index belo
 
 ## Reference
 
-- [Abbreviations](abbreviations.md) - glossary of acronyms, initialisms, and unit symbols used across the compendium.
+- [Glossary](glossary.md) - alphabetical index of topics and terms, each linking to the relevant page.
+- [Abbreviations](abbreviations.md) - acronyms, initialisms, and unit symbols used across the compendium.
