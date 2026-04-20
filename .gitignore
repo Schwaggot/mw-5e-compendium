@@ -46,3 +46,11 @@ $RECYCLE.BIN/
 *.pdf
 *.html
 !modern-warfare-5e-compendium.html
+
+# MkDocs build output (deployed to gh-pages branch automatically)
+/site/
+
+# Python / uv
+.venv/
+__pycache__/
+*.pyc

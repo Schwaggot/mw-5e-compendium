@@ -1,0 +1,128 @@
+---
+title: Abkürzungen
+aliases: [ Glossar, Akronyme ]
+tags: [ reference, moc ]
+---
+
+# Abkürzungen
+
+Schnellreferenz für die im Compendium verwendeten Abkürzungen, Akronyme und Einheitensymbole. Verlinkte Einträge zeigen
+auf die Seite, wo der Begriff definiert oder im Detail verwendet wird.
+
+- **2-PAM** - Pralidoxim (Nervengas-Antidot). Siehe [Medical](gear/medical.md#cbrn-and-antidotes).
+- **AC** - Armor Class. Siehe [Armor](armor.md).
+- **ACH** - Advanced Combat Helmet. Siehe [Armor: Helmets](armor.md#helmets).
+- **ACP** - Automatic Colt Pistol (Patronenfamilie, z.B. .45 ACP). Siehe [Pistols](weapons/pistols.md).
+- **APRS** - Automatic Packet Reporting System. Siehe [Comms](gear/comms.md).
+- **APT** - Advanced Persistent Threat.
+- **AR** - Assault Rifle. Siehe [Assault Rifles](weapons/assault-rifles.md).
+- **AVS** - Adaptive Vest System. Siehe [Armor](armor.md).
+- **BAS** - Battalion Aid Station (Zugang zu fortgeschrittener Ausrüstung). Siehe [Combat Medic](designations/combat-medic.md).
+- **BMG** - Browning Machine Gun (z.B. .50 BMG). Siehe [Machine Guns](weapons/machine-guns.md).
+- **BVM** - Bag-Valve Mask (Beatmungsbeutel). Siehe [Medical](gear/medical.md#airway-and-surgical).
+- **C4** - Composition 4 (Plastiksprengstoff). Siehe [Demolitions](gear/demolitions.md#main-charges).
+- **CANA** - Convulsant Antidote, Nerve Agent (Diazepam-Autoinjektor).
+  Siehe [Medical](gear/medical.md#cbrn-and-antidotes).
+- **CAT** - Combat Application Tourniquet. Siehe [Medical](gear/medical.md#bleeding-and-wound-control).
+- **CBRN** - Chemisch, Biologisch, Radiologisch, Nuklear. Siehe [Medical](gear/medical.md#cbrn-and-antidotes).
+- **CHA** - Charisma. Siehe [Attributes](rules/attributes.md#the-six-attributes).
+- **cm** - Zentimeter.
+- **CON** - Constitution. Siehe [Attributes](rules/attributes.md#the-six-attributes).
+- **COTS** - Commercial Off-The-Shelf (handelsübliche Ware). Siehe [Drones](gear/drones.md).
+- **CQB** - Close Quarters Battle. Siehe [Martial Weapon Programs](training/martial-weapon-programs.md).
+- **CQC** - Close Quarter Combat (Waffeneigenschaft). Siehe [Weapon Properties](rules/weapon-properties.md).
+- **CS** - Tränengas (2-Chlorbenzalmalononitril). Siehe [Saving Throws](rules/saving-throws.md).
+- **CSAR** - Combat Search and Rescue.
+- **CSI** - Crime Scene Investigation (Tatortuntersuchung).
+- **D&D** - Dungeons & Dragons.
+- **DAPS** - Deltoid/Axillary Protective System. Siehe [Armor: Add-on Soft Armor](armor.md#add-on-soft-armor).
+- **DC** - Difficulty Class. Siehe [Ability Checks](rules/ability-checks.md).
+- **DEX** - Dexterity. Siehe [Attributes](rules/attributes.md#the-six-attributes).
+- **DMR** - Designated Marksman Rifle. Siehe [Semi-Auto Rifles](weapons/semi-auto-rifles.md).
+- **DOPE** - Data On Previous Engagements (Datenbuch des Marksman). Siehe [Gear](gear.md).
+- **DR** - Damage Reduction. Siehe [Damage Types](rules/damage-types.md).
+- **ECWCS** - Extreme Cold Weather Clothing System. Siehe [Clothing](gear/clothing.md).
+- **EKG** - Elektrokardiogramm. Siehe [Medical](gear/medical.md#diagnostics).
+- **EOD** - Explosive Ordnance Disposal. Siehe [Demolitions Specialist](designations/demolitions-specialist.md).
+- **ESAPI** - Enhanced Small Arms Protective Insert (Platte). Siehe [Armor: Plates](armor.md#plates).
+- **ET** - Endotracheal (Atemweg). Siehe [Medical](gear/medical.md#airway-and-surgical).
+- **FMJ** - Full Metal Jacket (Munitionstyp). Siehe [Armor: Stopping Power](armor.md#stopping-power-nij-levels).
+- **FOV** - Field of View (Sichtfeld). Siehe [Optics](gear/optics.md).
+- **FRS** - Family Radio Service. Siehe [Comms](gear/comms.md).
+- **ft** - Fuß. Siehe [Movement](rules/movement.md).
+- **FUBAR** - Fouled Up Beyond All Recognition (Waffenfehlfunktion).
+  Siehe [Weapon Properties](rules/weapon-properties.md).
+- **GPMG** - General Purpose Machine Gun. Siehe [Machine Guns](weapons/machine-guns.md).
+- **GPS** - Global Positioning System. Siehe [Field Kit](gear/field-kit.md).
+- **gr** - Grain (Geschossmasse).
+- **HF** - High Frequency (Funkband). Siehe [Comms](gear/comms.md).
+- **HMG** - Heavy Machine Gun. Siehe [Machine Guns](weapons/machine-guns.md).
+- **HP** - Hit Points. Siehe [Hit Points](rules/hit-points.md).
+- **hr** - Stunde.
+- **HVT** - High-Value Target (hochwertiges Ziel).
+- **ICS** - Industrial Control Systems.
+- **IED** - Improvised Explosive Device (unkonventionelle Spreng- oder Brandvorrichtung).
+- **IFAK** - Individual First Aid Kit (persönliches Erste-Hilfe-Set). Siehe [Medical](gear/medical.md#kits-and-bags).
+- **IFF** - Identification Friend or Foe (Freund-Feind-Erkennung).
+- **in** - Zoll.
+- **INT** - Intelligence. Siehe [Attributes](rules/attributes.md#the-six-attributes).
+- **IR** - Infrarot. Siehe [Optics](gear/optics.md).
+- **IV** - Intravenös. Siehe [Medical](gear/medical.md).
+- **JPC** - Jumpable Plate Carrier. Siehe [Armor](armor.md).
+- **JTAC** - Joint Tactical Air Controller.
+- **JTRS** - Joint Tactical Radio System. Siehe [Comms](gear/comms.md).
+- **kg** - Kilogramm. Siehe [Encumbrance](rules/encumbrance.md).
+- **KI** - Kaliumiodid. Siehe [Medical](gear/medical.md#cbrn-and-antidotes).
+- **lb** - Pfund. Siehe [Encumbrance](rules/encumbrance.md).
+- **LBS** - Load-Bearing System (Tragesystem Weste/Rig).
+- **LMG** - Light Machine Gun. Siehe [Machine Guns](weapons/machine-guns.md).
+- **LoRa** - Long Range (Mesh-Funkprotokoll). Siehe [Comms](gear/comms.md).
+- **LSW** - Light Support Weapon. Siehe [Machine Guns](weapons/machine-guns.md).
+- **m** - Meter.
+- **MAG** - Magazin (Munitionsbehälter).
+- **MBITR** - Multiband Inter/Intra Team Radio. Siehe [Comms](gear/comms.md).
+- **MICH** - Modular Integrated Communications Helmet. Siehe [Armor: Helmets](armor.md#helmets).
+- **min** - Minute.
+- **mm** - Millimeter.
+- **MOA** - Minute of Angle (Winkel-Genauigkeit).
+- **MOLLE** - Modular Lightweight Load-carrying Equipment. Siehe [Packs](gear/packs.md).
+- **NATO** - North Atlantic Treaty Organization.
+- **NIJ** - National Institute of Justice (Rüstungsbewertungsstandard, Stufen IIA / II / IIIA / III / III+ / IV).
+  Siehe [Armor: Stopping Power](armor.md#stopping-power-nij-levels).
+- **NPC** - Non-Player Character (Nicht-Spieler-Charakter).
+- **NVG** - Night Vision Goggles (Nachtsichtgerät). Siehe [Optics: Night Vision](gear/optics.md#night-vision).
+- **ODT** - Oral Dissolvable Tablet (oral lösliche Tablette). Siehe [Medical](gear/medical.md#drugs-and-supplements).
+- **OPA** - Oropharyngeal Airway. Siehe [Medical](gear/medical.md#airway-and-surgical).
+- **OT** - Operational Technology.
+- **OTFC** - Oral Transmucosal Fentanyl Citrate. Siehe [Medical](gear/medical.md#drugs-and-supplements).
+- **oz** - Unze.
+- **P** - Parabellum (z.B. 9mm P). Siehe [Pistols](weapons/pistols.md).
+- **PASGT** - Personnel Armor System for Ground Troops (Helm). Siehe [Armor: Helmets](armor.md#helmets).
+- **PBX** - Private Branch Exchange (Nebenstellenanlage). Siehe [Comms](gear/comms.md).
+- **PLRF** - Pulsed Laser Rangefinder (gepulster Laser-Entfernungsmesser). Siehe [Optics](gear/optics.md).
+- **PPE** - Personal Protective Equipment (persönliche Schutzausrüstung).
+- **PTT** - Push-to-Talk. Siehe [Comms](gear/comms.md).
+- **QRP** - Niedrigleistungs-Funkbetrieb. Siehe [Comms](gear/comms.md).
+- **RF** - Radio Frequency (Funkfrequenz).
+- **RFID** - Radio Frequency Identification.
+- **RPG** - Rocket Propelled Grenade. Siehe [Rocket Launchers](weapons/rocket-launchers.md).
+- **S/B/A** - Single / Burst / Auto Feuerwahlmodi. Siehe [Weapon Properties](rules/weapon-properties.md).
+- **SAM** - Junctional Tourniquet (Marke). Siehe [Medical](gear/medical.md#bleeding-and-wound-control).
+- **SAPI** - Small Arms Protective Insert (Platte). Siehe [Armor: Plates](armor.md#plates).
+- **SAR** - Search and Rescue (Suche und Rettung).
+- **SAW** - Squad Automatic Weapon. Siehe [Machine Guns](weapons/machine-guns.md).
+- **sec** - Sekunde.
+- **SERE** - Survival, Evasion, Resistance, Escape. Siehe [Gear](gear.md).
+- **SMG** - Submachine Gun. Siehe [Submachine Guns](weapons/submachine-guns.md).
+- **SOF** - Special Operations Forces (Spezialeinheiten).
+- **SOF-T** - Special Operations Forces Tourniquet. Siehe [Medical](gear/medical.md#bleeding-and-wound-control).
+- **STR** - Strength. Siehe [Attributes](rules/attributes.md#the-six-attributes).
+- **T&E** - Traverse and Elevation (MG-Halterungsmechanismus). Siehe [Gear](gear.md).
+- **TBI** - Traumatic Brain Injury (Schädel-Hirn-Trauma). Siehe [Medical](gear/medical.md#diagnostics).
+- **TCCC** - Tactical Combat Casualty Care. Siehe [Medical](gear/medical.md).
+- **TXA** - Tranexamsäure (Antifibrinolytikum). Siehe [Medical](gear/medical.md#drugs-and-supplements).
+- **UHF** - Ultra High Frequency. Siehe [Comms](gear/comms.md).
+- **UV** - Ultraviolett.
+- **VHF** - Very High Frequency. Siehe [Comms](gear/comms.md).
+- **VS-17** - Visuelles Signalpanel. Siehe [Comms](gear/comms.md).
+- **WIS** - Wisdom. Siehe [Attributes](rules/attributes.md#the-six-attributes).

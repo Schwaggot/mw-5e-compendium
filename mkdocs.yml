@@ -82,6 +82,23 @@ plugins:
           name: Deutsch
           build: true
           site_name: Modern Warfare 5E Kompendium
+          nav_translations:
+            Home: Startseite
+            Character: Charakter
+            Character Creation: Charaktererstellung
+            Personality Traits: Persönlichkeitsmerkmale
+            Backgrounds: Hintergründe
+            Operator Class: Operator-Klasse
+            Combat Designations: Kampfrollen
+            Training Programs: Ausbildungsprogramme
+            Equipment: Ausrüstung
+            Weapons: Waffen
+            Armor: Rüstung
+            Gear: Gerät
+            Rules: Regeln
+            Reference: Referenz
+            Glossary: Glossar
+            Abbreviations: Abkürzungen
 
 nav:
   - Home: home.md
