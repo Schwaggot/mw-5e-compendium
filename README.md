@@ -29,6 +29,43 @@ The compendium lives under [`modern-warfare-5e/`](./modern-warfare-5e/home.md). 
 
 Open the `modern-warfare-5e/` folder as an Obsidian vault for in-session lookup, or browse it on GitHub.
 
+The compendium is also published as a static site at
+**<https://schwaggot.github.io/mw-5e-compendium/>** (English + German).
+
+## Publishing the site
+
+The site is built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and the
+[`mkdocs-static-i18n`](https://github.com/ultrabug/mkdocs-static-i18n) plugin. Python dependencies are
+managed with [uv](https://docs.astral.sh/uv/) via `pyproject.toml`.
+
+### Automatic deploys
+
+Every push to `main` triggers
+[`.github/workflows/gh-pages.yml`](./.github/workflows/gh-pages.yml), which builds the site with
+`mkdocs gh-deploy` and force-pushes the output to the `gh-pages` branch. GitHub Pages serves that
+branch at the URL above.
+
+To force a fresh rebuild without a content change, go to
+**Actions -> Deploy MkDocs to GitHub Pages -> Run workflow**.
+
+The `gh-pages` branch is a build-output branch - do not check it out or commit to it manually.
+
+### Local preview
+
+```bash
+uv sync
+uv run mkdocs serve
+```
+
+Open <http://127.0.0.1:8000/mw-5e-compendium/>. Changes to markdown files, `mkdocs.yml`, and
+`modern-warfare-5e/stylesheets/extra.css` live-reload.
+
+### Adding German translations
+
+For each English file, add a sibling `<name>.de.md` in the same directory. Untranslated pages fall
+back to the English version automatically. Translated heading anchors should be preserved as
+`## Translated Heading {#original-english-slug}` so cross-file links keep resolving.
+
 ## What has changed from the original
 
 - The original GM Binder document was transcribed into markdown and then split into topic files under
