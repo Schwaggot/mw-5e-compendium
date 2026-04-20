@@ -1,0 +1,581 @@
+/* ============================================================
+   Modern Warfare 5E - Tactical Field Manual Theme
+   Olive drab on charcoal. Stenciled display, mono accents.
+   ============================================================ */
+
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&display=swap");
+
+/* ---------- TOKENS: DARK (primary) ---------- */
+[data-md-color-scheme="slate"] {
+  --atlas-bg: #0f1114;
+  --atlas-surface: #1a1d20;
+  --atlas-surface-2: #262a2f;
+  --atlas-surface-3: #1f2226;
+  --atlas-border: #3a3f44;
+  --atlas-border-strong: #555a60;
+  --atlas-text: #e6e6e6;
+  --atlas-text-dim: #b8bcc0;
+  --atlas-text-muted: #7a8087;
+  --atlas-accent: #8ab85e;
+  --atlas-accent-bright: #a0c974;
+  --atlas-accent-dim: #5f7d3f;
+  --atlas-danger: #c85a4a;
+  --atlas-warn: #d4a24a;
+
+  --md-default-bg-color: var(--atlas-bg);
+  --md-default-fg-color: var(--atlas-text);
+  --md-default-fg-color--light: var(--atlas-text-dim);
+  --md-default-fg-color--lighter: var(--atlas-text-muted);
+  --md-default-fg-color--lightest: var(--atlas-border);
+
+  --md-primary-fg-color: var(--atlas-surface);
+  --md-primary-fg-color--light: var(--atlas-surface-2);
+  --md-primary-fg-color--dark: var(--atlas-bg);
+  --md-primary-bg-color: var(--atlas-text);
+  --md-primary-bg-color--light: var(--atlas-text-dim);
+
+  --md-accent-fg-color: var(--atlas-accent-bright);
+  --md-accent-fg-color--transparent: rgba(138, 184, 94, 0.12);
+  --md-accent-bg-color: var(--atlas-bg);
+
+  --md-typeset-a-color: var(--atlas-accent-bright);
+  --md-code-bg-color: var(--atlas-surface-3);
+  --md-code-fg-color: var(--atlas-accent-bright);
+
+  --md-footer-bg-color: var(--atlas-bg);
+  --md-footer-bg-color--dark: #08090b;
+  --md-footer-fg-color: var(--atlas-text-dim);
+}
+
+/* ---------- TOKENS: LIGHT ---------- */
+[data-md-color-scheme="default"] {
+  --atlas-bg: #e8e6e0;
+  --atlas-surface: #f2f0ea;
+  --atlas-surface-2: #dcd9d1;
+  --atlas-surface-3: #ebe8e1;
+  --atlas-border: #b4b0a6;
+  --atlas-border-strong: #8a8579;
+  --atlas-text: #1a1d20;
+  --atlas-text-dim: #3a3f44;
+  --atlas-text-muted: #6a6862;
+  --atlas-accent: #4d6524;
+  --atlas-accent-bright: #3e5419;
+  --atlas-accent-dim: #7a9447;
+  --atlas-danger: #8e3626;
+  --atlas-warn: #8a6418;
+
+  --md-default-bg-color: var(--atlas-bg);
+  --md-default-fg-color: var(--atlas-text);
+  --md-default-fg-color--light: var(--atlas-text-dim);
+  --md-default-fg-color--lighter: var(--atlas-text-muted);
+  --md-default-fg-color--lightest: var(--atlas-border);
+
+  --md-primary-fg-color: #1a1d20;
+  --md-primary-fg-color--light: #262a2f;
+  --md-primary-fg-color--dark: #0f1114;
+  --md-primary-bg-color: var(--atlas-surface);
+  --md-primary-bg-color--light: var(--atlas-surface-2);
+
+  --md-accent-fg-color: var(--atlas-accent);
+  --md-accent-fg-color--transparent: rgba(77, 101, 36, 0.12);
+  --md-accent-bg-color: var(--atlas-surface);
+
+  --md-typeset-a-color: var(--atlas-accent);
+  --md-code-bg-color: var(--atlas-surface-2);
+  --md-code-fg-color: var(--atlas-accent-bright);
+
+  --md-footer-bg-color: #1a1d20;
+  --md-footer-bg-color--dark: #0f1114;
+  --md-footer-fg-color: #e6e6e6;
+}
+
+/* ---------- GLOBAL CANVAS ---------- */
+body {
+  background:
+    linear-gradient(var(--atlas-bg), var(--atlas-bg)),
+    repeating-linear-gradient(
+      0deg,
+      transparent 0,
+      transparent 39px,
+      rgba(138, 184, 94, 0.025) 39px,
+      rgba(138, 184, 94, 0.025) 40px
+    );
+}
+
+.md-typeset {
+  font-feature-settings: "ss01", "ss02", "kern", "liga";
+}
+
+/* ---------- HEADER: COMMAND BAR ---------- */
+.md-header {
+  background: var(--md-primary-fg-color);
+  border-bottom: 1px solid var(--atlas-accent-dim);
+  box-shadow: 0 0 0 1px var(--atlas-border) inset,
+              0 2px 0 0 var(--atlas-bg);
+}
+
+[data-md-color-scheme="slate"] .md-header {
+  background: linear-gradient(180deg, #1a1d20 0%, #14171a 100%);
+}
+
+.md-header__title {
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 1.05rem;
+}
+
+.md-header__topic {
+  font-weight: 700;
+}
+
+.md-header__topic:first-child .md-ellipsis::before {
+  content: "[ ";
+  color: var(--atlas-accent);
+  font-weight: 700;
+}
+
+.md-header__topic:first-child .md-ellipsis::after {
+  content: " ]";
+  color: var(--atlas-accent);
+  font-weight: 700;
+}
+
+/* Search input - tactical input field */
+.md-search__input {
+  background: var(--atlas-surface-3) !important;
+  color: var(--atlas-text) !important;
+  border: 1px solid var(--atlas-border);
+  border-radius: 2px;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+}
+
+.md-search__input::placeholder {
+  color: var(--atlas-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+}
+
+.md-search__input:focus {
+  border-color: var(--atlas-accent);
+  box-shadow: 0 0 0 2px rgba(138, 184, 94, 0.15);
+}
+
+/* ---------- NAV TABS ---------- */
+.md-tabs {
+  background: var(--md-primary-fg-color--dark);
+  border-bottom: 1px solid var(--atlas-border);
+}
+
+.md-tabs__link {
+  font-family: "Rajdhani", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-weight: 600;
+  font-size: 0.78rem;
+  opacity: 0.75;
+  transition: opacity 120ms ease, color 120ms ease;
+}
+
+.md-tabs__link:hover,
+.md-tabs__link--active {
+  opacity: 1;
+  color: var(--atlas-accent-bright);
+}
+
+.md-tabs__link--active {
+  border-bottom: 2px solid var(--atlas-accent);
+  padding-bottom: 2px;
+}
+
+/* ---------- SIDEBAR NAV ---------- */
+.md-nav {
+  font-size: 0.74rem;
+}
+
+.md-nav__title {
+  font-family: "Rajdhani", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-weight: 700;
+  font-size: 0.72rem;
+  color: var(--atlas-text-muted);
+  border-bottom: 1px solid var(--atlas-border);
+  padding-bottom: 0.4rem;
+}
+
+.md-nav__item {
+  padding: 0;
+}
+
+.md-nav__link {
+  font-family: "IBM Plex Sans", sans-serif;
+  letter-spacing: 0.02em;
+  color: var(--atlas-text-dim);
+  padding: 0.28rem 0.6rem;
+  border-left: 2px solid transparent;
+  transition: border-color 100ms ease, color 100ms ease, background 100ms ease;
+}
+
+.md-nav__link:hover {
+  color: var(--atlas-accent-bright);
+  background: var(--md-accent-fg-color--transparent);
+  border-left-color: var(--atlas-accent-dim);
+}
+
+.md-nav__link--active,
+.md-nav__link--active:focus,
+.md-nav__link--active:hover {
+  color: var(--atlas-accent-bright) !important;
+  border-left-color: var(--atlas-accent);
+  background: var(--md-accent-fg-color--transparent);
+  font-weight: 600;
+}
+
+/* Section labels in sidebar get a leading marker */
+.md-nav--secondary .md-nav__title {
+  color: var(--atlas-accent);
+}
+
+/* ---------- CONTENT: TYPOGRAPHY ---------- */
+.md-content {
+  background: var(--atlas-bg);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--atlas-text);
+}
+
+.md-typeset h1 {
+  font-size: 2.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  line-height: 1.1;
+  padding-bottom: 0.6rem;
+  margin-bottom: 1.2rem;
+  position: relative;
+  color: var(--atlas-text);
+  border-bottom: 2px solid var(--atlas-accent);
+}
+
+.md-typeset h1::before {
+  content: "//";
+  color: var(--atlas-accent);
+  margin-right: 0.5em;
+  font-weight: 700;
+}
+
+.md-typeset h2 {
+  font-size: 1.45rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--atlas-accent-bright);
+  border-bottom: 1px solid var(--atlas-border);
+  padding-bottom: 0.3rem;
+  margin-top: 2.2rem;
+}
+
+.md-typeset h3 {
+  font-size: 1.15rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--atlas-text);
+}
+
+.md-typeset h3::before {
+  content: "> ";
+  color: var(--atlas-accent);
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 700;
+}
+
+.md-typeset h4 {
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--atlas-text-dim);
+}
+
+.md-typeset h5,
+.md-typeset h6 {
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--atlas-text-muted);
+  font-size: 0.82rem;
+}
+
+.md-typeset {
+  font-size: 0.82rem;
+  line-height: 1.68;
+}
+
+.md-typeset a {
+  text-decoration: none;
+  border-bottom: 1px dotted var(--atlas-accent-dim);
+  transition: border-color 120ms ease, color 120ms ease;
+}
+
+.md-typeset a:hover {
+  border-bottom: 1px solid var(--atlas-accent-bright);
+  color: var(--atlas-accent-bright);
+}
+
+/* ---------- CODE ---------- */
+.md-typeset code {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.78em;
+  background: var(--md-code-bg-color);
+  color: var(--md-code-fg-color);
+  border: 1px solid var(--atlas-border);
+  border-radius: 2px;
+  padding: 0.1em 0.4em;
+  letter-spacing: 0.02em;
+}
+
+.md-typeset pre > code {
+  border: none;
+  padding: 0;
+  background: transparent;
+}
+
+.md-typeset pre {
+  border: 1px solid var(--atlas-border);
+  border-left: 3px solid var(--atlas-accent);
+  border-radius: 2px;
+  background: var(--md-code-bg-color);
+}
+
+/* ---------- TABLES: STAT BLOCKS ---------- */
+.md-typeset table:not([class]) {
+  border: 1px solid var(--atlas-border);
+  border-radius: 0;
+  background: var(--atlas-surface);
+  font-size: 0.78rem;
+  box-shadow: none;
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--atlas-surface-2);
+  color: var(--atlas-accent-bright);
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.78rem;
+  border-bottom: 2px solid var(--atlas-accent);
+  padding: 0.6rem 0.8rem;
+}
+
+.md-typeset table:not([class]) td {
+  border-top: 1px solid var(--atlas-border);
+  padding: 0.55rem 0.8rem;
+}
+
+.md-typeset table:not([class]) tr:hover td {
+  background: var(--md-accent-fg-color--transparent);
+}
+
+/* ---------- BLOCKQUOTES: FIELD NOTES ---------- */
+.md-typeset blockquote {
+  border-left: 3px solid var(--atlas-accent);
+  background: var(--atlas-surface);
+  color: var(--atlas-text-dim);
+  padding: 0.8rem 1rem 0.8rem 1.2rem;
+  margin: 1.2rem 0;
+  font-style: normal;
+  position: relative;
+}
+
+.md-typeset blockquote::before {
+  content: "// FIELD NOTE";
+  display: block;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.65rem;
+  color: var(--atlas-accent);
+  letter-spacing: 0.2em;
+  margin-bottom: 0.4rem;
+  text-transform: uppercase;
+}
+
+/* ---------- HR: MIL-SPEC DIVIDER ---------- */
+.md-typeset hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--atlas-border) 20%,
+    var(--atlas-accent-dim) 50%,
+    var(--atlas-border) 80%,
+    transparent 100%
+  );
+  margin: 2rem 0;
+  position: relative;
+}
+
+.md-typeset hr::after {
+  content: "/ / /";
+  position: absolute;
+  top: -0.7rem;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 0 0.8rem;
+  background: var(--atlas-bg);
+  color: var(--atlas-accent);
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.3em;
+}
+
+/* ---------- LISTS ---------- */
+.md-typeset ul li::marker {
+  color: var(--atlas-accent);
+}
+
+.md-typeset ol li::marker {
+  color: var(--atlas-accent);
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 700;
+}
+
+/* ---------- ADMONITIONS ---------- */
+.md-typeset .admonition,
+.md-typeset details {
+  border: 1px solid var(--atlas-border);
+  border-left: 3px solid var(--atlas-accent);
+  border-radius: 2px;
+  background: var(--atlas-surface);
+  box-shadow: none;
+  font-size: 0.78rem;
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  font-family: "Rajdhani", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-weight: 700;
+  background: var(--atlas-surface-2) !important;
+  color: var(--atlas-accent-bright) !important;
+  border-bottom: 1px solid var(--atlas-border);
+}
+
+.md-typeset .admonition-title::before,
+.md-typeset summary::before {
+  background-color: var(--atlas-accent) !important;
+}
+
+.md-typeset .admonition.warning,
+.md-typeset .admonition.caution {
+  border-left-color: var(--atlas-warn);
+}
+
+.md-typeset .admonition.warning .admonition-title,
+.md-typeset .admonition.caution .admonition-title {
+  color: var(--atlas-warn) !important;
+}
+
+.md-typeset .admonition.danger,
+.md-typeset .admonition.failure {
+  border-left-color: var(--atlas-danger);
+}
+
+.md-typeset .admonition.danger .admonition-title,
+.md-typeset .admonition.failure .admonition-title {
+  color: var(--atlas-danger) !important;
+}
+
+/* ---------- SEARCH RESULTS ---------- */
+.md-search-result__meta {
+  background: var(--atlas-surface);
+  color: var(--atlas-text-muted);
+  font-family: "JetBrains Mono", monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.65rem;
+}
+
+.md-search-result__link:hover,
+.md-search-result__link[data-md-state="active"] {
+  background: var(--md-accent-fg-color--transparent);
+}
+
+/* ---------- FOOTER ---------- */
+.md-footer {
+  background: var(--md-footer-bg-color);
+  border-top: 1px solid var(--atlas-accent-dim);
+}
+
+.md-footer-meta {
+  background: var(--md-footer-bg-color--dark);
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+}
+
+.md-footer__link {
+  font-family: "Rajdhani", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+/* ---------- SCROLLBAR ---------- */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--atlas-border) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--atlas-bg);
+}
+
+*::-webkit-scrollbar-thumb {
+  background: var(--atlas-border);
+  border: 2px solid var(--atlas-bg);
+  border-radius: 0;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--atlas-accent-dim);
+}
+
+/* ---------- SELECTION ---------- */
+::selection {
+  background: var(--atlas-accent);
+  color: var(--atlas-bg);
+}
+
+/* ---------- TOC (right sidebar) ---------- */
+.md-nav--secondary .md-nav__link {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.02em;
+  text-transform: none;
+}
+
+/* ---------- PRINT-FRIENDLY: preserve the tactical card look ---------- */
+@media print {
+  .md-typeset h1::before,
+  .md-typeset h3::before,
+  .md-typeset hr::after,
+  .md-typeset blockquote::before {
+    color: #4d6524;
+  }
+}
