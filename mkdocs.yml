@@ -1,0 +1,131 @@
+site_name: Modern Warfare 5E Compendium
+site_description: A homebrew D&D 5E compendium for realistic modern combat.
+site_url: https://schwaggot.github.io/mw-5e-compendium/
+repo_url: https://github.com/Schwaggot/mw-5e-compendium
+repo_name: Schwaggot/mw-5e-compendium
+edit_uri: edit/main/modern-warfare-5e/
+
+docs_dir: modern-warfare-5e
+
+theme:
+  name: material
+  font:
+    text: IBM Plex Sans
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.smartsymbols
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.mark
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: de
+          name: Deutsch
+          build: true
+          site_name: Modern Warfare 5E Kompendium
+          nav_translations:
+            Home: Startseite
+            Character: Charakter
+            Character Creation: Charaktererstellung
+            Personality Traits: Persönlichkeitsmerkmale
+            Backgrounds: Hintergründe
+            Operator Class: Operator-Klasse
+            Combat Designations: Kampfrollen
+            Training Programs: Ausbildungsprogramme
+            Equipment: Ausrüstung
+            Weapons: Waffen
+            Armor: Rüstung
+            Gear: Gerät
+            Rules: Regeln
+            Reference: Referenz
+            Glossary: Glossar
+            Abbreviations: Abkürzungen
+
+nav:
+  - Home: home.md
+  - Character:
+      - Character Creation: character-creation.md
+      - Personality Traits: personality-traits.md
+      - Backgrounds: backgrounds.md
+      - Operator Class: operator-class.md
+  - Combat Designations: combat-designations.md
+  - Training Programs: training-programs.md
+  - Equipment:
+      - Weapons: weapons.md
+      - Armor: armor.md
+      - Gear: gear.md
+  - Rules: rules.md
+  - Reference:
+      - Glossary: glossary.md
+      - Abbreviations: abbreviations.md
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  alternate:
+    - name: English
+      link: /mw-5e-compendium/
+      lang: en
+    - name: Deutsch
+      link: /mw-5e-compendium/de/
+      lang: de
