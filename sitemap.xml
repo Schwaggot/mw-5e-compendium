@@ -239,6 +239,13 @@
         <xhtml:link rel="alternate" hreflang="de" href="https://schwaggot.github.io/mw-5e-compendium/de/rules/advantage/"/>
     </url>
     <url>
+        <loc>https://schwaggot.github.io/mw-5e-compendium/rules/ammunition/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://schwaggot.github.io/mw-5e-compendium/rules/ammunition/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://schwaggot.github.io/mw-5e-compendium/de/rules/ammunition/"/>
+    </url>
+    <url>
         <loc>https://schwaggot.github.io/mw-5e-compendium/rules/attributes/</loc>
         <lastmod>2026-04-21</lastmod>
         <changefreq>daily</changefreq>
@@ -720,6 +727,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://schwaggot.github.io/mw-5e-compendium/de/rules/advantage/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://schwaggot.github.io/mw-5e-compendium/rules/advantage/"/>
+    </url>
+    <url>
+        <loc>https://schwaggot.github.io/mw-5e-compendium/de/rules/ammunition/</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://schwaggot.github.io/mw-5e-compendium/de/rules/ammunition/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://schwaggot.github.io/mw-5e-compendium/rules/ammunition/"/>
     </url>
     <url>
         <loc>https://schwaggot.github.io/mw-5e-compendium/de/rules/attributes/</loc>
