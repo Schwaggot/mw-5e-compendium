@@ -6,7 +6,8 @@ tags: [ reference, moc ]
 
 # Glossar
 
-Alphabetischer Index von Themen, Begriffen und Mechaniken, die das Compendium behandelt. Jeder Eintrag verlinkt auf die Seite (oder Seiten),
+Alphabetischer Index von Themen, Begriffen und Mechaniken, die das Compendium behandelt. Jeder Eintrag verlinkt auf die
+Seite (oder Seiten),
 auf der das Thema definiert ist. Für eine Liste von Kurzformen und Einheitensymbolen
 siehe [Abkürzungen](abbreviations.md).
 
@@ -117,7 +118,7 @@ siehe [Abkürzungen](abbreviations.md).
 - **Proficiency Bonus** - Siehe [Proficiency Bonus](rules/proficiency.md#proficiency-bonus).
 - **Push, Drag, Lift** - Siehe [Push, Drag, Lift](rules/encumbrance.md#push-drag-lift).
 - **Reactions** - Siehe [Reactions](rules/combat-turn.md#reactions).
-- **Reload** - Siehe [Combat Actions](rules/combat-actions.md).
+- **Reload** - Siehe [Actions](rules/combat-turn.md#actions), [Weapon Properties](rules/weapon-properties.md).
 - **Rast** - Siehe [Rest](rules/rest.md).
 - **Resourceful** - Siehe [Resourceful](operator-class.md#resourceful).
 - **Rifleman** - Siehe [Rifleman](designations/rifleman.md).

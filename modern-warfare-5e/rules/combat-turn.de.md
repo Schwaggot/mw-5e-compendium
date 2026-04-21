@@ -57,20 +57,21 @@ aufsparen.
 
 Das Standard-Menü der Actions ist:
 
-| Action               | Wirkung                                                                                                                       |
-|----------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **Attack**           | Mache einen Waffenangriff (oder mehr, mit Extra Attack). Siehe [Combat Actions](combat-actions.md).                           |
+| Action               | Wirkung                                                                                                                           |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **Attack**           | Mache einen Waffenangriff (oder mehr, mit Extra Attack). Siehe [Combat Actions](combat-actions.md).                               |
 | **Aim**              | +2 auf Ranged-Attack-Rolls gegen ein gewähltes Ziel, bis die Line of Sight bricht. Siehe [Combat Actions](combat-actions.md#aim). |
-| **Dash**             | Bewege dich in diesem Zug erneut bis zu deiner Speed (insgesamt also 2× Speed).                                               |
-| **Disengage**        | Bewegung provoziert für den Rest des Zuges keine Opportunity Attacks mehr.                                                    |
-| **Dodge**            | Bis zu deinem nächsten Zug: Angriffe gegen dich haben Disadvantage; du hast Advantage auf DEX Saves.                          |
-| **Help**             | Gewähre einem Verbündeten Advantage auf seinen nächsten Ability Check oder Angriff gegen eine Kreatur innerhalb 5 ft von dir. |
-| **Hide**             | Mache einen DEX (Stealth) Check, kontrastiert durch die passive Perception der Beobachter. Siehe [Cover](cover.md).           |
-| **Ready**            | Wähle einen Auslöser und eine einzelne Action; die Action feuert als Reaction, wenn der Auslöser eintritt.                    |
-| **Search**           | Mache einen WIS (Perception) oder INT (Investigation) Check.                                                                  |
-| **Use an Object**    | Eine zweite Object Interaction in diesem Zug, oder benutze ein Ausrüstungsstück, das dies erfordert.                          |
-| **Suppressive Fire** | Siehe [Combat Actions](combat-actions.md#suppressive-fire). Schließt Attack im selben Zug gegenseitig aus.                    |
-| **Use a Feature**    | Aktiviere eine Class-, Designation- oder Training-Program-Fähigkeit, die mit "as an action" aufgeführt ist.                   |
+| **Dash**             | Bewege dich in diesem Zug erneut bis zu deiner Speed (insgesamt also 2× Speed).                                                   |
+| **Disengage**        | Bewegung provoziert für den Rest des Zuges keine Opportunity Attacks mehr.                                                        |
+| **Dodge**            | Bis zu deinem nächsten Zug: Angriffe gegen dich haben Disadvantage; du hast Advantage auf DEX Saves.                              |
+| **Help**             | Gewähre einem Verbündeten Advantage auf seinen nächsten Ability Check oder Angriff gegen eine Kreatur innerhalb 5 ft von dir.     |
+| **Hide**             | Mache einen DEX (Stealth) Check, kontrastiert durch die passive Perception der Beobachter. Siehe [Cover](cover.md).               |
+| **Ready**            | Wähle einen Auslöser und eine einzelne Action; die Action feuert als Reaction, wenn der Auslöser eintritt.                        |
+| **Reload**           | Lade eine leere Waffe nach. Alternativ opfere einen Angriff der Attack Action. Siehe [Weapon Properties](weapon-properties.md).   |
+| **Search**           | Mache einen WIS (Perception) oder INT (Investigation) Check.                                                                      |
+| **Use an Object**    | Eine zweite Object Interaction in diesem Zug, oder benutze ein Ausrüstungsstück, das dies erfordert.                              |
+| **Suppressive Fire** | Siehe [Combat Actions](combat-actions.md#suppressive-fire). Schließt Attack im selben Zug gegenseitig aus.                        |
+| **Use a Feature**    | Aktiviere eine Class-, Designation- oder Training-Program-Fähigkeit, die mit "as an action" aufgeführt ist.                       |
 
 [Combat Actions](combat-actions.md) fügt Feuermodus-Actions (Spray, Riddle, Controlled Burst, Burst Fire) oben drauf
 zu diesem Menü hinzu.

@@ -117,7 +117,7 @@ see [Abbreviations](abbreviations.md).
 - **Proficiency Bonus** - See [Proficiency Bonus](rules/proficiency.md#proficiency-bonus).
 - **Push, Drag, Lift** - See [Push, Drag, Lift](rules/encumbrance.md#push-drag-lift).
 - **Reactions** - See [Reactions](rules/combat-turn.md#reactions).
-- **Reload** - See [Combat Actions](rules/combat-actions.md).
+- **Reload** - See [Actions](rules/combat-turn.md#actions), [Weapon Properties](rules/weapon-properties.md).
 - **Rest** - See [Rest](rules/rest.md).
 - **Resourceful** - See [Resourceful](operator-class.md#resourceful).
 - **Rifleman** - See [Rifleman](designations/rifleman.md).

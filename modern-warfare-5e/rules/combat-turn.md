@@ -53,20 +53,21 @@ or after your action. You cannot bank unused movement or actions for later.
 
 The standard menu of actions is:
 
-| Action               | Effect                                                                                                                       |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------|
-| **Attack**           | Make one weapon attack (or more, with Extra Attack). See [Combat Actions](combat-actions.md).                                |
-| **Aim**              | +2 to ranged attack rolls against one chosen target until line of sight breaks. See [Combat Actions](combat-actions.md#aim). |
-| **Dash**             | Move up to your speed again this turn (so total movement = 2× speed).                                                        |
-| **Disengage**        | Movement no longer provokes opportunity attacks for the rest of the turn.                                                    |
-| **Dodge**            | Until your next turn: attacks against you have disadvantage; you have advantage on DEX saves.                                |
-| **Help**             | Grant an ally advantage on their next ability check or attack against a creature within 5 ft of you.                         |
-| **Hide**             | Make a DEX (Stealth) check, contested by the watchers' passive Perception. See [Cover](cover.md).                            |
-| **Ready**            | Choose a trigger and a single action; the action fires as a reaction when the trigger occurs.                                |
-| **Search**           | Make a WIS (Perception) or INT (Investigation) check.                                                                        |
-| **Use an Object**    | A second object interaction this turn, or use a piece of gear that requires it.                                              |
-| **Suppressive Fire** | See [Combat Actions](combat-actions.md#suppressive-fire). Mutually exclusive with Attack on the same turn.                   |
-| **Use a Feature**    | Activate any class, designation, or training-program ability that lists "as an action."                                      |
+| Action               | Effect                                                                                                                        |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Attack**           | Make one weapon attack (or more, with Extra Attack). See [Combat Actions](combat-actions.md).                                 |
+| **Aim**              | +2 to ranged attack rolls against one chosen target until line of sight breaks. See [Combat Actions](combat-actions.md#aim).  |
+| **Dash**             | Move up to your speed again this turn (so total movement = 2× speed).                                                         |
+| **Disengage**        | Movement no longer provokes opportunity attacks for the rest of the turn.                                                     |
+| **Dodge**            | Until your next turn: attacks against you have disadvantage; you have advantage on DEX saves.                                 |
+| **Help**             | Grant an ally advantage on their next ability check or attack against a creature within 5 ft of you.                          |
+| **Hide**             | Make a DEX (Stealth) check, contested by the watchers' passive Perception. See [Cover](cover.md).                             |
+| **Ready**            | Choose a trigger and a single action; the action fires as a reaction when the trigger occurs.                                 |
+| **Reload**           | Reload an empty weapon. Alternatively spend one attack from the Attack action. See [Weapon Properties](weapon-properties.md). |
+| **Search**           | Make a WIS (Perception) or INT (Investigation) check.                                                                         |
+| **Use an Object**    | A second object interaction this turn, or use a piece of gear that requires it.                                               |
+| **Suppressive Fire** | See [Combat Actions](combat-actions.md#suppressive-fire). Mutually exclusive with Attack on the same turn.                    |
+| **Use a Feature**    | Activate any class, designation, or training-program ability that lists "as an action."                                       |
 
 [Combat Actions](combat-actions.md) adds firing-mode actions (Spray, Riddle, Controlled Burst, Burst Fire) on top of
 this menu.
