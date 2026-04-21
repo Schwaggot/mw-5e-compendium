@@ -67,7 +67,7 @@ Das Standard-Menü der Actions ist:
 | **Help**             | Gewähre einem Verbündeten Advantage auf seinen nächsten Ability Check oder Angriff gegen eine Kreatur innerhalb 5 ft von dir.     |
 | **Hide**             | Mache einen DEX (Stealth) Check, kontrastiert durch die passive Perception der Beobachter. Siehe [Cover](cover.md).               |
 | **Ready**            | Wähle einen Auslöser und eine einzelne Action; die Action feuert als Reaction, wenn der Auslöser eintritt.                        |
-| **Reload**           | Lade eine leere Waffe nach. Alternativ opfere einen Angriff der Attack Action. Siehe [Weapon Properties](weapon-properties.md).   |
+| **Reload**           | Setze ein frisches Magazin aus deinem Vorrat ein. Alternativ opfere einen Angriff. Siehe [Munition](ammunition.md).               |
 | **Search**           | Mache einen WIS (Perception) oder INT (Investigation) Check.                                                                      |
 | **Use an Object**    | Eine zweite Object Interaction in diesem Zug, oder benutze ein Ausrüstungsstück, das dies erfordert.                              |
 | **Suppressive Fire** | Siehe [Combat Actions](combat-actions.md#suppressive-fire). Schließt Attack im selben Zug gegenseitig aus.                        |

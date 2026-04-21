@@ -40,6 +40,8 @@ Add up everything on your person: armor worn, weapons slung or holstered, ammo i
 your pack, and any consumables. Items dropped at your feet, set on a table, or stashed in a vehicle do not count
 against carry weight until you pick them up.
 
+Per-magazine weights live in [Ammunition](ammunition.md#magazine-weight).
+
 A few common loadouts for reference:
 
 | Loadout                   | Approx Weight | What's In It                                                                         |

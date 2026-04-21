@@ -26,7 +26,8 @@ direction. At long range, targets have advantage on saves and deviation dice dou
 | x3               | Disadvantage and -5  |
 | x4               | Disadvantage and -10 |
 
-**Reloading:** Spend an action or one attack to reload when empty.
+**Reloading:** Spend an action or one attack to reload when empty. A reload consumes one spare magazine from your
+carried pool; see [Ammunition](ammunition.md).
 
 **Recoil (-):** If Strength is less than the Recoil value, -1 to Single-Shot attack rolls; for Burst/Auto, attack
 penalty = Recoil - Strength.

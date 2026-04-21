@@ -33,3 +33,4 @@ Rules references pulled into one section for quick lookup during play.
 - [Damage Types](rules/damage-types.md) - damage types, damage reduction, stress damage, subdual, and target zones.
 - [Weapon Properties](rules/weapon-properties.md) - property keywords used by weapons.
 - [Weapon Modifications](rules/weapon-modifications.md) - mod options and per-category availability.
+- [Ammunition](rules/ammunition.md) - magazine tracking, weights, starting loadout, and resupply.

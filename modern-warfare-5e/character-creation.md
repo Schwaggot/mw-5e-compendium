@@ -140,7 +140,8 @@ Athletics, History, Insight, Intimidation, Investigation, Perception, Nature, Su
 Your starting loadout has three parts:
 
 1. **Standard Issue gear package** - granted free. See [Field Kit](gear/field-kit.md) for exactly what's in it.
-2. **30 Requisition Points for Weapons.** Spend from [Weapons](weapons.md). Unspent points are lost.
+2. **30 Requisition Points for Weapons.** Spend from [Weapons](weapons.md). Each weapon comes with a baseline pool of
+   magazines free; see [Ammunition](rules/ammunition.md#starting-loadout). Unspent points are lost.
 3. **20 Requisition Points for Armor.** Spend from [Armor](armor.md). Unspent points are lost.
 
 Prioritize weapons and armor you are already trained in (see the Starter Training Programs above). You can carry gear

@@ -28,6 +28,8 @@ During a short rest:
   the [Stress Damage](damage-types.md#stress-damage) table.
 - **Craft field expedients.** A [Combat Medic](../designations/combat-medic.md) can craft an improvised stim or antidote
   during a short rest. Tech and demolitions specialists also use short rests for small fixes.
+- **Top off magazines.** With a supply cache on hand, top off the loaded mag from spares and consolidate partials. No
+  net gain in ammo - redistribution only. See [Ammunition](ammunition.md#resupply).
 
 You can take **up to two short rests** between long rests at most tables - the GM may rule otherwise based on the
 operational tempo.
@@ -54,6 +56,9 @@ After a long rest:
   designation features key off this clock.
 - **Stress damage heals** at the long-rest rate from the [Stress Damage](damage-types.md#stress-damage) table.
 - **Exhaustion drops by 1 level.** Unless held by a persistent cause (Triage Red still adds 2 while you remain there).
+- **Resupply ammunition.** At a secure, supplied location (base, FOB, established cache), all magazines refill to the
+  starting loadout. In the field without supply access, no refill - only consolidation. See
+  [Ammunition](ammunition.md#resupply).
 
 A long rest's HP-restore step is a healing source for the purposes of the Triage divisor - but it bypasses the divisor
 because it's set to "full HP" rather than a roll. You always wake fresh, even if you slept Red.

@@ -1,7 +1,7 @@
 ---
 title: Weapon Modifications
-aliases: [Weapon Mods, Mods]
-tags: [rules, weapon, modification]
+aliases: [ Weapon Mods, Mods ]
+tags: [ rules, weapon, modification ]
 ---
 
 # Weapon Modifications
@@ -14,7 +14,8 @@ The following appear across most categories and follow the same rules in each.
 
 ### Receiver
 
-- **Enhanced Receiver (Req 10):** Gain Dependable. If already Dependable, ignore one misfire per long rest (still a miss).
+- **Enhanced Receiver (Req 10):** Gain Dependable. If already Dependable, ignore one misfire per long rest (still a
+  miss).
 - **Custom Receiver (Req 12):** +2 to damage rolls.
 
 ### Sights
@@ -32,9 +33,12 @@ The following appear across most categories and follow the same rules in each.
 - **Drum Magazine (Req 14):** +30 to +70 rounds.
 - **Quick Mag (Req 24):** Reload as free action.
 
+See [Ammunition](ammunition.md#magazine-modifications) for how these affect your starting pool and carry weight.
+
 ### Muzzle
 
-- **Silencer Threads (Req 10):** Removable suppressor. -1d4 damage per shot (min 1). Disadvantage for enemies to hear; inaudible past 100 ft.
+- **Silencer Threads (Req 10):** Removable suppressor. -1d4 damage per shot (min 1). Disadvantage for enemies to hear;
+  inaudible past 100 ft.
 - **Flash Hider (Req 5):** Disadvantage on Perception to see muzzle flash.
 - **Compensator (Req 10):** Burst/auto negatives reduced by 1.
 - **Muzzle Brake (Req 12):** +2 to damage rolls.
@@ -80,10 +84,17 @@ The following appear across most categories and follow the same rules in each.
 
 The source lists each weapon class with its own available mod slots. The distribution is:
 
-- **Assault Rifle:** Receiver, Sights (all), Magazines (ext +20, drum +70, quick), Muzzle, Stocks, Underbarrel (all, including GL and Master Key), Trigger Housing (all), Side Rails, Barrel.
-- **Semi-Auto Rifle:** Same as AR minus Grenade Launcher, Master Key, Angled Short Grip, Auto Stock, Select Fire Single Shot; Extended Mag +10.
-- **Pistol:** Receiver, Sights (up to 6× Hybrid), Magazines (ext +10, quick), Muzzle, Trigger Housing, Underbarrel (Flash Lite, Laser Sight), Barrel.
-- **Bolt-Action Rifle:** Receiver, Sights (all), Muzzle, Stocks, Underbarrel (Fore Grip, Bipods, Angled Fore Grip), Trigger Housing (Comfort, No Slip), Barrel.
-- **Submachine Gun:** Receiver, Sights (up to 6× Hybrid), Magazines (ext +20, quick), Muzzle, Stocks, Underbarrel (Fore, Angled Fore, Angled Short), Trigger Housing (all, Select Fire), Side Rails, Barrel.
-- **Shotgun:** Receiver, Sights (Dot, 4× Scope, 4× Hybrid), Magazines (ext +10, drum +30, quick), Muzzle (Compensator, Muzzle Brake), Stocks, Underbarrel (Fore, Angled Fore), Trigger Housing (Comfort, No Slip), Side Rails, Barrel.
-- **Machine Gun:** Receiver, Sights (Dot, 4× Scope, 4× Hybrid), Quick Mag, Muzzle, Stocks (all), Underbarrel (Fore, Bipods, Angled Fore, Angled Short), Trigger Housing (Comfort, No Slip), Side Rails, Barrel.
+- **Assault Rifle:** Receiver, Sights (all), Magazines (ext +20, drum +70, quick), Muzzle, Stocks, Underbarrel (all,
+  including GL and Master Key), Trigger Housing (all), Side Rails, Barrel.
+- **Semi-Auto Rifle:** Same as AR minus Grenade Launcher, Master Key, Angled Short Grip, Auto Stock, Select Fire Single
+  Shot; Extended Mag +10.
+- **Pistol:** Receiver, Sights (up to 6× Hybrid), Magazines (ext +10, quick), Muzzle, Trigger Housing, Underbarrel (
+  Flash Lite, Laser Sight), Barrel.
+- **Bolt-Action Rifle:** Receiver, Sights (all), Muzzle, Stocks, Underbarrel (Fore Grip, Bipods, Angled Fore Grip),
+  Trigger Housing (Comfort, No Slip), Barrel.
+- **Submachine Gun:** Receiver, Sights (up to 6× Hybrid), Magazines (ext +20, quick), Muzzle, Stocks, Underbarrel (Fore,
+  Angled Fore, Angled Short), Trigger Housing (all, Select Fire), Side Rails, Barrel.
+- **Shotgun:** Receiver, Sights (Dot, 4× Scope, 4× Hybrid), Magazines (ext +10, drum +30, quick), Muzzle (Compensator,
+  Muzzle Brake), Stocks, Underbarrel (Fore, Angled Fore), Trigger Housing (Comfort, No Slip), Side Rails, Barrel.
+- **Machine Gun:** Receiver, Sights (Dot, 4× Scope, 4× Hybrid), Quick Mag, Muzzle, Stocks (all), Underbarrel (Fore,
+  Bipods, Angled Fore, Angled Short), Trigger Housing (Comfort, No Slip), Side Rails, Barrel.

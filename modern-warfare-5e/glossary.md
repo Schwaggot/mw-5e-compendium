@@ -11,6 +11,7 @@ where the topic is defined. For a list of short-form abbreviations and unit symb
 see [Abbreviations](abbreviations.md).
 
 - **Ability Checks** - See [Ability Checks](rules/ability-checks.md).
+- **Ammunition** - See [Ammunition](rules/ammunition.md).
 - **Action** - See [Actions](rules/combat-turn.md#actions), [Combat Actions](rules/combat-actions.md).
 - **Action Surge** -
   See [Action Surge](operator-class.md#action-surge), [Combat Turn](rules/combat-turn.md#action-surge).
@@ -94,6 +95,7 @@ see [Abbreviations](abbreviations.md).
   See [Light Levels](rules/vision-and-light.md#light-levels), [Vision and Light](rules/vision-and-light.md).
 - **Long Rest** - See [Long Rest](rules/rest.md#long-rest).
 - **Machine Gunner** - See [Machine Gunner](designations/machine-gunner.md).
+- **Magazines** - See [Ammunition](rules/ammunition.md).
 - **Machine Guns** - See [Machine Guns](weapons/machine-guns.md).
 - **Marksman** - See [Marksman](designations/marksman.md).
 - **Medical** - See [Medical](gear/medical.md).
@@ -117,7 +119,7 @@ see [Abbreviations](abbreviations.md).
 - **Proficiency Bonus** - See [Proficiency Bonus](rules/proficiency.md#proficiency-bonus).
 - **Push, Drag, Lift** - See [Push, Drag, Lift](rules/encumbrance.md#push-drag-lift).
 - **Reactions** - See [Reactions](rules/combat-turn.md#reactions).
-- **Reload** - See [Actions](rules/combat-turn.md#actions), [Weapon Properties](rules/weapon-properties.md).
+- **Reload** - See [Actions](rules/combat-turn.md#actions), [Ammunition](rules/ammunition.md).
 - **Rest** - See [Rest](rules/rest.md).
 - **Resourceful** - See [Resourceful](operator-class.md#resourceful).
 - **Rifleman** - See [Rifleman](designations/rifleman.md).

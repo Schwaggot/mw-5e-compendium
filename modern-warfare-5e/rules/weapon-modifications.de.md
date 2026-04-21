@@ -1,7 +1,7 @@
 ---
 title: Waffenmodifikationen
-aliases: [Waffenmods, Mods]
-tags: [rules, weapon, modification]
+aliases: [ Waffenmods, Mods ]
+tags: [ rules, weapon, modification ]
 ---
 
 # Waffenmodifikationen
@@ -14,7 +14,8 @@ Die folgenden erscheinen in den meisten Kategorien und folgen in jeder den gleic
 
 ### Receiver {#receiver}
 
-- **Enhanced Receiver (Req 10):** Erhält Dependable. Falls bereits Dependable, ignoriere einen Misfire pro Long Rest (immer noch ein Fehlschlag).
+- **Enhanced Receiver (Req 10):** Erhält Dependable. Falls bereits Dependable, ignoriere einen Misfire pro Long Rest (
+  immer noch ein Fehlschlag).
 - **Custom Receiver (Req 12):** +2 auf Schadenswürfe.
 
 ### Sights {#sights}
@@ -32,9 +33,12 @@ Die folgenden erscheinen in den meisten Kategorien und folgen in jeder den gleic
 - **Drum Magazine (Req 14):** +30 bis +70 Schuss.
 - **Quick Mag (Req 24):** Nachladen als Free Action.
 
+Siehe [Munition](ammunition.md#magazine-modifications) für den Einfluss auf Startvorrat und Tragegewicht.
+
 ### Muzzle {#muzzle}
 
-- **Silencer Threads (Req 10):** Abnehmbarer Suppressor. -1d4 Schaden pro Schuss (Min 1). Disadvantage für Feinde zu hören; unhörbar jenseits von 100 ft.
+- **Silencer Threads (Req 10):** Abnehmbarer Suppressor. -1d4 Schaden pro Schuss (Min 1). Disadvantage für Feinde zu
+  hören; unhörbar jenseits von 100 ft.
 - **Flash Hider (Req 5):** Disadvantage auf Perception, um Mündungsfeuer zu sehen.
 - **Compensator (Req 10):** Burst/Auto Negative um 1 reduziert.
 - **Muzzle Brake (Req 12):** +2 auf Schadenswürfe.
@@ -80,10 +84,17 @@ Die folgenden erscheinen in den meisten Kategorien und folgen in jeder den gleic
 
 Die Quelle listet jede Waffenklasse mit ihren eigenen verfügbaren Mod-Slots auf. Die Verteilung ist:
 
-- **Assault Rifle:** Receiver, Sights (alle), Magazines (ext +20, drum +70, quick), Muzzle, Stocks, Underbarrel (alle, inklusive GL und Master Key), Trigger Housing (alle), Side Rails, Barrel.
-- **Semi-Auto Rifle:** Gleich wie AR minus Grenade Launcher, Master Key, Angled Short Grip, Auto Stock, Select Fire Single Shot; Extended Mag +10.
-- **Pistol:** Receiver, Sights (bis zu 6× Hybrid), Magazines (ext +10, quick), Muzzle, Trigger Housing, Underbarrel (Flash Lite, Laser Sight), Barrel.
-- **Bolt-Action Rifle:** Receiver, Sights (alle), Muzzle, Stocks, Underbarrel (Fore Grip, Bipods, Angled Fore Grip), Trigger Housing (Comfort, No Slip), Barrel.
-- **Submachine Gun:** Receiver, Sights (bis zu 6× Hybrid), Magazines (ext +20, quick), Muzzle, Stocks, Underbarrel (Fore, Angled Fore, Angled Short), Trigger Housing (alle, Select Fire), Side Rails, Barrel.
-- **Shotgun:** Receiver, Sights (Dot, 4× Scope, 4× Hybrid), Magazines (ext +10, drum +30, quick), Muzzle (Compensator, Muzzle Brake), Stocks, Underbarrel (Fore, Angled Fore), Trigger Housing (Comfort, No Slip), Side Rails, Barrel.
-- **Machine Gun:** Receiver, Sights (Dot, 4× Scope, 4× Hybrid), Quick Mag, Muzzle, Stocks (alle), Underbarrel (Fore, Bipods, Angled Fore, Angled Short), Trigger Housing (Comfort, No Slip), Side Rails, Barrel.
+- **Assault Rifle:** Receiver, Sights (alle), Magazines (ext +20, drum +70, quick), Muzzle, Stocks, Underbarrel (alle,
+  inklusive GL und Master Key), Trigger Housing (alle), Side Rails, Barrel.
+- **Semi-Auto Rifle:** Gleich wie AR minus Grenade Launcher, Master Key, Angled Short Grip, Auto Stock, Select Fire
+  Single Shot; Extended Mag +10.
+- **Pistol:** Receiver, Sights (bis zu 6× Hybrid), Magazines (ext +10, quick), Muzzle, Trigger Housing, Underbarrel (
+  Flash Lite, Laser Sight), Barrel.
+- **Bolt-Action Rifle:** Receiver, Sights (alle), Muzzle, Stocks, Underbarrel (Fore Grip, Bipods, Angled Fore Grip),
+  Trigger Housing (Comfort, No Slip), Barrel.
+- **Submachine Gun:** Receiver, Sights (bis zu 6× Hybrid), Magazines (ext +20, quick), Muzzle, Stocks, Underbarrel (
+  Fore, Angled Fore, Angled Short), Trigger Housing (alle, Select Fire), Side Rails, Barrel.
+- **Shotgun:** Receiver, Sights (Dot, 4× Scope, 4× Hybrid), Magazines (ext +10, drum +30, quick), Muzzle (Compensator,
+  Muzzle Brake), Stocks, Underbarrel (Fore, Angled Fore), Trigger Housing (Comfort, No Slip), Side Rails, Barrel.
+- **Machine Gun:** Receiver, Sights (Dot, 4× Scope, 4× Hybrid), Quick Mag, Muzzle, Stocks (alle), Underbarrel (Fore,
+  Bipods, Angled Fore, Angled Short), Trigger Housing (Comfort, No Slip), Side Rails, Barrel.

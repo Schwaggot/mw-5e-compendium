@@ -63,7 +63,7 @@ The standard menu of actions is:
 | **Help**             | Grant an ally advantage on their next ability check or attack against a creature within 5 ft of you.                          |
 | **Hide**             | Make a DEX (Stealth) check, contested by the watchers' passive Perception. See [Cover](cover.md).                             |
 | **Ready**            | Choose a trigger and a single action; the action fires as a reaction when the trigger occurs.                                 |
-| **Reload**           | Reload an empty weapon. Alternatively spend one attack from the Attack action. See [Weapon Properties](weapon-properties.md). |
+| **Reload**           | Swap in a fresh magazine from your carried pool. Alternatively spend one attack. See [Ammunition](ammunition.md).             |
 | **Search**           | Make a WIS (Perception) or INT (Investigation) check.                                                                         |
 | **Use an Object**    | A second object interaction this turn, or use a piece of gear that requires it.                                               |
 | **Suppressive Fire** | See [Combat Actions](combat-actions.md#suppressive-fire). Mutually exclusive with Attack on the same turn.                    |

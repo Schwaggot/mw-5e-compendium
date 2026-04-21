@@ -14,12 +14,12 @@ in Kilogramm. Belastung ist die Buchhaltung, die diese Gewichte in eine Traglimi
 
 Die Tragekapazität skaliert mit deinem **Strength Score** (dem Score, nicht dem Modifier).
 
-| Schwelle                | Limit                        | Effekt                                                                                                                                 |
-|-------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| **Light Load**          | bis zu `2.5 × STR` kg        | Keine Strafe.                                                                                                                          |
-| **Encumbered**          | `2.5 × STR` bis `5 × STR` kg | Speed -10 ft.                                                                                                                          |
-| **Heavily Encumbered**  | `5 × STR` bis `7 × STR` kg   | Speed -20 ft (min 5 ft); Disadvantage auf STR-, DEX- und CON-[Checks](ability-checks.md), Attacks und [Saves](saving-throws.md).        |
-| **Über Max**            | über `7 × STR` kg            | Kann nicht getragen werden. Kann mit halber Speed gezogen werden (siehe *Schieben, Ziehen, Heben* unten).                              |
+| Schwelle               | Limit                        | Effekt                                                                                                                           |
+|------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Light Load**         | bis zu `2.5 × STR` kg        | Keine Strafe.                                                                                                                    |
+| **Encumbered**         | `2.5 × STR` bis `5 × STR` kg | Speed -10 ft.                                                                                                                    |
+| **Heavily Encumbered** | `5 × STR` bis `7 × STR` kg   | Speed -20 ft (min 5 ft); Disadvantage auf STR-, DEX- und CON-[Checks](ability-checks.md), Attacks und [Saves](saving-throws.md). |
+| **Über Max**           | über `7 × STR` kg            | Kann nicht getragen werden. Kann mit halber Speed gezogen werden (siehe *Schieben, Ziehen, Heben* unten).                        |
 
 > **Beispiel:** Falke hat STR 11 (sein Pre-Trait-Score; der Agile Trait hat ihn von 13 auf 11 gesenkt). Seine
 > Tragebereiche sind: Light Load bis 27,5 kg, Encumbered 27,5-55 kg, Heavily Encumbered 55-77 kg, über Max ab 77 kg.
@@ -43,15 +43,17 @@ Magazinen und am Rig, den Inhalt deines Packs und jegliche Verbrauchsgegenständ
 abgelegt, auf einen Tisch gelegt oder in einem Fahrzeug verstaut sind, zählen nicht gegen das Tragegewicht, bis du
 sie aufhebst.
 
+Gewichte pro Magazin stehen unter [Munition](ammunition.md#magazine-weight).
+
 Ein paar gängige Loadouts zur Referenz:
 
-| Loadout                   | Ungefähres Gewicht | Was darin ist                                                                           |
-|---------------------------|--------------------|-----------------------------------------------------------------------------------------|
-| **Patrol Minimum**        | ~10 kg             | Gewehr + 4 Magazine + IFAK + Feldflasche + Admin Pouch.                                 |
+| Loadout                   | Ungefähres Gewicht | Was darin ist                                                                            |
+|---------------------------|--------------------|------------------------------------------------------------------------------------------|
+| **Patrol Minimum**        | ~10 kg             | Gewehr + 4 Magazine + IFAK + Feldflasche + Admin Pouch.                                  |
 | **Assault Loadout**       | ~22-25 kg          | Plate Carrier mit Platten + Gewehr + 8 Magazine + IFAK + Granaten + Funk + Assault Pack. |
-| **Long-Range Patrol**     | ~30-35 kg          | Assault Loadout + voller Ruck (Verpflegung, Schlafzeug, Batterien, Sat-Funk).           |
-| **Demo / Breach Loadout** | ~35-40 kg          | Assault Loadout + Breaching Charges + Brecheisen + Extra-Munition + Ersatzbatterien.    |
-| **Bomb Suit am Mann**     | ~50+ kg            | EOD-Arbeit; Speed ist bereits durch den Anzug selbst gedeckelt.                         |
+| **Long-Range Patrol**     | ~30-35 kg          | Assault Loadout + voller Ruck (Verpflegung, Schlafzeug, Batterien, Sat-Funk).            |
+| **Demo / Breach Loadout** | ~35-40 kg          | Assault Loadout + Breaching Charges + Brecheisen + Extra-Munition + Ersatzbatterien.     |
+| **Bomb Suit am Mann**     | ~50+ kg            | EOD-Arbeit; Speed ist bereits durch den Anzug selbst gedeckelt.                          |
 
 ## Last reduzieren {#reducing-load}
 

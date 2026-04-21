@@ -12,6 +12,7 @@ auf der das Thema definiert ist. Für eine Liste von Kurzformen und Einheitensym
 siehe [Abkürzungen](abbreviations.md).
 
 - **Ability Checks** - Siehe [Ability Checks](rules/ability-checks.md).
+- **Ammunition** - Siehe [Munition](rules/ammunition.md).
 - **Action** - Siehe [Actions](rules/combat-turn.md#actions), [Combat Actions](rules/combat-actions.md).
 - **Action Surge** -
   Siehe [Action Surge](operator-class.md#action-surge), [Combat Turn](rules/combat-turn.md#action-surge).
@@ -95,6 +96,8 @@ siehe [Abkürzungen](abbreviations.md).
   Siehe [Light Levels](rules/vision-and-light.md#light-levels), [Sicht und Licht](rules/vision-and-light.md).
 - **Long Rest** - Siehe [Long Rest](rules/rest.md#long-rest).
 - **Machine Gunner** - Siehe [Machine Gunner](designations/machine-gunner.md).
+- **Magazine** - Siehe [Munition](rules/ammunition.md).
+- **Munition** - Siehe [Munition](rules/ammunition.md).
 - **Machine Guns** - Siehe [Machine Guns](weapons/machine-guns.md).
 - **Marksman** - Siehe [Marksman](designations/marksman.md).
 - **Medical** - Siehe [Medical](gear/medical.md).
@@ -118,7 +121,7 @@ siehe [Abkürzungen](abbreviations.md).
 - **Proficiency Bonus** - Siehe [Proficiency Bonus](rules/proficiency.md#proficiency-bonus).
 - **Push, Drag, Lift** - Siehe [Push, Drag, Lift](rules/encumbrance.md#push-drag-lift).
 - **Reactions** - Siehe [Reactions](rules/combat-turn.md#reactions).
-- **Reload** - Siehe [Actions](rules/combat-turn.md#actions), [Weapon Properties](rules/weapon-properties.md).
+- **Reload** - Siehe [Actions](rules/combat-turn.md#actions), [Munition](rules/ammunition.md).
 - **Rast** - Siehe [Rest](rules/rest.md).
 - **Resourceful** - Siehe [Resourceful](operator-class.md#resourceful).
 - **Rifleman** - Siehe [Rifleman](designations/rifleman.md).
