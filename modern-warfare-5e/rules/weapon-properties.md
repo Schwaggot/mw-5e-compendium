@@ -17,14 +17,29 @@ the appropriate training.
 miss, roll the scatter die and a deviation die (subtract DEX bonus, min 1); result = 5 ft increments deviated in scatter
 direction. At long range, targets have advantage on saves and deviation dice doubled.
 
-**Range:** Attacks at normal range have no penalty. Beyond that, penalties scale.
+<a id="range"></a>**Range:** Each weapon's listed range in feet is its **Normal** (x1) range. Beyond that, distance
+scales into Range Multiples (x2, x3, x4) with cumulative penalties. Beyond x4 the target is out of range and cannot be
+hit.
 
-| Range Multiplier | Penalty              |
-|------------------|----------------------|
-| x1               | None                 |
-| x2               | Disadvantage         |
-| x3               | Disadvantage and -5  |
-| x4               | Disadvantage and -10 |
+| Distance band             | Range Multiple | Penalty              |
+|---------------------------|----------------|----------------------|
+| 0 to listed range         | x1 (Normal)    | None                 |
+| listed range, up to 2x    | x2             | Disadvantage         |
+| 2x listed range, up to 3x | x3             | Disadvantage and -5  |
+| 3x listed range, up to 4x | x4             | Disadvantage and -10 |
+| beyond 4x                 | -              | Out of range         |
+
+At long range (x3 and beyond) targets have advantage on saves caused by the attack and any deviation dice are doubled.
+Burst, Controlled Burst, Spray, and Riddle suffer **an additional -5 per Range Multiple beyond x1** (so -5 at x2, -10 at
+x3, -15 at x4), stacking on top of the table above. See [Combat Actions](combat-actions.md) for full firing-mode rules.
+
+> **Example (Pistol, Range 30 ft):** Bands are 0-30 (x1), 31-60 (x2), 61-90 (x3), 91-120 (x4). A target at 70 ft is *
+*x3 = Disadvantage and -5**. A Controlled Burst at the same range adds another **-10** (Burst/Auto: -5 per Multiple
+> beyond x1, summed across x2 and x3) for a total of **Disadvantage and -15**.
+>
+> **Example (Assault Rifle, Range 120 ft):** Bands are 0-120 (x1), 121-240 (x2), 241-360 (x3), 361-480 (x4). A target at
+> 300 ft is **x3 = Disadvantage and -5** for a Single Shot. A Controlled Burst at 300 ft adds another **-10** for a total
+> of **Disadvantage and -15**. A target at 500 ft is out of range entirely.
 
 **Reloading:** Spend an action or one attack to reload when empty. A reload consumes one spare magazine from your
 carried pool; see [Ammunition](ammunition.md).

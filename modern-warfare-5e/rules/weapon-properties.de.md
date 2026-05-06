@@ -19,14 +19,30 @@ Fehlschlag würfle den Streu-Würfel und einen Abweichungs-Würfel (ziehe DEX-Bo
 abgewichen in Streu-
 Richtung. Auf großer Reichweite haben Ziele Advantage auf Saves und Abweichungs-Würfel sind verdoppelt.
 
-**Range:** Angriffe auf normale Reichweite haben keine Strafe. Darüber hinaus skalieren Strafen.
+<a id="range"></a>**Range:** Die in Fuß angegebene Reichweite einer Waffe ist ihre **normale** (x1) Reichweite. Darüber
+hinaus wird die Distanz in Range Multiples (x2, x3, x4) gemessen und löst kumulative Strafen aus. Jenseits von x4 ist
+das Ziel außer Reichweite und kann nicht getroffen werden.
 
-| Reichweiten-Multiplikator | Strafe               |
-|---------------------------|----------------------|
-| x1                        | Keine                |
-| x2                        | Disadvantage         |
-| x3                        | Disadvantage und -5  |
-| x4                        | Disadvantage und -10 |
+| Distanz-Band          | Range Multiple | Strafe               |
+|-----------------------|----------------|----------------------|
+| 0 bis Reichweite      | x1 (Normal)    | Keine                |
+| Reichweite, bis 2x    | x2             | Disadvantage         |
+| 2x Reichweite, bis 3x | x3             | Disadvantage und -5  |
+| 3x Reichweite, bis 4x | x4             | Disadvantage und -10 |
+| jenseits 4x           | -              | Außer Reichweite     |
+
+Auf großer Reichweite (x3 und darüber) haben Ziele Advantage auf vom Angriff ausgelöste Saves, und Deviation-Würfel
+werden verdoppelt. Burst, Controlled Burst, Spray und Riddle erhalten **zusätzlich -5 pro Range Multiple jenseits x1** (
+also -5 bei x2, -10 bei x3, -15 bei x4), die auf die Tabelle oben aufaddiert werden.
+Siehe [Combat Actions](combat-actions.md) für die vollständigen Feuermodus-Regeln.
+
+> **Beispiel (Pistole, Range 30 ft):** Bänder sind 0-30 (x1), 31-60 (x2), 61-90 (x3), 91-120 (x4). Ein Ziel auf 70 ft
+> liegt im **x3-Band = Disadvantage und -5**. Ein Controlled Burst auf dieselbe Distanz addiert nochmal **-10** (
+> Burst/Auto: -5 pro Multiple jenseits x1, summiert über x2 und x3) - Gesamt: **Disadvantage und -15**.
+>
+> **Beispiel (Sturmgewehr, Range 120 ft):** Bänder sind 0-120 (x1), 121-240 (x2), 241-360 (x3), 361-480 (x4). Ein Ziel
+> auf 300 ft liegt im **x3-Band = Disadvantage und -5** für einen Single Shot. Ein Controlled Burst auf 300 ft addiert
+> nochmal **-10** - Gesamt: **Disadvantage und -15**. Ein Ziel auf 500 ft ist komplett außer Reichweite.
 
 **Reloading:** Gib eine Action oder einen Angriff aus, um nachzuladen, wenn leer. Ein Nachladen verbraucht ein
 Ersatzmagazin aus deinem getragenen Vorrat; siehe [Munition](ammunition.md).
