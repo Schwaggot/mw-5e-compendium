@@ -872,18 +872,9 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#automatic-firing-modes" class="md-nav__link">
+  <a href="#single-shot" class="md-nav__link">
     <span class="md-ellipsis">
-      Automatic Firing Modes
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#burst-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Burst Fire
+      Single Shot
     </span>
   </a>
   
@@ -899,9 +890,60 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#ranged-opportunity-attack" class="md-nav__link">
+  <a href="#burst-fire" class="md-nav__link">
     <span class="md-ellipsis">
-      Ranged Opportunity Attack
+      Burst Fire
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#automatic-firing-modes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Automatic Firing Modes
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Automatic Firing Modes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#controlled-burst" class="md-nav__link">
+    <span class="md-ellipsis">
+      Controlled Burst
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spray" class="md-nav__link">
+    <span class="md-ellipsis">
+      Spray
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#riddle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Riddle
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#extra-hit-rule" class="md-nav__link">
+    <span class="md-ellipsis">
+      Extra-Hit Rule
     </span>
   </a>
   
@@ -911,6 +953,15 @@
   <a href="#suppressive-fire" class="md-nav__link">
     <span class="md-ellipsis">
       Suppressive Fire
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ranged-opportunity-attack" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ranged Opportunity Attack
     </span>
   </a>
   
@@ -940,21 +991,111 @@
 
 
 <h1 id="combat-actions">Combat Actions<a class="headerlink" href="#combat-actions" title="Permanent link">&para;</a></h1>
-<p>Homebrew rules, mods, and actions in combat.</p>
-<p><strong>Firing into Melee:</strong> Disadvantage on the attack. Natural 1 = no misfire; you hit a random target in the melee instead (GM randomizes).</p>
-<h2 id="automatic-firing-modes">Automatic Firing Modes<a class="headerlink" href="#automatic-firing-modes" title="Permanent link">&para;</a></h2>
-<p>When attacking with a weapon that has the Automatic property, you may use Spray, Riddle, or Controlled Burst.</p>
-<p><strong>Spray:</strong> As an action, choose adjacent targets up to DEX modifier. Apply -5 per target beyond the first. Consumes 1d4+2 rounds per target (roll per attack). On a hit, score one extra hit per 5 whole points your attack exceeded AC (max = rounds fired in the volley).</p>
-<p><strong>Riddle:</strong> As an action, choose volleys up to DEX modifier on a single target. Apply -5 per volley beyond the first. Each volley consumes 1d4+2 rounds. Extra-hit rule as above.</p>
-<p><strong>Controlled Burst:</strong> One burst per attack available. -5 per range multiple. Consumes 1d4+2 rounds. Extra-hit rule applies.</p>
-<h2 id="burst-fire">Burst Fire<a class="headerlink" href="#burst-fire" title="Permanent link">&para;</a></h2>
-<p>For weapons with the burst property. One burst per attack. -5 per range multiple. Consumes 3 rounds. Extra-hit rule applies.</p>
+<p>Homebrew rules, mods, and actions in combat. The default firing mode for any ranged attack is Single Shot. The modes
+below extend or replace that default and are gated by weapon properties (Burst, Automatic, Manual Action) listed
+in <a href="../weapon-properties/">Weapon Properties</a>.</p>
+<p><strong>Firing into Melee:</strong> Disadvantage on the attack. Natural 1 = no misfire; you hit a random target in the melee
+instead (GM randomizes).</p>
+<h2 id="single-shot">Single Shot<a class="headerlink" href="#single-shot" title="Permanent link">&para;</a></h2>
+<p>The baseline firing mode, available to any functional firearm.</p>
+<ul>
+<li><strong>Action economy:</strong> one attack from your Attack action.</li>
+<li><strong>Targets:</strong> one.</li>
+<li><strong>Ammo cost:</strong> 1 round.</li>
+<li><strong>Penalties:</strong> standard <a href="../weapon-properties/#range">Range</a> penalties only.</li>
+</ul>
+<blockquote>
+<p><strong>Example (Single Shot):</strong> Falke fires his pistol (Range 30 ft) at a militant 50 ft away. 50 ft falls in the x2 band (
+31-60 ft), so he attacks at <strong>Disadvantage</strong>. He spends <strong>1 round</strong> from the magazine.</p>
+</blockquote>
 <h2 id="aim">Aim<a class="headerlink" href="#aim" title="Permanent link">&para;</a></h2>
-<p>Action: aim at one target. +2 to ranged attack rolls against that target. Only one target at a time; breaks when line of sight breaks.</p>
-<h2 id="ranged-opportunity-attack">Ranged Opportunity Attack<a class="headerlink" href="#ranged-opportunity-attack" title="Permanent link">&para;</a></h2>
-<p>If a creature you're aimed at moves more than 5 ft during its turn, you may use your reaction to make one ranged attack against it (within range and line of sight).</p>
+<p>Action: aim at one target. +2 to ranged attack rolls against that target. Only one target at a time; breaks when line of
+sight breaks.</p>
+<h2 id="burst-fire">Burst Fire<a class="headerlink" href="#burst-fire" title="Permanent link">&para;</a></h2>
+<p>For weapons with the <strong>Burst</strong> property. A short, mechanically fixed 3-round volley.</p>
+<ul>
+<li><strong>Action economy:</strong> one Burst per attack from your Attack action.</li>
+<li><strong>Targets:</strong> one.</li>
+<li><strong>Ammo cost:</strong> 3 rounds.</li>
+<li><strong>Penalties:</strong> standard <a href="../weapon-properties/#range">Range</a> penalties <strong>plus an additional -5 per Range Multiple
+  beyond x1</strong> (so -5 at x2, -10 at x3, -15 at x4).</li>
+<li><strong>Extra hits:</strong> see <a href="#extra-hit-rule">Extra-Hit Rule</a>.</li>
+</ul>
+<blockquote>
+<p><strong>Example (Burst Fire):</strong> Falke's PDW (Range 60 ft, Burst) targets a militant at 70 ft. 70 ft falls in the x2 band (
+61-120 ft). Standard range table at x2 = Disadvantage; Burst adds -5 per Multiple beyond x1, which at x2 is another -5.
+Total: <strong>Disadvantage and -5</strong>. He spends <strong>3 rounds</strong>.</p>
+</blockquote>
+<h2 id="automatic-firing-modes">Automatic Firing Modes<a class="headerlink" href="#automatic-firing-modes" title="Permanent link">&para;</a></h2>
+<p>For weapons with the <strong>Automatic</strong> property, you may use Controlled Burst, Spray, or Riddle in place of a Single Shot or
+Burst.</p>
+<h3 id="controlled-burst">Controlled Burst<a class="headerlink" href="#controlled-burst" title="Permanent link">&para;</a></h3>
+<p>A short auto-fire burst of variable length; the auto-fire equivalent of Burst Fire.</p>
+<ul>
+<li><strong>Action economy:</strong> one Controlled Burst per attack from your Attack action.</li>
+<li><strong>Targets:</strong> one.</li>
+<li><strong>Ammo cost:</strong> 1d4+2 rounds (rolled per Burst).</li>
+<li><strong>Penalties:</strong> standard <a href="../weapon-properties/#range">Range</a> penalties <strong>plus -5 per Range Multiple beyond x1</strong>.</li>
+<li><strong>Extra hits:</strong> see <a href="#extra-hit-rule">Extra-Hit Rule</a>.</li>
+</ul>
+<h3 id="spray">Spray<a class="headerlink" href="#spray" title="Permanent link">&para;</a></h3>
+<p>Sweep auto-fire across multiple adjacent targets ("horizontal" auto-fire).</p>
+<ul>
+<li><strong>Action economy:</strong> Action (replaces your Attack action).</li>
+<li><strong>Targets:</strong> up to your DEX modifier; targets must be adjacent to one another (each within 5 ft of the next).</li>
+<li><strong>Ammo cost:</strong> 1d4+2 rounds <strong>per target</strong> (rolled separately per target).</li>
+<li><strong>Penalties:</strong> <strong>-5 per target beyond the first</strong> (cumulative: -0 / -5 / -10 / ...).
+  Standard <a href="../weapon-properties/#range">Range</a> penalties also apply normally to each attack roll.</li>
+<li><strong>Extra hits:</strong> see <a href="#extra-hit-rule">Extra-Hit Rule</a>; cap is the rounds fired in <em>that</em> target's volley.</li>
+</ul>
+<h3 id="riddle">Riddle<a class="headerlink" href="#riddle" title="Permanent link">&para;</a></h3>
+<p>Pour auto-fire into a single target across multiple volleys ("vertical" auto-fire).</p>
+<ul>
+<li><strong>Action economy:</strong> Action.</li>
+<li><strong>Targets:</strong> exactly one.</li>
+<li><strong>Volleys:</strong> choose a number of volleys up to your DEX modifier; each volley is one separate attack roll.</li>
+<li><strong>Ammo cost:</strong> 1d4+2 rounds <strong>per volley</strong> (rolled separately per volley).</li>
+<li><strong>Penalties:</strong> <strong>-5 per volley beyond the first</strong> (cumulative). Standard <a href="../weapon-properties/#range">Range</a> penalties
+  apply.</li>
+<li><strong>Extra hits:</strong> see <a href="#extra-hit-rule">Extra-Hit Rule</a>; applied per volley.</li>
+</ul>
+<blockquote>
+<p><strong>Example (Spray vs Riddle):</strong> Falke (DEX 16, +3) corners three militants in a doorway, all within 5 ft of each other.</p>
+<ul>
+<li>Going <strong>Spray</strong>, he targets all three. Attack penalties stack: target 1 at -0, target 2 at -5, target 3 at -10. Ammo
+    cost is rolled separately per target: e.g. 4 + 6 + 5 = <strong>15 rounds</strong>.</li>
+<li>Going <strong>Riddle</strong> instead, he ignores the other two and stacks <strong>3 volleys</strong> into the lead militant. Attack
+    penalties: volley 1 at -0, volley 2 at -5, volley 3 at -10. Ammo cost is rolled per volley: e.g. 5 + 3 + 6 = <strong>14
+    rounds</strong>.</li>
+</ul>
+</blockquote>
+<h2 id="extra-hit-rule">Extra-Hit Rule<a class="headerlink" href="#extra-hit-rule" title="Permanent link">&para;</a></h2>
+<p>Burst, Controlled Burst, Spray, and Riddle can land additional rounds on the same target when the attack lands well
+above AC. <strong>For every full 5 points by which your attack roll exceeded the target's AC, score one additional hit</strong> (each
+adds the weapon's damage dice). The maximum number of extra hits is capped at the number of rounds fired in that volley.</p>
+<blockquote>
+<p><strong>Example (extra hits):</strong> Falke fires a Controlled Burst at a militant (AC 14) and rolls <strong>24</strong> to hit - 10 over AC.
+That's two full chunks of 5, so he scores the original hit <strong>+ 2 extra hits = 3x weapon damage dice</strong>. He rolled 5
+rounds for the burst, so the 5-hit cap is not reached.</p>
+</blockquote>
 <h2 id="suppressive-fire">Suppressive Fire<a class="headerlink" href="#suppressive-fire" title="Permanent link">&para;</a></h2>
-<p>As an action: 3 rounds, 1 volley of 1d4+2, or 1 burst per target. Target creatures within 10 ft of each other, up to DEX modifier. Suppressed targets have disadvantage on ranged attacks and WIS (Perception) next turn. Cannot use with Manual Action weapons.</p>
+<p>Action; pin enemies down without aiming for kills. Mutually exclusive with the Attack action on the same turn.</p>
+<ul>
+<li><strong>Targets:</strong> creatures within 10 ft of each other, up to your DEX modifier.</li>
+<li><strong>Ammo cost per target:</strong> 3 rounds (Burst weapons), 1d4+2 (Automatic weapons), or 1 burst as defined by the weapon.</li>
+<li><strong>Effect:</strong> suppressed targets have Disadvantage on ranged attacks and on WIS (Perception) checks until the end of
+  their next turn.</li>
+<li><strong>Restriction:</strong> cannot be used with Manual Action weapons.</li>
+</ul>
+<blockquote>
+<p><strong>Example (suppression):</strong> Falke's squad is taking fire from two riflemen 8 ft apart in a window line. Falke uses
+Suppressive Fire with his Automatic carbine. Both targets are within 10 ft of each other and within his DEX modifier (
+3). He spends <strong>2 x 1d4+2 = 9 rounds</strong>. Both riflemen are at Disadvantage on ranged attacks against the squad and on
+Perception checks until the end of their next turn, letting his team reposition.</p>
+</blockquote>
+<h2 id="ranged-opportunity-attack">Ranged Opportunity Attack<a class="headerlink" href="#ranged-opportunity-attack" title="Permanent link">&para;</a></h2>
+<p>If a creature you're aimed at moves more than 5 ft during its turn, you may use your reaction to make one ranged attack
+against it (within range and line of sight).</p>
 
 
 

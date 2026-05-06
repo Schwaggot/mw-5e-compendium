@@ -894,33 +894,56 @@ the appropriate training.</p>
 <p><strong>Deviation (-):</strong> Nominate a point within range. Roll an attack vs AC 10 (+5 per range increment beyond first). On a
 miss, roll the scatter die and a deviation die (subtract DEX bonus, min 1); result = 5 ft increments deviated in scatter
 direction. At long range, targets have advantage on saves and deviation dice doubled.</p>
-<p><strong>Range:</strong> Attacks at normal range have no penalty. Beyond that, penalties scale.</p>
+<p><a id="range"></a><strong>Range:</strong> Each weapon's listed range in feet is its <strong>Normal</strong> (x1) range. Beyond that, distance
+scales into Range Multiples (x2, x3, x4) with cumulative penalties. Beyond x4 the target is out of range and cannot be
+hit.</p>
 <table>
 <thead>
 <tr>
-<th>Range Multiplier</th>
+<th>Distance band</th>
+<th>Range Multiple</th>
 <th>Penalty</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>x1</td>
+<td>0 to listed range</td>
+<td>x1 (Normal)</td>
 <td>None</td>
 </tr>
 <tr>
+<td>listed range, up to 2x</td>
 <td>x2</td>
 <td>Disadvantage</td>
 </tr>
 <tr>
+<td>2x listed range, up to 3x</td>
 <td>x3</td>
 <td>Disadvantage and -5</td>
 </tr>
 <tr>
+<td>3x listed range, up to 4x</td>
 <td>x4</td>
 <td>Disadvantage and -10</td>
 </tr>
+<tr>
+<td>beyond 4x</td>
+<td>-</td>
+<td>Out of range</td>
+</tr>
 </tbody>
 </table>
+<p>At long range (x3 and beyond) targets have advantage on saves caused by the attack and any deviation dice are doubled.
+Burst, Controlled Burst, Spray, and Riddle suffer <strong>an additional -5 per Range Multiple beyond x1</strong> (so -5 at x2, -10 at
+x3, -15 at x4), stacking on top of the table above. See <a href="../combat-actions/">Combat Actions</a> for full firing-mode rules.</p>
+<blockquote>
+<p><strong>Example (Pistol, Range 30 ft):</strong> Bands are 0-30 (x1), 31-60 (x2), 61-90 (x3), 91-120 (x4). A target at 70 ft is *
+<em>x3 = Disadvantage and -5</em><em>. A Controlled Burst at the same range adds another </em><em>-10</em><em> (Burst/Auto: -5 per Multiple
+beyond x1, summed across x2 and x3) for a total of </em><em>Disadvantage and -15</em>*.</p>
+<p><strong>Example (Assault Rifle, Range 120 ft):</strong> Bands are 0-120 (x1), 121-240 (x2), 241-360 (x3), 361-480 (x4). A target at
+300 ft is <strong>x3 = Disadvantage and -5</strong> for a Single Shot. A Controlled Burst at 300 ft adds another <strong>-10</strong> for a total
+of <strong>Disadvantage and -15</strong>. A target at 500 ft is out of range entirely.</p>
+</blockquote>
 <p><strong>Reloading:</strong> Spend an action or one attack to reload when empty. A reload consumes one spare magazine from your
 carried pool; see <a href="../ammunition/">Ammunition</a>.</p>
 <p><strong>Recoil (-):</strong> If Strength is less than the Recoil value, -1 to Single-Shot attack rolls; for Burst/Auto, attack

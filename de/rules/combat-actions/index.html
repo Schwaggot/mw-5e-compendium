@@ -872,18 +872,9 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#automatic-firing-modes" class="md-nav__link">
+  <a href="#single-shot" class="md-nav__link">
     <span class="md-ellipsis">
-      Automatische Feuermodi
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#burst-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Burst Fire
+      Single Shot
     </span>
   </a>
   
@@ -899,9 +890,60 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#ranged-opportunity-attack" class="md-nav__link">
+  <a href="#burst-fire" class="md-nav__link">
     <span class="md-ellipsis">
-      Ranged Opportunity Attack
+      Burst Fire
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#automatic-firing-modes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Automatische Feuermodi
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Automatische Feuermodi">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#controlled-burst" class="md-nav__link">
+    <span class="md-ellipsis">
+      Controlled Burst
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spray" class="md-nav__link">
+    <span class="md-ellipsis">
+      Spray
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#riddle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Riddle
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#extra-hit-rule" class="md-nav__link">
+    <span class="md-ellipsis">
+      Extra-Treffer-Regel
     </span>
   </a>
   
@@ -911,6 +953,15 @@
   <a href="#suppressive-fire" class="md-nav__link">
     <span class="md-ellipsis">
       Suppressive Fire
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ranged-opportunity-attack" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ranged Opportunity Attack
     </span>
   </a>
   
@@ -940,21 +991,112 @@
 
 
 <h1 id="kampfaktionen">Kampfaktionen<a class="headerlink" href="#kampfaktionen" title="Permanent link">&para;</a></h1>
-<p>Homebrew-Regeln, Mods und Actions im Kampf.</p>
-<p><strong>Firing into Melee:</strong> Disadvantage auf den Angriff. Natural 1 = kein Misfire; du triffst stattdessen ein zufälliges Ziel im Handgemenge (GM randomisiert).</p>
-<h2 id="automatic-firing-modes">Automatische Feuermodi<a class="headerlink" href="#automatic-firing-modes" title="Permanent link">&para;</a></h2>
-<p>Wenn du mit einer Waffe angreifst, die die Automatic-Eigenschaft besitzt, darfst du Spray, Riddle oder Controlled Burst verwenden.</p>
-<p><strong>Spray:</strong> Als Action wählst du benachbarte Ziele bis zum DEX-Modifier. Wende -5 pro Ziel jenseits des ersten an. Verbraucht 1d4+2 Schuss pro Ziel (pro Angriff würfeln). Bei einem Treffer erzielst du einen zusätzlichen Treffer pro 5 ganzen Punkten, um die dein Angriff die AC übertroffen hat (max = Schuss in der Salve).</p>
-<p><strong>Riddle:</strong> Als Action wählst du Salven bis zum DEX-Modifier auf ein einzelnes Ziel. Wende -5 pro Salve jenseits der ersten an. Jede Salve verbraucht 1d4+2 Schuss. Extra-Treffer-Regel wie oben.</p>
-<p><strong>Controlled Burst:</strong> Ein Burst pro verfügbarem Angriff. -5 pro Range Multiple. Verbraucht 1d4+2 Schuss. Extra-Treffer-Regel gilt.</p>
-<h2 id="burst-fire">Burst Fire<a class="headerlink" href="#burst-fire" title="Permanent link">&para;</a></h2>
-<p>Für Waffen mit der Burst-Eigenschaft. Ein Burst pro Angriff. -5 pro Range Multiple. Verbraucht 3 Schuss. Extra-Treffer-Regel gilt.</p>
+<p>Homebrew-Regeln, Mods und Actions im Kampf. Der Standard-Feuermodus für jeden Fernkampfangriff ist <strong>Single Shot</strong>. Die
+unten beschriebenen Modi erweitern oder ersetzen diesen Standard und sind an Waffen-Eigenschaften (Burst, Automatic,
+Manual Action) aus den <a href="../weapon-properties/">Weapon Properties</a> gekoppelt.</p>
+<p><strong>Firing into Melee:</strong> Disadvantage auf den Angriff. Natural 1 = kein Misfire; du triffst stattdessen ein zufälliges
+Ziel im Handgemenge (GM randomisiert).</p>
+<h2 id="single-shot">Single Shot<a class="headerlink" href="#single-shot" title="Permanent link">&para;</a></h2>
+<p>Der Standard-Feuermodus, verfügbar für jede funktionsfähige Schusswaffe.</p>
+<ul>
+<li><strong>Action Economy:</strong> ein Angriff aus deiner Attack Action.</li>
+<li><strong>Ziele:</strong> eines.</li>
+<li><strong>Munitionsverbrauch:</strong> 1 Schuss.</li>
+<li><strong>Strafen:</strong> nur die Standard-<a href="../weapon-properties/#range">Range</a>-Strafen.</li>
+</ul>
+<blockquote>
+<p><strong>Beispiel (Single Shot):</strong> Falke feuert seine Pistole (Range 30 ft) auf einen Militanten in 50 ft Entfernung. 50 ft
+liegt im x2-Band (31-60 ft), also greift er mit <strong>Disadvantage</strong> an. Er verbraucht <strong>1 Schuss</strong> aus dem Magazin.</p>
+</blockquote>
 <h2 id="aim">Aim<a class="headerlink" href="#aim" title="Permanent link">&para;</a></h2>
-<p>Action: auf ein Ziel zielen. +2 auf Ranged-Attack-Rolls gegen dieses Ziel. Nur ein Ziel gleichzeitig; bricht, sobald die Line of Sight bricht.</p>
-<h2 id="ranged-opportunity-attack">Ranged Opportunity Attack<a class="headerlink" href="#ranged-opportunity-attack" title="Permanent link">&para;</a></h2>
-<p>Wenn sich eine Kreatur, auf die du zielst, während ihres Zuges mehr als 5 ft bewegt, darfst du deine Reaction nutzen, um einen Ranged Attack gegen sie zu machen (in Reichweite und Line of Sight).</p>
+<p>Action: auf ein Ziel zielen. +2 auf Ranged-Attack-Rolls gegen dieses Ziel. Nur ein Ziel gleichzeitig; bricht, sobald die
+Line of Sight bricht.</p>
+<h2 id="burst-fire">Burst Fire<a class="headerlink" href="#burst-fire" title="Permanent link">&para;</a></h2>
+<p>Für Waffen mit der <strong>Burst</strong>-Eigenschaft. Eine kurze, mechanisch fixierte 3-Schuss-Salve.</p>
+<ul>
+<li><strong>Action Economy:</strong> ein Burst pro Angriff aus deiner Attack Action.</li>
+<li><strong>Ziele:</strong> eines.</li>
+<li><strong>Munitionsverbrauch:</strong> 3 Schuss.</li>
+<li><strong>Strafen:</strong> Standard-<a href="../weapon-properties/#range">Range</a>-Strafen **plus zusätzlich -5 pro Range Multiple jenseits x1
+  ** (also -5 bei x2, -10 bei x3, -15 bei x4).</li>
+<li><strong>Extra-Treffer:</strong> siehe <a href="#extra-hit-rule">Extra-Treffer-Regel</a>.</li>
+</ul>
+<blockquote>
+<p><strong>Beispiel (Burst Fire):</strong> Falkes PDW (Range 60 ft, Burst) zielt auf einen Militanten in 70 ft. 70 ft liegt im
+x2-Band (61-120 ft). Range-Tabelle bei x2 = Disadvantage; Burst addiert -5 pro Multiple jenseits x1, bei x2 also nochmal
+-5. Gesamt: <strong>Disadvantage und -5</strong>. Er verbraucht <strong>3 Schuss</strong>.</p>
+</blockquote>
+<h2 id="automatic-firing-modes">Automatische Feuermodi<a class="headerlink" href="#automatic-firing-modes" title="Permanent link">&para;</a></h2>
+<p>Für Waffen mit der <strong>Automatic</strong>-Eigenschaft kannst du Controlled Burst, Spray oder Riddle anstelle eines Single Shot
+oder Burst nutzen.</p>
+<h3 id="controlled-burst">Controlled Burst<a class="headerlink" href="#controlled-burst" title="Permanent link">&para;</a></h3>
+<p>Eine kurze Auto-Fire-Salve variabler Länge; das Auto-Fire-Pendant zu Burst Fire.</p>
+<ul>
+<li><strong>Action Economy:</strong> ein Controlled Burst pro Angriff aus deiner Attack Action.</li>
+<li><strong>Ziele:</strong> eines.</li>
+<li><strong>Munitionsverbrauch:</strong> 1d4+2 Schuss (pro Burst gewürfelt).</li>
+<li><strong>Strafen:</strong> Standard-<a href="../weapon-properties/#range">Range</a>-Strafen <strong>plus -5 pro Range Multiple jenseits x1</strong>.</li>
+<li><strong>Extra-Treffer:</strong> siehe <a href="#extra-hit-rule">Extra-Treffer-Regel</a>.</li>
+</ul>
+<h3 id="spray">Spray<a class="headerlink" href="#spray" title="Permanent link">&para;</a></h3>
+<p>Streuendes Auto-Fire über mehrere benachbarte Ziele ("horizontales" Auto-Fire).</p>
+<ul>
+<li><strong>Action Economy:</strong> Action (ersetzt deine Attack Action).</li>
+<li><strong>Ziele:</strong> bis zum DEX-Modifier; Ziele müssen aneinander grenzen (jedes innerhalb 5 ft zum nächsten).</li>
+<li><strong>Munitionsverbrauch:</strong> 1d4+2 Schuss <strong>pro Ziel</strong> (separat pro Ziel gewürfelt).</li>
+<li><strong>Strafen:</strong> <strong>-5 pro Ziel jenseits des ersten</strong> (kumulativ: -0 / -5 / -10 / ...).
+  Standard-<a href="../weapon-properties/#range">Range</a>-Strafen gelten zusätzlich pro Angriffswurf.</li>
+<li><strong>Extra-Treffer:</strong> siehe <a href="#extra-hit-rule">Extra-Treffer-Regel</a>; Cap = Schuss in der jeweiligen Salve.</li>
+</ul>
+<h3 id="riddle">Riddle<a class="headerlink" href="#riddle" title="Permanent link">&para;</a></h3>
+<p>Konzentriertes Auto-Fire auf ein einzelnes Ziel über mehrere Salven ("vertikales" Auto-Fire).</p>
+<ul>
+<li><strong>Action Economy:</strong> Action.</li>
+<li><strong>Ziele:</strong> genau eines.</li>
+<li><strong>Salven:</strong> wähle eine Anzahl Salven bis zum DEX-Modifier; jede Salve ist ein eigener Angriffswurf.</li>
+<li><strong>Munitionsverbrauch:</strong> 1d4+2 Schuss <strong>pro Salve</strong> (separat pro Salve gewürfelt).</li>
+<li><strong>Strafen:</strong> <strong>-5 pro Salve jenseits der ersten</strong> (kumulativ). Standard-<a href="../weapon-properties/#range">Range</a>-Strafen
+  gelten.</li>
+<li><strong>Extra-Treffer:</strong> siehe <a href="#extra-hit-rule">Extra-Treffer-Regel</a>; pro Salve berechnet.</li>
+</ul>
+<blockquote>
+<p><strong>Beispiel (Spray vs Riddle):</strong> Falke (DEX 16, +3) stellt drei Militante in einem Türrahmen, alle innerhalb von 5 ft
+zueinander.</p>
+<ul>
+<li>Mit <strong>Spray</strong> zielt er auf alle drei. Angriffsstrafen stapeln: Ziel 1 mit -0, Ziel 2 mit -5, Ziel 3 mit -10.
+    Munition wird pro Ziel separat gewürfelt: z.B. 4 + 6 + 5 = <strong>15 Schuss</strong>.</li>
+<li>Mit <strong>Riddle</strong> ignoriert er die anderen zwei und stapelt <strong>3 Salven</strong> in den Anführer. Strafen: Salve 1 mit -0,
+    Salve 2 mit -5, Salve 3 mit -10. Munition pro Salve gewürfelt: z.B. 5 + 3 + 6 = <strong>14 Schuss</strong>.</li>
+</ul>
+</blockquote>
+<h2 id="extra-hit-rule">Extra-Treffer-Regel<a class="headerlink" href="#extra-hit-rule" title="Permanent link">&para;</a></h2>
+<p>Burst, Controlled Burst, Spray und Riddle können zusätzliche Schuss auf dasselbe Ziel landen, wenn der Angriff deutlich
+über AC liegt. <strong>Pro volle 5 Punkte, um die dein Angriffswurf die AC des Ziels übertroffen hat, erzielst du einen
+zusätzlichen Treffer</strong> (jeder addiert die Schadenswürfel der Waffe). Die maximale Anzahl an Zusatztreffern ist auf die
+in dieser Salve abgefeuerten Schuss begrenzt.</p>
+<blockquote>
+<p><strong>Beispiel (Extra-Treffer):</strong> Falke feuert einen Controlled Burst auf einen Militanten (AC 14) und würfelt <strong>24</strong> zum
+Treffer - 10 über AC. Das sind zwei volle 5er-Stufen, also Original-Treffer <strong>+ 2 Extra-Treffer = 3x Schadenswürfel der
+Waffe</strong>. Er hat 5 Schuss für den Burst gewürfelt, das Cap von 5 wird also nicht erreicht.</p>
+</blockquote>
 <h2 id="suppressive-fire">Suppressive Fire<a class="headerlink" href="#suppressive-fire" title="Permanent link">&para;</a></h2>
-<p>Als Action: 3 Schuss, 1 Salve von 1d4+2 oder 1 Burst pro Ziel. Ziele Kreaturen innerhalb von 10 ft zueinander, bis zum DEX-Modifier. Unterdrückte Ziele haben Disadvantage auf Ranged Attacks und WIS (Perception) im nächsten Zug. Kann nicht mit Manual-Action-Waffen verwendet werden.</p>
+<p>Action; halte Feinde nieder, ohne auf Kills zu zielen. Schließt die Attack Action im selben Zug gegenseitig aus.</p>
+<ul>
+<li><strong>Ziele:</strong> Kreaturen innerhalb von 10 ft zueinander, bis zum DEX-Modifier.</li>
+<li><strong>Munition pro Ziel:</strong> 3 Schuss (Burst-Waffen), 1d4+2 (Automatic-Waffen) oder 1 von der Waffe definierter Burst.</li>
+<li><strong>Effekt:</strong> Unterdrückte Ziele haben Disadvantage auf Ranged Attacks und auf WIS (Perception) Checks bis zum Ende
+  ihres nächsten Zuges.</li>
+<li><strong>Einschränkung:</strong> kann nicht mit Manual-Action-Waffen verwendet werden.</li>
+</ul>
+<blockquote>
+<p><strong>Beispiel (Suppression):</strong> Falkes Squad bekommt Feuer von zwei Schützen 8 ft auseinander in einer Fensterreihe. Falke
+nutzt Suppressive Fire mit seinem Automatic Carbine. Beide Ziele liegen innerhalb 10 ft zueinander und in Reichweite
+seines DEX-Modifiers (3). Er verbraucht <strong>2 x 1d4+2 = 9 Schuss</strong>. Beide Schützen haben Disadvantage auf Ranged Attacks
+gegen das Squad und auf Perception bis zum Ende ihres nächsten Zuges, sodass sein Team repositionieren kann.</p>
+</blockquote>
+<h2 id="ranged-opportunity-attack">Ranged Opportunity Attack<a class="headerlink" href="#ranged-opportunity-attack" title="Permanent link">&para;</a></h2>
+<p>Wenn sich eine Kreatur, auf die du zielst, während ihres Zuges mehr als 5 ft bewegt, darfst du deine Reaction nutzen, um
+einen Ranged Attack gegen sie zu machen (in Reichweite und Line of Sight).</p>
 
 
 
