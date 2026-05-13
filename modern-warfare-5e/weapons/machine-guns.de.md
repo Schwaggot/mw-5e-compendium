@@ -1,12 +1,13 @@
 ---
 title: Machine Guns
-aliases: [SAW, GPMG, HMG]
-tags: [weapon, machine-gun]
+aliases: [ SAW, GPMG, HMG ]
+tags: [ weapon, machine-gun ]
 ---
 
 # Machine Guns
 
-Squad Automatic Weapons (SAW), General Purpose Machine Guns (GPMG) und Heavy Machine Guns (HMG). Siehe [Weapon Properties](../rules/weapon-properties.md) für die Property-Schlüsselwörter.
+Squad Automatic Weapons (SAW), General Purpose Machine Guns (GPMG) und Heavy Machine Guns (HMG).
+Siehe [Weapon Properties](../rules/weapon-properties.md) für die Property-Schlüsselwörter.
 
 ## Squad Automatic Weapons (SAW) {#squad-automatic-weapons-saw}
 
@@ -27,19 +28,20 @@ Squad Automatic Weapons (SAW), General Purpose Machine Guns (GPMG) und Heavy Mac
 
 ## General Purpose Machine Guns {#general-purpose-machine-guns}
 
-| Name          | Kaliber    | Schaden | Misfire/Crit | Reichweite | Eigenschaften                                           | Req |
-|---------------|------------|---------|--------------|------------|---------------------------------------------------------|-----|
-| FN MAG (M240) | 7.62 NATO  | 4d4+2   | 1-2/19-20    | 275 ft     | 2H, Recoil (7), Dependable, Imprecise, Ammo 100, Braced | 66  |
-| H&K MG3       | 7.62 NATO  | 4d4+2   | 1-3/19-20    | 200 ft     | 2H, Recoil (7), Imprecise, Ammo 100, Braced             | 45  |
-| H&K MG5       | 7.62 NATO  | 4d4+2   | 1-2/19-20    | 275 ft     | 2H, Recoil (6), Dependable, Imprecise, Ammo 120, Braced | 70  |
-| IWI Negev NG7 | 7.62 NATO  | 4d4+2   | 1-2/19-20    | 250 ft     | 2H, Recoil (6), Dependable, Imprecise, Ammo 125, Braced | 65  |
-| MG-42         | 7.62 NATO  | 4d4+2   | 1-3/19-20    | 175 ft     | 2H, Recoil (7), Imprecise, Ammo 100, Braced             | 15  |
-| MG-42         | 8mm Mauser | 2d10+1  | 1-3/19-20    | 200 ft     | 2H, Recoil (8), Takedown, Ammo 50, Braced               | 15  |
-| Mk 48         | 7.62 NATO  | 4d4+2   | 1-2/19-20    | 250 ft     | 2H, Recoil (6), Dependable, Imprecise, Ammo 100, Braced | 70  |
-| PK            | 7.62×54R   | 2d10+1  | 1-3/19-20    | 200 ft     | 2H, Recoil (10), Dependable, Ammo 100, Braced           | 19  |
-| PKM           | 7.62×54R   | 2d10+1  | 1-3/19-20    | 225 ft     | 2H, Recoil (9), Dependable, Ammo 100, Braced            | 25  |
+| Name          | Kaliber    | Schaden | Misfire/Crit | Reichweite | Eigenschaften                                              | Req |
+|---------------|------------|---------|--------------|------------|------------------------------------------------------------|-----|
+| FN MAG (M240) | 7.62 NATO  | 4d4+2   | 1-2/19-20    | 275 ft     | 2H, Recoil (7), Dependable, Imprecise, Ammo 100, Braced    | 66  |
+| H&K HK21      | 7.62 NATO  | 4d4+2   | 1-2/19-20    | 250 ft     | 2H, Recoil (7), Dependable, Imprecise, Ammo 100, Braced    | 55  |
+| H&K MG3       | 7.62 NATO  | 4d4+2   | 1-3/19-20    | 200 ft     | 2H, Recoil (7), Imprecise, Ammo 100, Braced                | 45  |
+| H&K MG5       | 7.62 NATO  | 4d4+2   | 1-2/19-20    | 275 ft     | 2H, Recoil (6), Dependable, Imprecise, Ammo 120, Braced    | 70  |
+| IWI Negev NG7 | 7.62 NATO  | 4d4+2   | 1-2/19-20    | 250 ft     | 2H, Recoil (6), Dependable, Imprecise, Ammo 125, Braced    | 65  |
+| MG-42         | 7.62 NATO  | 4d4+2   | 1-3/19-20    | 175 ft     | 2H, Recoil (7), Imprecise, Ammo 100, Braced                | 15  |
+| MG-42         | 8mm Mauser | 2d10+1  | 1-3/19-20    | 200 ft     | 2H, Recoil (8), Takedown, Ammo 50, Braced                  | 15  |
+| Mk 48         | 7.62 NATO  | 4d4+2   | 1-2/19-20    | 250 ft     | 2H, Recoil (6), Dependable, Imprecise, Ammo 100, Braced    | 70  |
+| PK            | 7.62×54R   | 2d10+1  | 1-3/19-20    | 200 ft     | 2H, Recoil (10), Dependable, Ammo 100, Braced              | 19  |
+| PKM           | 7.62×54R   | 2d10+1  | 1-3/19-20    | 225 ft     | 2H, Recoil (9), Dependable, Ammo 100, Braced               | 25  |
 | PKP Pecheneg  | 7.62×54R   | 2d10+1  | 1-3/19-20    | 250 ft     | 2H, Recoil (9), Accurate (1), Dependable, Ammo 100, Braced | 40  |
-| Saco M60      | 7.62 NATO  | 4d4+2   | 1-4/19-20    | 175 ft     | 2H, Recoil (7), Unreliable, Imprecise, Ammo 100, Braced | 40  |
+| Saco M60      | 7.62 NATO  | 4d4+2   | 1-4/19-20    | 175 ft     | 2H, Recoil (7), Unreliable, Imprecise, Ammo 100, Braced    | 40  |
 
 ## Heavy Machine Guns {#heavy-machine-guns}
 

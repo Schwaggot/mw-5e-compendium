@@ -30,6 +30,7 @@ Squad automatic weapons (SAW), general purpose machine guns (GPMG), and heavy ma
 | Name          | Caliber    | Damage | Misfire/Crit | Range  | Properties                                                          | Req |
 |---------------|------------|--------|--------------|--------|---------------------------------------------------------------------|-----|
 | FN MAG (M240) | 7.62 NATO  | 4d4+2  | 1-2/19-20    | 275 ft | 2H, Recoil (7), Dependable, Imprecise, Ammo 100, Braced             | 66  |
+| H&K HK21      | 7.62 NATO  | 4d4+2  | 1-2/19-20    | 250 ft | 2H, Recoil (7), Dependable, Imprecise, Ammo 100, Braced             | 55  |
 | H&K MG3       | 7.62 NATO  | 4d4+2  | 1-3/19-20    | 200 ft | 2H, Recoil (7), Imprecise, Ammo 100, Braced                         | 45  |
 | H&K MG5       | 7.62 NATO  | 4d4+2  | 1-2/19-20    | 275 ft | 2H, Recoil (6), Dependable, Imprecise, Ammo 120, Braced             | 70  |
 | IWI Negev NG7 | 7.62 NATO  | 4d4+2  | 1-2/19-20    | 250 ft | 2H, Recoil (6), Dependable, Imprecise, Ammo 125, Braced             | 65  |
