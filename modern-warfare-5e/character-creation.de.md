@@ -166,17 +166,33 @@ Animal Handling, Athletics, History, Insight, Intimidation, Investigation, Perce
 Deine Startausrüstung besteht aus drei Teilen:
 
 1. **Standard-Issue-Ausrüstungspaket** - kostenlos gewährt. Siehe [Field Kit](gear/field-kit.md) für den genauen Inhalt.
-2. **30 Requisitionspunkte für Waffen.** Gib sie unter [Waffen](weapons.md) aus. Jede Waffe kommt mit einer
-   Baseline-Ausstattung an Magazinen kostenlos; siehe [Munition](rules/ammunition.md#starting-loadout). Ungenutzte
-   Punkte verfallen.
-3. **20 Requisitionspunkte für Rüstung.** Gib sie unter [Rüstung](armor.md) aus. Ungenutzte Punkte verfallen.
+2. **30 Requisitionspunkte für Waffen.** Kaufe:
+    - 1x Primärwaffe deiner Wahl aus einer Klasse, in der du ausgebildet bist -
+      [Assault Rifle](weapons/assault-rifles.md), [Submachine Gun](weapons/submachine-guns.md),
+      [Shotgun](weapons/shotguns.md), [Semi-Auto Rifle](weapons/semi-auto-rifles.md) oder
+      [Bolt-Action Rifle](weapons/bolt-action-rifles.md). Die Basis-Operator-Klasse ist standardmäßig in Assault Rifles
+      ausgebildet; andere Klassen erfordern eine separate Ausbildung (Hintergrund, Operator Training, Kampfrolle). Auf
+      Level 3 kann deine Kampfrolle eine zusätzliche Signaturprimärwaffe ausgeben - siehe Schritt 8.
+    - 1x [Sidearm](weapons/pistols.md) (jede Dienst- oder Backup-Pistole).
+    - Beliebige [Waffenmods, Optiken](rules/weapon-modifications.md), zusätzliche Sekundärwaffen, Extra-Magazine oder
+      Spezialmunition obendrauf.
+    - Jede Waffe kommt mit ihrer Baseline-Ausstattung an Magazinen kostenlos; siehe
+      [Ammunition](rules/ammunition.md#starting-loadout). Ungenutzte Punkte verfallen. Tier 3 Waffen liegen preislich
+      nahe an der 30 Req-Grenze - alle 30 Punkte für eine einzelne Tier 3 Waffe auszugeben lässt keinen Raum für Mods,
+      ein bedeutsamer Tradeoff.
+3. **20 Requisitionspunkte für Rüstung.** Gib sie unter [Armor](armor.md) aus. Ungenutzte Punkte verfallen.
+
+"Not for Personal Issue"-Waffen (Heavy Machine Guns, Anti-Materiel-.50-BMG-Gewehre, montierte Grenade Launcher) liegen
+vollständig außerhalb des Tier-Systems. Sie können unabhängig vom Budget nicht mit persönlichem Req beschafft werden -
+sie sind ausschließlich crew-served, montiert oder einsatzbedingt ausgegeben.
 
 Priorisiere Waffen und Rüstung, in denen du bereits ausgebildet bist (siehe die Starter-Ausbildungsprogramme oben). Du
 kannst
 Ausrüstung tragen, in der du nicht ausgebildet bist, aber du erhältst keine Boni und hast möglicherweise Disadvantage.
 
-> **Beispiel:** Kevin nimmt sein Standard-Issue-Kit, gibt dann alle 30 Waffen-Req für ein Assault Rifle mit einfacher
-> Optik plus eine Sidearm aus und alle 20 Rüstungs-Req für eine Medium-Flak-Weste mit Front-/Rückenplatten.
+> **Beispiel:** Kevin nimmt sein Standard-Issue-Kit und gibt seine 30 Waffen-Req für eine **Colt M4** (7 Req, Tier 1
+> AR), eine **Glock 17** als Sidearm (6 Req), ein Dot/Holo-Visier (5 Req) und einen Kompensator (10 Req) aus - 28 Req
+> ausgegeben, 2 übrig (verfallen). Alle 20 Rüstungs-Req gehen in eine Medium-Flak-Weste mit Front-/Rückenplatten.
 
 ## Schritt 8 - Kampfrolle (nur bei Start auf Level 3 oder höher) {#step-8---combat-designation-only-if-starting-at-3rd-level-or-higher}
 
@@ -187,6 +203,18 @@ alle Level-7-, 10-, 15- oder 18-Features, für die du auf deinem Startlevel qual
 zudem einen
 Spezialisierungspfad innerhalb der Kampfrolle.
 
+Drei Kampfrollen gewähren zusätzlich eine Tier 1 Signaturwaffe ohne Req-Kosten neben ihren Proficiencies:
+
+- **[Machine Gunner](designations/machine-gunner.md):** eine Tier 1 SAW oder GPMG. Ersetzt deine bestehende
+  Primärwaffe (Gewicht).
+- **[Marksman](designations/marksman.md):** ein Tier 1 Bolt-Action- oder Single-Shot-Rifle. Behält die bestehende
+  Primärwaffe.
+- **[Demolitions Specialist](designations/demolitions-specialist.md):** ein Tier 1 Rocket Launcher. Behält die
+  bestehende Primärwaffe.
+
+Die verbleibenden Kampfrollen (Rifleman, Combat Medic, Unit Leader, Dog Handler, Tech Specialist) behalten ihre
+bestehende Ausrüstung und erhalten ihre Kampfrollen-Features ohne zusätzliche Waffenausgabe.
+
 > **Beispiel (Start auf Level 3):** Kevin wählt **Marksman** als seine Kampfrolle und setzt damit auf seine
 > Fallschirmjäger-Gewehr-Gewohnheit. Er notiert die Proficiencies:
 >
@@ -195,13 +223,20 @@ Spezialisierungspfad innerhalb der Kampfrolle.
 > - Perception und Stealth Training (Level 1).
 > - Observation-Kit-Proficiency (Spektiv, Gewehroptik, Laser-Entfernungsmesser, Windmesser, DOPE-Buch).
 >
-> Und das Level-3-Feature: **Critical Shot** - als Action, feuere einen Schuss aus einem Bolt-Action- oder Single-Shot-Rifle ab;
-> wenn er trifft, ist es automatisch ein Critical Hit. Wenn der zugrunde liegende Wurf eine natürliche 20 ist, verdreifachen sich die Damage Dice statt sich zu verdoppeln.
+> Er erhält außerdem seine Kampfrollen-**Issued Weapon**: ein Tier 1 Bolt-Action-Rifle. Kevin wählt die **Remington 700
+> (7.62 NATO)** ohne Req-Kosten - seine M4 und Glock 17 aus der Startausrüstung bleiben im Rig.
 >
-> Mit dem Waffen-Training der Kampfrolle obendrauf auf sein Basic Training (ebenfalls Marksman, +2 auf Ranged Attack Rolls
-> - Namenskollision bitte beachten), seiner DEX 17 (+3) und seinem Proficiency Bonus +2 auf Level 3 beträgt Kevins To-Hit mit einem
-> Bolt-Action-Rifle **+7** (+2 Proficiency Bonus, +3 DEX, +2 Basic Training). Critical Shot obendrauf macht einen
-> gelandeten Treffer automatisch zu einem Crit.
+> Und das Level-3-Feature: **Critical Shot** - als Action, feuere einen Schuss aus einem Bolt-Action- oder
+> Single-Shot-Rifle ab;
+> wenn er trifft, ist es automatisch ein Critical Hit. Wenn der zugrunde liegende Wurf eine natürliche 20 ist,
+> verdreifachen sich die Damage Dice statt sich zu verdoppeln.
+>
+> Mit dem Waffen-Training der Kampfrolle obendrauf auf sein Basic Training (ebenfalls Marksman, +2 auf Ranged Attack
+> Rolls
+> - Namenskollision bitte beachten), seiner DEX 17 (+3) und seinem Proficiency Bonus +2 auf Level 3 beträgt Kevins
+    To-Hit mit einem
+    > Bolt-Action-Rifle **+7** (+2 Proficiency Bonus, +3 DEX, +2 Basic Training). Critical Shot obendrauf macht einen
+    > gelandeten Treffer automatisch zu einem Crit.
 
 ## Schritt 9 - Letzter Durchgang {#step-9---final-pass}
 
@@ -228,8 +263,10 @@ Vor der ersten Sitzung, prüfe den Bogen auf Plausibilität:
 - [ ] Starter-Ausbildungsprogramme (Armor, Weapons, Saves) auf dem Bogen notiert
 - [ ] Skills gewählt (2 + INT-Modifikator aus der Klassenliste)
 - [ ] Standard-Issue-Ausrüstung eingetragen
-- [ ] 30 Req für Waffen ausgegeben
+- [ ] 30 Req für Waffen ausgegeben (1x Primärwaffe, 1x Sidearm, plus Tier-Upgrades, Mods, Sekundärwaffen, Extras)
 - [ ] 20 Req für Rüstung ausgegeben
+- [ ] (Level 3+) Kampfrollen-Issued-Primärwaffe notiert falls zutreffend (Machine Gunner, Marksman, Demolitions
+  Specialist)
 - [ ] AC und Bewegung nach Ausrüstung und Merkmalen neu berechnet
 - [ ] Proficiency Bonus notiert (+2 auf Level 1-4)
 - [ ] Second Wind notiert; Action Surge ab 2, Indomitable ab 9, Resourceful auf 19 falls zutreffend

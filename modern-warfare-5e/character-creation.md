@@ -140,15 +140,31 @@ Athletics, History, Insight, Intimidation, Investigation, Perception, Nature, Su
 Your starting loadout has three parts:
 
 1. **Standard Issue gear package** - granted free. See [Field Kit](gear/field-kit.md) for exactly what's in it.
-2. **30 Requisition Points for Weapons.** Spend from [Weapons](weapons.md). Each weapon comes with a baseline pool of
-   magazines free; see [Ammunition](rules/ammunition.md#starting-loadout). Unspent points are lost.
+2. **30 Requisition Points for Weapons.** Buy:
+    - 1x primary weapon of your choice from any class you are trained in -
+      [assault rifle](weapons/assault-rifles.md), [submachine gun](weapons/submachine-guns.md),
+      [shotgun](weapons/shotguns.md), [semi-auto rifle](weapons/semi-auto-rifles.md), or
+      [bolt-action rifle](weapons/bolt-action-rifles.md). The base Operator class is trained in assault rifles by
+      default; other classes require training pickup (background, Operator Training, designation). At 3rd level, your
+      Combat Designation may issue an additional signature primary - see Step 8.
+    - 1x [sidearm](weapons/pistols.md) (any service or backup pistol).
+    - Any [weapon mods, optics](rules/weapon-modifications.md), additional secondaries, extra magazines, or specialty
+      ammo you want on top.
+    - Each weapon comes with its baseline magazine pool free; see
+      [Ammunition](rules/ammunition.md#starting-loadout). Unspent points are lost. Tier 3 weapons are priced near the
+      30 Req cap - spending all 30 on one Tier 3 weapon leaves no room for mods, a meaningful tradeoff.
 3. **20 Requisition Points for Armor.** Spend from [Armor](armor.md). Unspent points are lost.
+
+"Not for Personal Issue" weapons (Heavy Machine Guns, anti-materiel .50 BMG rifles, mounted grenade launchers) sit
+outside the tier system entirely. They cannot be acquired with personal Req regardless of budget - they are
+crew-served, mounted, or mission-issued only.
 
 Prioritize weapons and armor you are already trained in (see the Starter Training Programs above). You can carry gear
 you aren't trained in, but you won't get the bonuses and may have disadvantage.
 
-> **Example:** Kevin takes his Standard Issue kit, then spends all 30 Weapon Req on an assault rifle with a basic optic
-> plus a sidearm, and all 20 Armor Req on a medium flak vest with front/back plates.
+> **Example:** Kevin takes his Standard Issue kit and spends his 30 Weapon Req on a **Colt M4** (7 Req, Tier 1 AR), a
+> **Glock 17** sidearm (6 Req), a Dot/Holo sight (5 Req), and a Compensator (10 Req) - 28 Req spent, 2 left over (lost).
+> All 20 Armor Req go on a medium flak vest with front/backplates.
 
 ## Step 8 - Combat Designation (only if starting at 3rd level or higher)
 
@@ -157,6 +173,16 @@ Demolitions Specialist, Unit Leader, Combat Medic, Dog Handler, or Tech Speciali
 any 7th, 10th, 15th, or 18th-level features you qualify for at your starting level. At 10th level you also pick a
 specialization path within the designation.
 
+Three designations also grant a Tier 1 signature weapon at no Req cost alongside their proficiencies:
+
+- **[Machine Gunner](designations/machine-gunner.md):** one Tier 1 SAW or GPMG. Trades your existing primary (weight).
+- **[Marksman](designations/marksman.md):** one Tier 1 bolt-action or single-shot rifle. Keeps your existing primary.
+- **[Demolitions Specialist](designations/demolitions-specialist.md):** one Tier 1 rocket launcher. Keeps your
+  existing primary.
+
+The remaining designations (Rifleman, Combat Medic, Unit Leader, Dog Handler, Tech Specialist) keep their existing
+loadout and gain their designation features without an additional weapon grant.
+
 > **Example (starting at 3rd level):** Kevin picks **Marksman** as his designation, doubling down on his
 > Fallschirmjäger rifle habit. He records the proficiencies:
 >
@@ -164,6 +190,9 @@ specialization path within the designation.
 > - Save Training Level 1 in Wisdom Saves.
 > - Perception and Stealth training (Level 1).
 > - Observation Kit proficiency (spotting scope, rifle optic, laser rangefinder, wind meter, DOPE book).
+>
+> He also receives his designation **Issued Weapon**: one Tier 1 bolt-action rifle. Kevin picks the **Remington 700
+> (7.62 NATO)** at no Req cost - keeping his M4 and Glock 17 from his starting loadout in the rig.
 >
 > And the 3rd-level feature: **Critical Shot** - as an action, fire one shot from a bolt-action or single-shot rifle;
 > if it hits, it auto-crits. If the underlying roll is a natural 20, the damage dice triple instead of double.
@@ -198,8 +227,9 @@ Before the first session, sanity-check the sheet:
 - [ ] Starter Training Programs (Armor, Weapons, Saves) noted on sheet
 - [ ] Skills picked (2 + INT modifier from the class list)
 - [ ] Standard Issue gear recorded
-- [ ] 30 Req spent on Weapons
+- [ ] 30 Req spent on Weapons (1x primary, 1x sidearm, plus any tier upgrades, mods, secondaries, extras)
 - [ ] 20 Req spent on Armor
+- [ ] (3rd level+) Designation-issued primary recorded if applicable (Machine Gunner, Marksman, Demolitions Specialist)
 - [ ] AC and movement recomputed after gear and traits
 - [ ] Proficiency Bonus noted (+2 at levels 1-4)
 - [ ] Second Wind noted; Action Surge at 2+, Indomitable at 9+, Resourceful at 19 as applicable

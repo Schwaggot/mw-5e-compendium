@@ -17,6 +17,16 @@ tags: [ designation ]
   Berechnung von Ladungsgewichten, das Zünden und Doppelzünden von Ladungen, den Bau improvisierter und Breaching-
   Ladungen, sichere Lagerung und Handhabung sowie grundlegende Entschärfungsverfahren an vorgefundenen Vorrichtungen.
 
+## Issued Weapon {#issued-weapon}
+
+Wenn du diese Designation auf 3. Stufe wählst, stellt dir die Einheit
+einen [Tier 1 rocket launcher](../weapons/rocket-launchers.md)
+deiner Wahl ohne Req-Kosten. Dies kommt zusätzlich zu deiner bestehenden Primärwaffe und Sidearm.
+
+Du kannst auf einen Tier 2 konventionellen oder einen Tier 3 gelenkten Launcher (NLAW, Stinger, Javelin) upgraden,
+indem du dessen gelistete Req aus deinem Customization-Budget bezahlst
+(siehe [Step 7 - Equipment](../character-creation.md#step-7-equipment)).
+
 ## Deadly Demolitionist (3.) {#deadly-demolitionist-3rd}
 
 Wenn du Schaden für eine Rocket, Grenade, Grenade Launcher, Mine oder Raw Explosive würfelst, fügt jeder maximal
@@ -35,9 +45,9 @@ Gegenstände:
   aufzubrechen. Zeitgezündete Ladung.
 - **5 Blasting Caps, 1 Clacker und 500 ft Zündleitung.**
 - **Remote und 2 Remote Blasting Caps.**
-- **0,5 kg Block C4:** Kann geteilt werden; siehe [Raw Explosives](../weapons/grenades-and-explosives.md#raw-explosives).
-- **4 ft Detonation Cord:** Kann geteilt werden; siehe [Raw Explosives](../weapons/grenades-and-explosives.md#raw-explosives).
-- **Sticky Grenade:** Siehe [Raw Explosives](../weapons/grenades-and-explosives.md#raw-explosives).
+- **0,5 kg Block C4:** Kann geteilt werden; siehe [Explosives](../weapons/explosives.md).
+- **4 ft Detonation Cord:** Kann geteilt werden; siehe [Explosives](../weapons/explosives.md).
+- **Sticky Grenade:** Siehe [Grenades](../weapons/grenades.md#improvised-throwables).
 
 ## Spezialisierung (10.) {#specialization-10th}
 

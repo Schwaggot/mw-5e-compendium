@@ -71,13 +71,14 @@ see [Abbreviations](abbreviations.md).
 - **Encumbrance** - See [Encumbrance](rules/encumbrance.md).
 - **Exhaustion** - See [Exhaustion](rules/conditions.md#exhaustion).
 - **Expertise** - See [Expertise](rules/proficiency.md#expertise).
+- **Explosives** - See [Explosives](weapons/explosives.md).
 - **Extra Attack** - See [Extra Attack](operator-class.md#extra-attack).
 - **Field Kit** - See [Field Kit](gear/field-kit.md).
 - **Firing Modes** -
   See [Automatic Firing Modes](rules/combat-actions.md#automatic-firing-modes), [Weapon Properties](rules/weapon-properties.md).
 - **Gear** - See [Gear](gear.md).
 - **Grenade Launchers** - See [Grenade Launchers](weapons/grenade-launchers.md).
-- **Grenades and Explosives** - See [Grenades and Explosives](weapons/grenades-and-explosives.md).
+- **Grenades** - See [Grenades](weapons/grenades.md).
 - **Group Checks** - See [Group Checks](rules/ability-checks.md#group-checks).
 - **Group Stealth** - See [Group Stealth](rules/stealth.md#group-stealth).
 - **Headshots** -

@@ -17,6 +17,15 @@ tags: [ designation ]
   dual-priming charges, constructing improvised and breaching charges, safe storage and handling, and basic render-safe
   procedures on found devices.
 
+## Issued Weapon
+
+When you take this designation at 3rd level, the unit issues you
+one [Tier 1 rocket launcher](../weapons/rocket-launchers.md)
+of your choice at no Req cost. This is in addition to your existing primary weapon and sidearm.
+
+You may upgrade to a Tier 2 conventional or Tier 3 guided launcher (NLAW, Stinger, Javelin) by paying its listed Req
+from your customization budget (see [Step 7 - Equipment](../character-creation.md#step-7-equipment)).
+
 ## Deadly Demolitionist (3rd)
 
 When rolling damage for a Rocket, Grenade, Grenade Launcher, Mine, or Raw Explosive, any maxed dice add +1 damage die
@@ -33,9 +42,9 @@ Access to an Explosives Bag from the ASP. You may carry 5 items (10 at 10th leve
 - **X Charge:** 1.5 ft X of det cord. Gain advantage and +20 to the Strength check to break down a door. Timed charge.
 - **5 Blasting Caps, 1 Clacker, and 500 ft of wire.**
 - **Remote and 2 remote blasting caps.**
-- **0.5 kg Block C4:** Can be split; see [Raw Explosives](../weapons/grenades-and-explosives.md#raw-explosives).
-- **4 ft Detonation Cord:** Can be split; see [Raw Explosives](../weapons/grenades-and-explosives.md#raw-explosives).
-- **Sticky Grenade:** See [Raw Explosives](../weapons/grenades-and-explosives.md#raw-explosives).
+- **0.5 kg Block C4:** Can be split; see [Explosives](../weapons/explosives.md).
+- **4 ft Detonation Cord:** Can be split; see [Explosives](../weapons/explosives.md).
+- **Sticky Grenade:** See [Grenades](../weapons/grenades.md#improvised-throwables).
 
 ## Specialization (10th)
 

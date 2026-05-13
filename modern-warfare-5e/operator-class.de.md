@@ -6,20 +6,30 @@ tags: [ class ]
 
 # Operator-Klasse
 
-Operators kommen aufgrund ihrer Eigenständigkeit und ihres spezialisierten Fähigkeitsprofils aus Spezialeinheiten aller Teilstreitkräfte.
-Kandidaten stammen auch aus den anderen militärischen Teilstreitkräften und sogar von der Polizei. Die meisten Kandidaten, die den
-Operations-, Kommunikations- und/oder SIGINT-Schwadronen zugeteilt sind, durchlaufen einen Beurteilungs- und Auswahlkurs sowie eine
-ausführliche Sicherheitsüberprüfung und psychologische Tests. Nach der Aufnahme in die Einheit erhalten sie weitere Ausbildung in
-spezialisierten Ausbildungskursen. Wie alle Einheiten umfasst diese Intelligence Support Activity operative Teileinheiten sowie
+Operators kommen aufgrund ihrer Eigenständigkeit und ihres spezialisierten Fähigkeitsprofils aus Spezialeinheiten aller
+Teilstreitkräfte.
+Kandidaten stammen auch aus den anderen militärischen Teilstreitkräften und sogar von der Polizei. Die meisten
+Kandidaten, die den
+Operations-, Kommunikations- und/oder SIGINT-Schwadronen zugeteilt sind, durchlaufen einen Beurteilungs- und Auswahlkurs
+sowie eine
+ausführliche Sicherheitsüberprüfung und psychologische Tests. Nach der Aufnahme in die Einheit erhalten sie weitere
+Ausbildung in
+spezialisierten Ausbildungskursen. Wie alle Einheiten umfasst diese Intelligence Support Activity operative
+Teileinheiten sowie
 Unterstützungseinheiten wie Nachrichtenauswertung, Medizin und Logistik.
 
-Kandidaten müssen über vorherige Ausbildung in Taktiken wie CQB, Scharfschütze, Gegen-Scharfschütze und Quellenführung verfügen.
-Fremdsprachenkenntnisse sind zwar sehr erwünscht, aber keine Voraussetzung für die Aufnahme in die Einheit. Um jedoch als
-SIGINT/HUMINT-Operator im Feld mit anderen Special Mission Units klandestine Operationen in nicht-permissiven Umgebungen durchzuführen,
+Kandidaten müssen über vorherige Ausbildung in Taktiken wie CQB, Scharfschütze, Gegen-Scharfschütze und Quellenführung
+verfügen.
+Fremdsprachenkenntnisse sind zwar sehr erwünscht, aber keine Voraussetzung für die Aufnahme in die Einheit. Um jedoch
+als
+SIGINT/HUMINT-Operator im Feld mit anderen Special Mission Units klandestine Operationen in nicht-permissiven Umgebungen
+durchzuführen,
 sind Kenntnisse in mindestens mehreren Sprachen in der Regel unverzichtbar (z.B. Persisch, Arabisch, Paschtu usw.).
 
-Zu den im Ausbildungskurs behandelten Disziplinen gehören: Infiltrationstechniken, fortgeschrittene Luftoperationen, professionelles
-Fahren (offensiv und Geländefahren), persönliche Schutzmaßnahmen, modernste Kommunikationstechnik, tiefe Aufklärung, Tradecraft,
+Zu den im Ausbildungskurs behandelten Disziplinen gehören: Infiltrationstechniken, fortgeschrittene Luftoperationen,
+professionelles
+Fahren (offensiv und Geländefahren), persönliche Schutzmaßnahmen, modernste Kommunikationstechnik, tiefe Aufklärung,
+Tradecraft,
 Waffenhandhabung, Nahkampf und Signalaufklärung.
 
 ## Operator-Klassentabelle {#operator-class-table}
@@ -64,27 +74,42 @@ Als Operator hast du die folgenden Ausbildungsprogramme abgeschlossen und erhalt
   und Bayonet.
 - **Tools Training:** Keine.
 - **Saving Throw Training:** Save Training Level 1 in Strength und Dexterity.
-- **Language Training:** Wähle eines - Level 1-4 in Englisch; ODER Level 1-3 in Englisch plus Level 1 in einer anderen Sprache deiner
+- **Language Training:** Wähle eines - Level 1-4 in Englisch; ODER Level 1-3 in Englisch plus Level 1 in einer anderen
+  Sprache deiner
   Wahl; ODER Level 1-4 in einer nicht-englischen Muttersprache plus Level 1-2 in Englisch (NATO working level).
-- **Skills Training:** 2 + Intelligence-Modifikator Level 1 Trainings, gewählt aus Acrobatics, Animal Handling, Athletics,
+- **Skills Training:** 2 + Intelligence-Modifikator Level 1 Trainings, gewählt aus Acrobatics, Animal Handling,
+  Athletics,
   History, Insight, Intimidate, Investigation, Perception, Nature, Survival.
 
 ### Starter-Ausrüstung {#starter-equipment}
 
-- Standard-Issue-Ausrüstungspaket
-- 30 Requisitionspunkte für Waffen und 20 für Rüstung
+- Standard-Issue-Ausrüstungspaket (siehe [Field Kit](gear/field-kit.md))
+- 1x Primärwaffe deiner Wahl aus einer Klasse, in der du trainiert bist -
+  [assault rifle](weapons/assault-rifles.md), [submachine gun](weapons/submachine-guns.md),
+  [shotgun](weapons/shotguns.md), [semi-auto rifle](weapons/semi-auto-rifles.md) oder
+  [bolt-action rifle](weapons/bolt-action-rifles.md). (Auf Level 3 ersetzt oder ergänzt durch die
+  Signaturwaffe deiner Combat Designation, sofern zutreffend.)
+- 1x [sidearm](weapons/pistols.md) (eine beliebige Dienst- oder Backup-Pistole)
+- 30 Requisitionspunkte für Waffen (um die oben genannten sowie Tier-Upgrades, Mods, Sekundärwaffen und Extras zu
+  kaufen) und 20 für Rüstung
 - Ein Level 1 Ausbildungsprogramm deiner Wahl
+
+Siehe [Character Creation - Step 7](character-creation.md#step-7-equipment) für Details zum Einsatz des 30-Req-Budgets.
 
 ## Basic Training {#basic-training}
 
-In deiner anfänglichen Ausbildung während der Einheiten-Einweisung hast du einige Kampfstile aufgeschnappt. Wähle ein Merkmal aus
-der Liste unten. Auf Level 10 und 20 erhältst du jeweils ein weiteres Merkmal. Du darfst denselben Stil mehr als einmal wählen.
+In deiner anfänglichen Ausbildung während der Einheiten-Einweisung hast du einige Kampfstile aufgeschnappt. Wähle ein
+Merkmal aus
+der Liste unten. Auf Level 10 und 20 erhältst du jeweils ein weiteres Merkmal. Du darfst denselben Stil mehr als einmal
+wählen.
 
 - **Marksman:** +2 Bonus auf Attack Rolls mit Fernkampfwaffen.
 - **Defense:** +1 Bonus auf [AC](armor.md).
 - **Dirty Fighting:** Wenn eine Kreatur innerhalb von 5 Fuß um dich angreift, kannst du deine
-  [Reaction](rules/combat-turn.md#reactions) nutzen, um [Disadvantage](rules/advantage.md) auf einen einzelnen Angriff zu erzwingen.
-- **Dueling:** Wenn du eine Nahkampfwaffe in einer Hand und nichts in der anderen führst, erhältst du +2 auf Damage Rolls mit
+  [Reaction](rules/combat-turn.md#reactions) nutzen, um [Disadvantage](rules/advantage.md) auf einen einzelnen Angriff
+  zu erzwingen.
+- **Dueling:** Wenn du eine Nahkampfwaffe in einer Hand und nichts in der anderen führst, erhältst du +2 auf Damage
+  Rolls mit
   dieser Waffe.
 - **Two-Weapon Fighting:** Wenn du mit zwei Waffen kämpfst, addiere deinen Attributsmodifikator zum Schaden des zweiten
   Angriffs.
@@ -93,21 +118,25 @@ der Liste unten. Auf Level 10 und 20 erhältst du jeweils ein weiteres Merkmal. 
 
 ## Second Wind {#second-wind}
 
-Du hast einen begrenzten Reservepool an Ausdauer. In deinem Zug kannst du eine [Bonus Action](rules/combat-turn.md#bonus-actions)
+Du hast einen begrenzten Reservepool an Ausdauer. In deinem Zug kannst du
+eine [Bonus Action](rules/combat-turn.md#bonus-actions)
 nutzen, um Hit Points in Höhe von 1d10 + deinem Klassen-Level zurückzuerhalten. Nach Verwendung musst du eine
-[Short oder Long Rest](rules/rest.md) beenden, bevor du es erneut einsetzen kannst. Darf nur eingesetzt werden, wenn du auf
+[Short oder Long Rest](rules/rest.md) beenden, bevor du es erneut einsetzen kannst. Darf nur eingesetzt werden, wenn du
+auf
 Triage-Code Orange oder besser bist. Siehe [Triage-Code](rules/hit-points.md#triage-code).
 
 ## Operator Training {#operator-training}
 
 Auf Level 2, und erneut auf Level 4, 6, 8, 10, 12, 14, 16, 18 und 20, wählst du 2 Level in einem beliebigen
-Ausbildungsprogramm. Du darfst nicht beide Level mit einem einzigen Einsatz von Operator Training auf dasselbe Upgrade verwenden.
+Ausbildungsprogramm. Du darfst nicht beide Level mit einem einzigen Einsatz von Operator Training auf dasselbe Upgrade
+verwenden.
 Siehe [Ausbildungsprogramme](training-programs.md).
 
 ## Action Surge {#action-surge}
 
 Ab Level 2 kannst du dich für einen Moment über deine normalen Grenzen hinaus antreiben. In deinem Zug kannst du eine
-zusätzliche [Action](rules/combat-turn.md#actions) zusätzlich zu deiner regulären Aktion und einer möglichen Bonus Action ausführen.
+zusätzliche [Action](rules/combat-turn.md#actions) zusätzlich zu deiner regulären Aktion und einer möglichen Bonus
+Action ausführen.
 
 ## Combat Designation {#combat-designation}
 
@@ -118,14 +147,18 @@ Siehe [Kampfrollen](combat-designations.md).
 ## Extra Attack {#extra-attack}
 
 Auf Level 5 kannst du zweimal statt einmal angreifen, wenn du die
-[Attack Action](rules/combat-turn.md#actions) ausführst. Auf Level 11 erhöht sich dies auf drei Angriffe und auf Level 20 auf vier Angriffe.
+[Attack Action](rules/combat-turn.md#actions) ausführst. Auf Level 11 erhöht sich dies auf drei Angriffe und auf Level
+20 auf vier Angriffe.
 
 ## Indomitable {#indomitable}
 
-Ab Level 9 kannst du einen fehlgeschlagenen [Saving Throw](rules/saving-throws.md) neu würfeln (verwende das neue Ergebnis). Kann erst
-wieder nach einer [Long Rest](rules/rest.md#long-rest) eingesetzt werden. Ab Level 13 zweimal und ab Level 17 dreimal zwischen Long Rests
+Ab Level 9 kannst du einen fehlgeschlagenen [Saving Throw](rules/saving-throws.md) neu würfeln (verwende das neue
+Ergebnis). Kann erst
+wieder nach einer [Long Rest](rules/rest.md#long-rest) eingesetzt werden. Ab Level 13 zweimal und ab Level 17 dreimal
+zwischen Long Rests
 einsetzbar.
 
 ## Resourceful {#resourceful}
 
-Auf Level 19 erhältst du einen zusätzlichen Einsatz deiner Wahl von Second Wind, Action Surge oder Indomitable, wiederhergestellt nach einer Long Rest.
+Auf Level 19 erhältst du einen zusätzlichen Einsatz deiner Wahl von Second Wind, Action Surge oder Indomitable,
+wiederhergestellt nach einer Long Rest.

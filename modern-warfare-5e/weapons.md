@@ -1,12 +1,13 @@
 ---
 title: Weapons
-aliases: []
-tags: [moc, weapon]
+aliases: [ ]
+tags: [ moc, weapon ]
 ---
 
 # Weapons
 
-Firearms, launchers, grenades, and explosives used by Operators. See [Weapon Properties](rules/weapon-properties.md) for the property keywords referenced in the tables, and [Weapon Modifications](rules/weapon-modifications.md) for mod rules.
+Firearms, launchers, grenades, and explosives used by Operators. See [Weapon Properties](rules/weapon-properties.md) for
+the property keywords referenced in the tables, and [Weapon Modifications](rules/weapon-modifications.md) for mod rules.
 
 ## Firearms
 
@@ -22,4 +23,5 @@ Firearms, launchers, grenades, and explosives used by Operators. See [Weapon Pro
 
 - [Grenade Launchers](weapons/grenade-launchers.md)
 - [Rocket Launchers](weapons/rocket-launchers.md)
-- [Grenades and Explosives](weapons/grenades-and-explosives.md)
+- [Grenades](weapons/grenades.md)
+- [Explosives](weapons/explosives.md)

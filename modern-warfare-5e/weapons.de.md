@@ -1,12 +1,14 @@
 ---
 title: Waffen
-aliases: []
-tags: [moc, weapon]
+aliases: [ ]
+tags: [ moc, weapon ]
 ---
 
 # Waffen
 
-Feuerwaffen, Werfer, Granaten und Sprengstoffe, die von Operators eingesetzt werden. Siehe [Weapon Properties](rules/weapon-properties.md) für die in den Tabellen referenzierten Property-Schlüsselwörter und [Weapon Modifications](rules/weapon-modifications.md) für die Mod-Regeln.
+Feuerwaffen, Werfer, Granaten und Sprengstoffe, die von Operators eingesetzt werden.
+Siehe [Weapon Properties](rules/weapon-properties.md) für die in den Tabellen referenzierten Property-Schlüsselwörter
+und [Weapon Modifications](rules/weapon-modifications.md) für die Mod-Regeln.
 
 ## Feuerwaffen {#firearms}
 
@@ -22,4 +24,5 @@ Feuerwaffen, Werfer, Granaten und Sprengstoffe, die von Operators eingesetzt wer
 
 - [Grenade Launchers](weapons/grenade-launchers.md)
 - [Rocket Launchers](weapons/rocket-launchers.md)
-- [Grenades and Explosives](weapons/grenades-and-explosives.md)
+- [Grenades](weapons/grenades.md)
+- [Explosives](weapons/explosives.md)

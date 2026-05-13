@@ -74,7 +74,7 @@ siehe [Abkürzungen](abbreviations.md).
 - **Firing Modes** -
   Siehe [Automatic Firing Modes](rules/combat-actions.md#automatic-firing-modes), [Weapon Properties](rules/weapon-properties.md).
 - **Gear** - Siehe [Gear](gear.md).
-- **Granaten und Sprengstoffe** - Siehe [Grenades and Explosives](weapons/grenades-and-explosives.md).
+- **Granaten** - Siehe [Grenades](weapons/grenades.md).
 - **Grenade Launchers** - Siehe [Grenade Launchers](weapons/grenade-launchers.md).
 - **Group Checks** - Siehe [Group Checks](rules/ability-checks.md#group-checks).
 - **Group Stealth** - Siehe [Group Stealth](rules/stealth.md#group-stealth).
@@ -134,6 +134,7 @@ siehe [Abkürzungen](abbreviations.md).
 - **Sicht und Licht** - Siehe [Sicht und Licht](rules/vision-and-light.md).
 - **Slowed** - Siehe [Slowed](rules/conditions.md#slowed).
 - **Sprachen** - Siehe [Step 5 - Nationality / Languages](character-creation.md#step-5---nationality--languages).
+- **Sprengstoffe** - Siehe [Explosives](weapons/explosives.md).
 - **Springen** - Siehe [Jumping](rules/movement.md#jumping).
 - **Stealth** - Siehe [Stealth](rules/stealth.md).
 - **Strength (STR)** - Siehe [Attributes](rules/attributes.md#the-six-attributes).

@@ -6,9 +6,9 @@ tags: [ gear, equipment, demolitions ]
 
 # Demolitions
 
-Breaching and destruction charges. Detailed mechanical rules for C4, det cord, sticky grenades, and similar live
-with [Raw Explosives](../weapons/grenades-and-explosives.md#raw-explosives); combat-designation uses are
-under [Demolitions Specialist](../designations/demolitions-specialist.md). This page is the item inventory.
+Breaching and destruction charges. Detailed mechanical rules for C4, det cord, and similar live
+with [Explosives](../weapons/explosives.md); sticky grenades live with [Grenades](../weapons/grenades.md#improvised-throwables);
+combat-designation uses are under [Demolitions Specialist](../designations/demolitions-specialist.md). This page is the item inventory.
 See [Gear Tags](../gear.md#gear-tags) for tag definitions.
 
 ## Main Charges

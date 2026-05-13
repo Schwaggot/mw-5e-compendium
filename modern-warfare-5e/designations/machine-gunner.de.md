@@ -16,6 +16,20 @@ tags: [ designation ]
   benutzt, um Feuerbereiche vorzuplanen, Schusstafeln zu markieren und die Waffe wieder auf denselben Zielpunkt zu
   bringen, für anhaltendes oder indirektes Feuer, Wirkungsbereiche und Nachtschießaufgaben.
 
+## Machine Gun Loadout {#machine-gun-loadout}
+
+Die Ausbildung und Proficiencies dieser Designation erlauben es dir, eine [SAW or GPMG](../weapons/machine-guns.md) als
+deine Primärwaffe zu führen. Das Maschinengewehr wird mit Req aus deinem Customization-Budget gekauft wie jede andere
+Waffe - siehe [Step 7 - Equipment](../character-creation.md#step-7-equipment).
+
+Ein Machine Gunner kann nicht sowohl ein Maschinengewehr als auch eine weitere Primärwaffe als Standardausrüstung
+tragen (Gewicht und Munitionslast schließen das aus). Wenn du diese Designation wählst, wird deine bisherige
+Primärwaffe zugunsten des Maschinengewehrs aus deiner aktiven Ausrüstung entfernt, und du **erhältst die Req-Punkte
+zurück, die du ursprünglich für diese Primärwaffe ausgegeben hast**, um sie in das Maschinengewehr (und etwaige Mods
+oder Extras) zu investieren. Deine Sidearm behältst du.
+
+Heavy Machine Guns stehen außerhalb des Tier-Systems und sind nicht für die persönliche Ausgabe verfügbar.
+
 ## Die Fuzzy Bunny, Die (3.) {#die-fuzzy-bunny-die-3rd}
 
 Beim Einsatz automatischer Waffen feuerst du für jede Feuerstoß die maximale Anzahl Schuss, was dir erlaubt,

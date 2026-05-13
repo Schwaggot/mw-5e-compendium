@@ -11,9 +11,23 @@ tags: [ designation ]
 - Level 1 training in Weapon Proficiency Training: SAW, GPM, Heavy MG.
 - Save Training Level 1 in Constitution Saves.
 - One level of training in Survival and Athletics.
-- T&E Kit (Tools) - Traverse and Elevation mechanism; a dial-and-scale device mounted between a tripod and a machine gun that
+- T&E Kit (Tools) - Traverse and Elevation mechanism; a dial-and-scale device mounted between a tripod and a machine gun
+  that
   locks precise horizontal (traverse) and vertical (elevation) aim. Used to preplot sectors of fire, mark range cards,
   and return the gun to the same point of aim for sustained or indirect fire, beaten zones, and night-firing tasks.
+
+## Machine Gun Loadout
+
+This designation's training and proficiencies allow you to field a [SAW or GPMG](../weapons/machine-guns.md) as your
+primary weapon. The machine gun is purchased with Req from your customization budget like any other weapon - see
+[Step 7 - Equipment](../character-creation.md#step-7-equipment).
+
+A Machine Gunner cannot carry both a machine gun and another primary as standard kit (weight and ammunition load
+preclude it). When you take this designation, your existing primary is dropped from your active kit in favor of the
+machine gun, and you **recover the Req points you originally spent on that primary** to put toward the machine gun
+(and any mods or extras). You keep your sidearm.
+
+Heavy Machine Guns sit outside the tier system and are not available for personal issue.
 
 ## Die Fuzzy Bunny, Die (3rd)
 

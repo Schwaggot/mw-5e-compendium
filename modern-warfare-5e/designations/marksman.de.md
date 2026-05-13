@@ -16,6 +16,16 @@ tags: [ designation ]
   das Ansagen von Korrekturen, das Entfernungsschätzen von Zielen sowie das Protokollieren von Verstellungen und
   Haltepunkten für dein Gewehr.
 
+## Issued Weapon {#issued-weapon}
+
+Wenn du diese Designation auf Stufe 3 wählst, stellt dir die Einheit
+ein [Tier 1 bolt-action rifle](../weapons/bolt-action-rifles.md)
+deiner Wahl ohne Req-Kosten. Dies kommt zusätzlich zu deiner bestehenden Primärwaffe und Sidearm.
+
+Du kannst auf ein Tier 2 oder Tier 3 Präzisionsgewehr aufrüsten, indem du dessen gelisteten Req aus deinem
+Customization-Budget bezahlst (siehe [Step 7 - Equipment](../character-creation.md#step-7-equipment)).
+Anti-Materiel-.50-BMG-Gewehre liegen außerhalb des Tier-Systems und sind nicht für die persönliche Ausgabe verfügbar.
+
 ## Critical Shot (3.) {#critical-shot-3rd}
 
 Als Action feuerst du einen Schuss aus einem Single Shot oder Bolt Action Rifle - trifft er, zählt er als Critical

@@ -15,6 +15,16 @@ tags: [ designation ]
   book (Data On Previous Engagements / range card). Proficiency covers reading wind and mirage, calling corrections,
   ranging targets, and logging come-ups and holds for your rifle.
 
+## Issued Weapon
+
+When you take this designation at 3rd level, the unit issues you
+one [Tier 1 bolt-action rifle](../weapons/bolt-action-rifles.md)
+of your choice at no Req cost. This is in addition to your existing primary weapon and sidearm.
+
+You may upgrade to a Tier 2 or Tier 3 precision rifle by paying its listed Req from your customization budget (see
+[Step 7 - Equipment](../character-creation.md#step-7-equipment)). Anti-materiel .50 BMG rifles sit outside the tier
+system and are not available for personal issue.
+
 ## Critical Shot (3rd)
 
 As an action, fire one shot from a Single Shot or Bolt Action rifle - if it hits, it counts as a critical hit. If you

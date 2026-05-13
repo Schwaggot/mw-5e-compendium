@@ -71,9 +71,18 @@ As an Operator you have completed and gain the following Training Programs.
 
 ### Starter Equipment
 
-- Standard Issue gear package
-- 30 Requisition Points for Weapons and 20 for Armor
+- Standard Issue gear package (see [Field Kit](gear/field-kit.md))
+- 1x primary weapon of your choice from any class you are trained in -
+  [assault rifle](weapons/assault-rifles.md), [submachine gun](weapons/submachine-guns.md),
+  [shotgun](weapons/shotguns.md), [semi-auto rifle](weapons/semi-auto-rifles.md), or
+  [bolt-action rifle](weapons/bolt-action-rifles.md). (Replaced or supplemented at 3rd level by your Combat
+  Designation's signature weapon, where applicable.)
+- 1x [sidearm](weapons/pistols.md) (any service or backup pistol)
+- 30 Requisition Points for Weapons (to purchase the above and any tier upgrades, mods, secondaries, extras) and 20 for
+  Armor
 - One Level 1 Training Program of your choice
+
+See [Character Creation - Step 7](character-creation.md#step-7-equipment) for how to spend the 30 Req budget.
 
 ## Basic Training
 
