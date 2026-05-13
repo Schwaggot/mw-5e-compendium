@@ -435,6 +435,13 @@
         <xhtml:link rel="alternate" hreflang="de" href="https://schwaggot.github.io/mw-5e-compendium/de/weapons/bolt-action-rifles/"/>
     </url>
     <url>
+        <loc>https://schwaggot.github.io/mw-5e-compendium/weapons/explosives/</loc>
+        <lastmod>2026-05-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://schwaggot.github.io/mw-5e-compendium/weapons/explosives/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://schwaggot.github.io/mw-5e-compendium/de/weapons/explosives/"/>
+    </url>
+    <url>
         <loc>https://schwaggot.github.io/mw-5e-compendium/weapons/grenade-launchers/</loc>
         <lastmod>2026-05-13</lastmod>
         <changefreq>daily</changefreq>
@@ -442,11 +449,11 @@
         <xhtml:link rel="alternate" hreflang="de" href="https://schwaggot.github.io/mw-5e-compendium/de/weapons/grenade-launchers/"/>
     </url>
     <url>
-        <loc>https://schwaggot.github.io/mw-5e-compendium/weapons/grenades-and-explosives/</loc>
+        <loc>https://schwaggot.github.io/mw-5e-compendium/weapons/grenades/</loc>
         <lastmod>2026-05-13</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://schwaggot.github.io/mw-5e-compendium/weapons/grenades-and-explosives/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="https://schwaggot.github.io/mw-5e-compendium/de/weapons/grenades-and-explosives/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://schwaggot.github.io/mw-5e-compendium/weapons/grenades/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://schwaggot.github.io/mw-5e-compendium/de/weapons/grenades/"/>
     </url>
     <url>
         <loc>https://schwaggot.github.io/mw-5e-compendium/weapons/machine-guns/</loc>
@@ -925,6 +932,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://schwaggot.github.io/mw-5e-compendium/weapons/bolt-action-rifles/"/>
     </url>
     <url>
+        <loc>https://schwaggot.github.io/mw-5e-compendium/de/weapons/explosives/</loc>
+        <lastmod>2026-05-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://schwaggot.github.io/mw-5e-compendium/de/weapons/explosives/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://schwaggot.github.io/mw-5e-compendium/weapons/explosives/"/>
+    </url>
+    <url>
         <loc>https://schwaggot.github.io/mw-5e-compendium/de/weapons/grenade-launchers/</loc>
         <lastmod>2026-05-13</lastmod>
         <changefreq>daily</changefreq>
@@ -932,11 +946,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://schwaggot.github.io/mw-5e-compendium/weapons/grenade-launchers/"/>
     </url>
     <url>
-        <loc>https://schwaggot.github.io/mw-5e-compendium/de/weapons/grenades-and-explosives/</loc>
+        <loc>https://schwaggot.github.io/mw-5e-compendium/de/weapons/grenades/</loc>
         <lastmod>2026-05-13</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="de" href="https://schwaggot.github.io/mw-5e-compendium/de/weapons/grenades-and-explosives/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://schwaggot.github.io/mw-5e-compendium/weapons/grenades-and-explosives/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://schwaggot.github.io/mw-5e-compendium/de/weapons/grenades/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://schwaggot.github.io/mw-5e-compendium/weapons/grenades/"/>
     </url>
     <url>
         <loc>https://schwaggot.github.io/mw-5e-compendium/de/weapons/machine-guns/</loc>

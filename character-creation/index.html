@@ -1386,21 +1386,47 @@ Athletics, History, Insight, Intimidation, Investigation, Perception, Nature, Su
 <p>Your starting loadout has three parts:</p>
 <ol>
 <li><strong>Standard Issue gear package</strong> - granted free. See <a href="../gear/field-kit/">Field Kit</a> for exactly what's in it.</li>
-<li><strong>30 Requisition Points for Weapons.</strong> Spend from <a href="../weapons/">Weapons</a>. Each weapon comes with a baseline pool of
-   magazines free; see <a href="../rules/ammunition/#starting-loadout">Ammunition</a>. Unspent points are lost.</li>
+<li><strong>30 Requisition Points for Weapons.</strong> Buy:<ul>
+<li>1x primary weapon of your choice from any class you are trained in -
+  <a href="../weapons/assault-rifles/">assault rifle</a>, <a href="../weapons/submachine-guns/">submachine gun</a>,
+  <a href="../weapons/shotguns/">shotgun</a>, <a href="../weapons/semi-auto-rifles/">semi-auto rifle</a>, or
+  <a href="../weapons/bolt-action-rifles/">bolt-action rifle</a>. The base Operator class is trained in assault rifles by
+  default; other classes require training pickup (background, Operator Training, designation). At 3<sup>rd</sup> level, your
+  Combat Designation may issue an additional signature primary - see Step 8.</li>
+<li>1x <a href="../weapons/pistols/">sidearm</a> (any service or backup pistol).</li>
+<li>Any <a href="../rules/weapon-modifications/">weapon mods, optics</a>, additional secondaries, extra magazines, or specialty
+  ammo you want on top.</li>
+<li>Each weapon comes with its baseline magazine pool free; see
+  <a href="../rules/ammunition/#starting-loadout">Ammunition</a>. Unspent points are lost. Tier 3 weapons are priced near the
+  30 Req cap - spending all 30 on one Tier 3 weapon leaves no room for mods, a meaningful tradeoff.</li>
+</ul>
+</li>
 <li><strong>20 Requisition Points for Armor.</strong> Spend from <a href="../armor/">Armor</a>. Unspent points are lost.</li>
 </ol>
+<p>"Not for Personal Issue" weapons (Heavy Machine Guns, anti-materiel .50 BMG rifles, mounted grenade launchers) sit
+outside the tier system entirely. They cannot be acquired with personal Req regardless of budget - they are
+crew-served, mounted, or mission-issued only.</p>
 <p>Prioritize weapons and armor you are already trained in (see the Starter Training Programs above). You can carry gear
 you aren't trained in, but you won't get the bonuses and may have disadvantage.</p>
 <blockquote>
-<p><strong>Example:</strong> Kevin takes his Standard Issue kit, then spends all 30 Weapon Req on an assault rifle with a basic optic
-plus a sidearm, and all 20 Armor Req on a medium flak vest with front/back plates.</p>
+<p><strong>Example:</strong> Kevin takes his Standard Issue kit and spends his 30 Weapon Req on a <strong>Colt M4</strong> (7 Req, Tier 1 AR), a
+<strong>Glock 17</strong> sidearm (6 Req), a Dot/Holo sight (5 Req), and a Compensator (10 Req) - 28 Req spent, 2 left over (lost).
+All 20 Armor Req go on a medium flak vest with front/backplates.</p>
 </blockquote>
 <h2 id="step-8-combat-designation-only-if-starting-at-3rd-level-or-higher">Step 8 - Combat Designation (only if starting at 3<sup>rd</sup> level or higher)<a class="headerlink" href="#step-8-combat-designation-only-if-starting-at-3rd-level-or-higher" title="Permanent link">&para;</a></h2>
 <p>At 3<sup>rd</sup> level an Operator locks in a <a href="../combat-designations/">Combat Designation</a> - Rifleman, Marksman, Machine Gunner,
 Demolitions Specialist, Unit Leader, Combat Medic, Dog Handler, or Tech Specialist. Apply its 3<sup>rd</sup>-level feature, plus
 any 7<sup>th</sup>, 10<sup>th</sup>, 15<sup>th</sup>, or 18<sup>th</sup>-level features you qualify for at your starting level. At 10<sup>th</sup> level you also pick a
 specialization path within the designation.</p>
+<p>Three designations also grant a Tier 1 signature weapon at no Req cost alongside their proficiencies:</p>
+<ul>
+<li><strong><a href="../designations/machine-gunner/">Machine Gunner</a>:</strong> one Tier 1 SAW or GPMG. Trades your existing primary (weight).</li>
+<li><strong><a href="../designations/marksman/">Marksman</a>:</strong> one Tier 1 bolt-action or single-shot rifle. Keeps your existing primary.</li>
+<li><strong><a href="../designations/demolitions-specialist/">Demolitions Specialist</a>:</strong> one Tier 1 rocket launcher. Keeps your
+  existing primary.</li>
+</ul>
+<p>The remaining designations (Rifleman, Combat Medic, Unit Leader, Dog Handler, Tech Specialist) keep their existing
+loadout and gain their designation features without an additional weapon grant.</p>
 <blockquote>
 <p><strong>Example (starting at 3<sup>rd</sup> level):</strong> Kevin picks <strong>Marksman</strong> as his designation, doubling down on his
 Fallschirmjäger rifle habit. He records the proficiencies:</p>
@@ -1410,6 +1436,8 @@ Fallschirmjäger rifle habit. He records the proficiencies:</p>
 <li>Perception and Stealth training (Level 1).</li>
 <li>Observation Kit proficiency (spotting scope, rifle optic, laser rangefinder, wind meter, DOPE book).</li>
 </ul>
+<p>He also receives his designation <strong>Issued Weapon</strong>: one Tier 1 bolt-action rifle. Kevin picks the <strong>Remington 700
+(7.62 NATO)</strong> at no Req cost - keeping his M4 and Glock 17 from his starting loadout in the rig.</p>
 <p>And the 3<sup>rd</sup>-level feature: <strong>Critical Shot</strong> - as an action, fire one shot from a bolt-action or single-shot rifle;
 if it hits, it auto-crits. If the underlying roll is a natural 20, the damage dice triple instead of double.</p>
 <p>With the designation's weapon training stacked on top of his Basic Training (also Marksman, +2 to ranged attack
@@ -1442,8 +1470,9 @@ Proficiency Bonus +2, Second Wind ready. Falke is cleared hot.</p>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Starter Training Programs (Armor, Weapons, Saves) noted on sheet</li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Skills picked (2 + INT modifier from the class list)</li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Standard Issue gear recorded</li>
-<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 30 Req spent on Weapons</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 30 Req spent on Weapons (1x primary, 1x sidearm, plus any tier upgrades, mods, secondaries, extras)</li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 20 Req spent on Armor</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> (3<sup>rd</sup> level+) Designation-issued primary recorded if applicable (Machine Gunner, Marksman, Demolitions Specialist)</li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> AC and movement recomputed after gear and traits</li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Proficiency Bonus noted (+2 at levels 1-4)</li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Second Wind noted; Action Surge at 2+, Indomitable at 9+, Resourceful at 19 as applicable</li>
