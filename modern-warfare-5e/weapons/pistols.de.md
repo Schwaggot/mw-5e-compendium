@@ -120,25 +120,28 @@ Property-Schlüsselwörter.
 
 ## Tier 2 - Premium {#tier-2---premium}
 
-| Name          | Kaliber       | Schaden | Misfire/Crit | Reichweite | Eigenschaften                                                                 | Req |
-|---------------|---------------|---------|--------------|------------|-------------------------------------------------------------------------------|-----|
-| Beretta 93R   | 9mm P         | 1d10+1  | 1-3/20       | 25 ft      | 1H, Lite, CQC, Recoil (10), Select Fire S/B, Reloading                        | 14  |
-| Colt SAA      | .357 Magnum   | 3d4+1   | 1/19-20      | 30 ft      | 1H, Lite, CQC, Recoil (18), Dependable, Manual Action, Reloading, Ammo 6      | 14  |
-| Colt SAA      | .44-40        | 1d12+2  | 1/19-20      | 30 ft      | 1H, CQC, Recoil (17), Manual Action, Takedown, Reloading, Ammo 6              | 14  |
-| Colt SAA      | .45 Long Colt | 1d12    | 1/19-20      | 30 ft      | 1H, CQC, Recoil (11), Manual Action, Takedown, Reloading, Ammo 6              | 14  |
-| Colt SAA      | .22 LR        | 1d4+2   | 1/20         | 15 ft      | 1H, CQC, Recoil (2), Manual Action, Reloading, Ammo 6                         | 14  |
-| Desert Eagle  | .357 Magnum   | 3d4+1   | 1-2/19-20    | 40 ft      | 1H, Lite, CQC, Recoil (11), Reloading                                         | 11  |
-| Desert Eagle  | .41 Magnum    | 3d4     | 1-2/19-20    | 35 ft      | 1H, Lite, CQC, Recoil (8), Takedown, Reloading                                | 11  |
-| Desert Eagle  | .44 Magnum    | 2d6+2   | 1-3/19-20    | 35 ft      | 1H, Lite, CQC, Recoil (11), Takedown, Reloading                               | 12  |
-| Desert Eagle  | .50 AE        | 3d6+1   | 1-3/19-20    | 40 ft      | 1H, CQC, Recoil (19), Takedown, Reloading                                     | 15  |
-| FN Five-seveN | 5.7×28mm      | 1d8+2   | 1-2/20       | 30 ft      | 1H, Lite, CQC, Recoil (11), Reloading                                         | 10  |
-| Glock 18      | 9mm P         | 1d10+1  | 1-3/20       | 25 ft      | 1H, CQC, Recoil (16), Select Fire S/B/A, Reloading                            | 10  |
-| Glock 24      | .40 S&W       | 1d12    | 1/20         | 35 ft      | 1H, CQC, Recoil (17), Takedown, Reloading                                     | 10  |
-| H&K P7        | 9mm P         | 1d10+1  | 1/20         | 20 ft      | 1H, Lite, Covert, CQC, Recoil (14), Reloading                                 | 10  |
-| H&K P7        | .40 S&W       | 1d12    | 1/20         | 20 ft      | 1H, Lite, Covert, CQC, Recoil (10), Takedown, Reloading                       | 10  |
-| Makarov PB    | 9×18 Makarov  | 2d4     | 1-2/20       | 20 ft      | 1H, Lite, Covert, CQC, Recoil (9), Reloading, Ammo 8, **Built-in Suppressor** | 18  |
-| S&W Model 500 | .500 Magnum   | 4d4+2   | 1/19-20      | 45 ft      | 1H, CQC, Recoil (15), Takedown, Reloading, Ammo 5                             | 10  |
-| SiG P210      | 9mm P         | 1d10+1  | 1-2/20       | 30 ft      | 1H, Lite, CQC, Recoil (13), Reloading                                         | 11  |
+| Name               | Kaliber       | Schaden | Misfire/Crit | Reichweite | Eigenschaften                                                                                | Req |
+|--------------------|---------------|---------|--------------|------------|----------------------------------------------------------------------------------------------|-----|
+| B&T STATION SIX 9  | 9mm P         | 1d10+1  | 1-2/20       | 20 ft      | 1H, Lite, Covert, CQC, Recoil (4), Manual Action, Reloading, Ammo 5, **Integral Suppressor** | 16  |
+| B&T STATION SIX 45 | .45 ACP       | 1d12+1  | 1-2/19-20    | 25 ft      | 1H, Lite, Covert, CQC, Recoil (5), Manual Action, Reloading, Ammo 5, **Integral Suppressor** | 17  |
+| B&T USW-A1         | 9mm P         | 1d10+1  | 1/20         | 30 ft      | 1H, CQC, Recoil (12), Reloading, Ammo 17                                                     | 12  |
+| Beretta 93R        | 9mm P         | 1d10+1  | 1-3/20       | 25 ft      | 1H, Lite, CQC, Recoil (10), Select Fire S/B, Reloading                                       | 14  |
+| Colt SAA           | .357 Magnum   | 3d4+1   | 1/19-20      | 30 ft      | 1H, Lite, CQC, Recoil (18), Dependable, Manual Action, Reloading, Ammo 6                     | 14  |
+| Colt SAA           | .44-40        | 1d12+2  | 1/19-20      | 30 ft      | 1H, CQC, Recoil (17), Manual Action, Takedown, Reloading, Ammo 6                             | 14  |
+| Colt SAA           | .45 Long Colt | 1d12    | 1/19-20      | 30 ft      | 1H, CQC, Recoil (11), Manual Action, Takedown, Reloading, Ammo 6                             | 14  |
+| Colt SAA           | .22 LR        | 1d4+2   | 1/20         | 15 ft      | 1H, CQC, Recoil (2), Manual Action, Reloading, Ammo 6                                        | 14  |
+| Desert Eagle       | .357 Magnum   | 3d4+1   | 1-2/19-20    | 40 ft      | 1H, Lite, CQC, Recoil (11), Reloading                                                        | 11  |
+| Desert Eagle       | .41 Magnum    | 3d4     | 1-2/19-20    | 35 ft      | 1H, Lite, CQC, Recoil (8), Takedown, Reloading                                               | 11  |
+| Desert Eagle       | .44 Magnum    | 2d6+2   | 1-3/19-20    | 35 ft      | 1H, Lite, CQC, Recoil (11), Takedown, Reloading                                              | 12  |
+| Desert Eagle       | .50 AE        | 3d6+1   | 1-3/19-20    | 40 ft      | 1H, CQC, Recoil (19), Takedown, Reloading                                                    | 15  |
+| FN Five-seveN      | 5.7×28mm      | 1d8+2   | 1-2/20       | 30 ft      | 1H, Lite, CQC, Recoil (11), Reloading                                                        | 10  |
+| Glock 18           | 9mm P         | 1d10+1  | 1-3/20       | 25 ft      | 1H, CQC, Recoil (16), Select Fire S/B/A, Reloading                                           | 10  |
+| Glock 24           | .40 S&W       | 1d12    | 1/20         | 35 ft      | 1H, CQC, Recoil (17), Takedown, Reloading                                                    | 10  |
+| H&K P7             | 9mm P         | 1d10+1  | 1/20         | 20 ft      | 1H, Lite, Covert, CQC, Recoil (14), Reloading                                                | 10  |
+| H&K P7             | .40 S&W       | 1d12    | 1/20         | 20 ft      | 1H, Lite, Covert, CQC, Recoil (10), Takedown, Reloading                                      | 10  |
+| Makarov PB         | 9×18 Makarov  | 2d4     | 1-2/20       | 20 ft      | 1H, Lite, Covert, CQC, Recoil (9), Reloading, Ammo 8, **Built-in Suppressor**                | 18  |
+| S&W Model 500      | .500 Magnum   | 4d4+2   | 1/19-20      | 45 ft      | 1H, CQC, Recoil (15), Takedown, Reloading, Ammo 5                                            | 10  |
+| SiG P210           | 9mm P         | 1d10+1  | 1-2/20       | 30 ft      | 1H, Lite, CQC, Recoil (13), Reloading                                                        | 11  |
 
 ## Tier 3 - Top Tier {#tier-3---top-tier}
 

@@ -10,26 +10,27 @@ Siehe [Weapon Properties](../rules/weapon-properties.md) für die Eigenschaften-
 
 ## Tier 1 - Basic Issue {#tier-1-basic-issue}
 
-| Name               | Kaliber | Misfire/Crit | Reichweite | Eigenschaften                                                 | Req |
-|--------------------|---------|--------------|------------|---------------------------------------------------------------|-----|
-| Colt M79 (Thumper) | 40mm    | 1-3/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1                       | 8   |
-| GP-25              | 40mm    | 1-4/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1                       | 8   |
-| H&K HK69A1         | 40mm    | 1-3/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1                       | 9   |
-| H&K HK79           | 40mm    | 1-3/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1                       | 9   |
+| Name               | Kaliber | Misfire/Crit | Reichweite | Eigenschaften                           | Req |
+|--------------------|---------|--------------|------------|-----------------------------------------|-----|
+| Colt M79 (Thumper) | 40mm    | 1-3/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1 | 8   |
+| GP-25              | 40mm    | 1-4/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1 | 8   |
+| H&K HK69A1         | 40mm    | 1-3/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1 | 9   |
+| H&K HK79           | 40mm    | 1-3/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1 | 9   |
 
 ## Tier 2 - Premium {#tier-2-premium}
 
-| Name           | Kaliber | Misfire/Crit | Reichweite | Eigenschaften                                                 | Req |
-|----------------|---------|--------------|------------|---------------------------------------------------------------|-----|
-| China Lake NLW | 40mm    | 1-3/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 4, Quirky               | 18  |
-| Colt M203      | 40mm    | 1-2/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1                       | 16  |
-| Colt M203P     | 40mm    | 1-3/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1                       | 16  |
-| FN40GL         | 40mm    | 1-3/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1                       | 16  |
-| GP-30          | 40mm    | 1-3/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1, Dependable           | 15  |
-| GP-34          | 40mm    | 1-3/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1, Dependable           | 16  |
-| H&K AG36       | 40mm    | 1-3/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1                       | 16  |
-| H&K M320       | 40mm    | 1-2/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1, Dependable           | 18  |
-| H&K M320A1     | 40mm    | 1-2/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1, Dependable           | 18  |
+| Name           | Kaliber | Misfire/Crit | Reichweite | Eigenschaften                                       | Req |
+|----------------|---------|--------------|------------|-----------------------------------------------------|-----|
+| B&T GL06       | 40mm    | 1-2/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1, Dependable | 17  |
+| China Lake NLW | 40mm    | 1-3/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 4, Quirky     | 18  |
+| Colt M203      | 40mm    | 1-2/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1             | 16  |
+| Colt M203P     | 40mm    | 1-3/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1             | 16  |
+| FN40GL         | 40mm    | 1-3/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1             | 16  |
+| GP-30          | 40mm    | 1-3/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1, Dependable | 15  |
+| GP-34          | 40mm    | 1-3/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1, Dependable | 16  |
+| H&K AG36       | 40mm    | 1-3/See Ammo | 50 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1             | 16  |
+| H&K M320       | 40mm    | 1-2/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1, Dependable | 18  |
+| H&K M320A1     | 40mm    | 1-2/See Ammo | 60 ft      | 2H, Recoil (8), Inaccurate (-5), Ammo 1, Dependable | 18  |
 
 ## Tier 3 - Top Tier {#tier-3-top-tier}
 

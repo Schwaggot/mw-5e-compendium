@@ -46,38 +46,40 @@ and [Weapon Modifications](../rules/weapon-modifications.md) for the Mods column
 
 ## Tier 2 - Premium
 
-| Name              | Caliber   | Damage | Misfire/Crit | Range  | Properties                                                           | Mods                        | Req |
-|-------------------|-----------|--------|--------------|--------|----------------------------------------------------------------------|-----------------------------|-----|
-| Beretta ARX-160   | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (11), Select Fire S/B/A, Reloading, Ammo 30               | Full modification           | 12  |
-| Beryl wz.96       | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (11), Dependable, Select Fire S/B/A, Reloading, Ammo 30   | Magazine, Sight, Side Rails | 10  |
-| CZ BREN 2         | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Dependable, Select Fire S/B/A, Reloading, Ammo 30   | Full modification           | 14  |
-| F88 Austeyr       | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (10), Reloading, Ammo 30                                  | Magazine, Sight, Side Rails | 12  |
-| FN F2000          | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (10), Select Fire S/B/A, Reloading, Ammo 30               | Full modification           | 12  |
-| FN FAL            | 7.62 NATO | 4d4+2  | 1-3/19-20    | 175 ft | 2H, Recoil (17), Dependable, Reloading, Ammo 20                      | -                           | 12  |
-| FN FAL Para       | 7.62 NATO | 4d4+2  | 1-3/19-20    | 160 ft | 2H, Recoil (18), Reloading, Ammo 20                                  | -                           | 12  |
-| H&K G3 SG/1       | 7.62 NATO | 4d4+2  | 1-2/19-20    | 175 ft | 2H, Recoil (17), Accurate (1), Reloading, Ammo 20                    | -                           | 15  |
-| H&K G3A3/A4       | 7.62 NATO | 4d4+2  | 1-2/19-20    | 175 ft | 2H, Recoil (16-17), Reloading, Ammo 20                               | -                           | 13  |
-| H&K G36           | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (12), Dependable, Reloading, Ammo 30                      | -                           | 14  |
-| H&K G36C          | 5.56 NATO | 4d4    | 1-3/20       | 50 ft  | 2H, Recoil (14), Dependable, Reloading, Ammo 30                      | -                           | 15  |
-| H&K G36K          | 5.56 NATO | 4d4    | 1-3/20       | 100 ft | 2H, Recoil (13), Dependable, Reloading, Ammo 30                      | -                           | 13  |
-| H&K G41           | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Accurate (1), Select Fire S/B/A, Reloading, Ammo 30 | -                           | 16  |
-| H&K HK33SG1       | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Accurate (1), Reloading                             | -                           | 15  |
-| H&K HK416C        | 5.56 NATO | 4d4    | 1-3/20       | 50 ft  | 2H, Recoil (13), Dependable, Select Fire S/B/A, Reloading, Ammo 30   | Full modification           | 14  |
-| H&K HK53A2/A3     | 5.56 NATO | 4d4    | 1-2/20       | 50 ft  | 2H, Recoil (14-15), Reloading, Ammo 30                               | -                           | 13  |
-| Howa Type 89      | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (11), Dependable, Select Fire S/B/A, Reloading, Ammo 30   | Magazine, Sight             | 10  |
-| IWI Tavor TAR-21  | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (11), Dependable, Reloading, Ammo 30                      | Full modification           | 13  |
-| IWI X95           | 5.56 NATO | 4d4    | 1-3/20       | 100 ft | 2H, Recoil (12), Dependable, Reloading, Ammo 30                      | Full modification           | 14  |
-| Kalashnikov AK-12 | 5.45×39mm | 2d8+1  | 1-2/20       | 125 ft | 2H, Recoil (9), Dependable, Select Fire S/B/A, Reloading, Ammo 30    | Full modification           | 15  |
-| MSBS Grot         | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Select Fire S/B/A, Reloading, Ammo 30               | Full modification           | 14  |
-| NORINCO QBZ-95    | 5.8×42mm  | 3d6+1  | 1-3/19-20    | 150 ft | 2H, Recoil (17), Reloading, Ammo 30                                  | -                           | 14  |
-| SAR 21            | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (10), Reloading, Ammo 30                                  | Magazine, Sight             | 12  |
-| SIG MCX           | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (11), Dependable, Select Fire S/B, Reloading, Ammo 30     | Full modification           | 18  |
-| SIG SG 550        | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Accurate (1), Dependable, Reloading, Ammo 30        | Full modification           | 18  |
-| SIG SG 551        | 5.56 NATO | 4d4    | 1-2/20       | 100 ft | 2H, Recoil (11), Dependable, Reloading, Ammo 30                      | Full modification           | 12  |
-| Springfield M14   | 7.62 NATO | 4d4+2  | 1-3/19-20    | 150 ft | 2H, Recoil (15), Dependable, Reloading, Ammo 20                      | -                           | 14  |
-| Steyr AUG         | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (10), Reloading, Ammo 30                                  | -                           | 13  |
-| Steyr AUG Carbine | 5.56 NATO | 4d4    | 1-3/20       | 100 ft | 2H, Recoil (11), Reloading, Ammo 30                                  | -                           | 13  |
-| Steyr AUG Para    | 9mm P     | 1d10+1 | 1-3/20       | 35 ft  | 2H, Recoil (4), Reloading, Ammo 30                                   | -                           | 12  |
+| Name               | Caliber   | Damage | Misfire/Crit | Range  | Properties                                                           | Mods                        | Req |
+|--------------------|-----------|--------|--------------|--------|----------------------------------------------------------------------|-----------------------------|-----|
+| B&T APC223 Carbine | 5.56 NATO | 4d4    | 1-2/20       | 100 ft | 2H, Recoil (11), Dependable, Select Fire S/B/A, Reloading, Ammo 30   | Full modification           | 16  |
+| B&T APC223 PDW     | 5.56 NATO | 4d4    | 1-2/20       | 75 ft  | 2H, Recoil (13), Dependable, Select Fire S/B/A, Reloading, Ammo 30   | Full modification           | 15  |
+| Beretta ARX-160    | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (11), Select Fire S/B/A, Reloading, Ammo 30               | Full modification           | 12  |
+| Beryl wz.96        | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (11), Dependable, Select Fire S/B/A, Reloading, Ammo 30   | Magazine, Sight, Side Rails | 10  |
+| CZ BREN 2          | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Dependable, Select Fire S/B/A, Reloading, Ammo 30   | Full modification           | 14  |
+| F88 Austeyr        | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (10), Reloading, Ammo 30                                  | Magazine, Sight, Side Rails | 12  |
+| FN F2000           | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (10), Select Fire S/B/A, Reloading, Ammo 30               | Full modification           | 12  |
+| FN FAL             | 7.62 NATO | 4d4+2  | 1-3/19-20    | 175 ft | 2H, Recoil (17), Dependable, Reloading, Ammo 20                      | -                           | 12  |
+| FN FAL Para        | 7.62 NATO | 4d4+2  | 1-3/19-20    | 160 ft | 2H, Recoil (18), Reloading, Ammo 20                                  | -                           | 12  |
+| H&K G3 SG/1        | 7.62 NATO | 4d4+2  | 1-2/19-20    | 175 ft | 2H, Recoil (17), Accurate (1), Reloading, Ammo 20                    | -                           | 15  |
+| H&K G3A3/A4        | 7.62 NATO | 4d4+2  | 1-2/19-20    | 175 ft | 2H, Recoil (16-17), Reloading, Ammo 20                               | -                           | 13  |
+| H&K G36            | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (12), Dependable, Reloading, Ammo 30                      | -                           | 14  |
+| H&K G36C           | 5.56 NATO | 4d4    | 1-3/20       | 50 ft  | 2H, Recoil (14), Dependable, Reloading, Ammo 30                      | -                           | 15  |
+| H&K G36K           | 5.56 NATO | 4d4    | 1-3/20       | 100 ft | 2H, Recoil (13), Dependable, Reloading, Ammo 30                      | -                           | 13  |
+| H&K G41            | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Accurate (1), Select Fire S/B/A, Reloading, Ammo 30 | -                           | 16  |
+| H&K HK33SG1        | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Accurate (1), Reloading                             | -                           | 15  |
+| H&K HK416C         | 5.56 NATO | 4d4    | 1-3/20       | 50 ft  | 2H, Recoil (13), Dependable, Select Fire S/B/A, Reloading, Ammo 30   | Full modification           | 14  |
+| H&K HK53A2/A3      | 5.56 NATO | 4d4    | 1-2/20       | 50 ft  | 2H, Recoil (14-15), Reloading, Ammo 30                               | -                           | 13  |
+| Howa Type 89       | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (11), Dependable, Select Fire S/B/A, Reloading, Ammo 30   | Magazine, Sight             | 10  |
+| IWI Tavor TAR-21   | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (11), Dependable, Reloading, Ammo 30                      | Full modification           | 13  |
+| IWI X95            | 5.56 NATO | 4d4    | 1-3/20       | 100 ft | 2H, Recoil (12), Dependable, Reloading, Ammo 30                      | Full modification           | 14  |
+| Kalashnikov AK-12  | 5.45×39mm | 2d8+1  | 1-2/20       | 125 ft | 2H, Recoil (9), Dependable, Select Fire S/B/A, Reloading, Ammo 30    | Full modification           | 15  |
+| MSBS Grot          | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Select Fire S/B/A, Reloading, Ammo 30               | Full modification           | 14  |
+| NORINCO QBZ-95     | 5.8×42mm  | 3d6+1  | 1-3/19-20    | 150 ft | 2H, Recoil (17), Reloading, Ammo 30                                  | -                           | 14  |
+| SAR 21             | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (10), Reloading, Ammo 30                                  | Magazine, Sight             | 12  |
+| SIG MCX            | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (11), Dependable, Select Fire S/B, Reloading, Ammo 30     | Full modification           | 18  |
+| SIG SG 550         | 5.56 NATO | 4d4    | 1-2/20       | 125 ft | 2H, Recoil (10), Accurate (1), Dependable, Reloading, Ammo 30        | Full modification           | 18  |
+| SIG SG 551         | 5.56 NATO | 4d4    | 1-2/20       | 100 ft | 2H, Recoil (11), Dependable, Reloading, Ammo 30                      | Full modification           | 12  |
+| Springfield M14    | 7.62 NATO | 4d4+2  | 1-3/19-20    | 150 ft | 2H, Recoil (15), Dependable, Reloading, Ammo 20                      | -                           | 14  |
+| Steyr AUG          | 5.56 NATO | 4d4    | 1-3/20       | 125 ft | 2H, Recoil (10), Reloading, Ammo 30                                  | -                           | 13  |
+| Steyr AUG Carbine  | 5.56 NATO | 4d4    | 1-3/20       | 100 ft | 2H, Recoil (11), Reloading, Ammo 30                                  | -                           | 13  |
+| Steyr AUG Para     | 9mm P     | 1d10+1 | 1-3/20       | 35 ft  | 2H, Recoil (4), Reloading, Ammo 30                                   | -                           | 12  |
 
 ## Tier 3 - Top Tier
 

@@ -19,9 +19,13 @@ See [Weapon Properties](../rules/weapon-properties.md) for the property keywords
 
 | Name                       | Caliber       | Damage | Misfire/Crit | Range | Properties                                 | Req |
 |----------------------------|---------------|--------|--------------|-------|--------------------------------------------|-----|
+| B&T APC10                  | 10mm Auto     | 2d6    | 1-2/20       | 30 ft | 2H, CQC, Recoil (6), Takedown, Ammo 15     | 18  |
 | B&T APC45                  | .45 ACP       | 1d12+1 | 1-2/20       | 30 ft | 2H, CQC, Recoil (6), Takedown, Ammo 25     | 17  |
 | B&T APC9                   | 9mm P         | 1d10+1 | 1-2/20       | 35 ft | 2H, CQC, Recoil (4), Takedown, Ammo 30     | 15  |
+| B&T APC9K                  | 9mm P         | 1d10+1 | 1-2/20       | 25 ft | 2H, CQC, Recoil (7), Takedown, Ammo 30     | 15  |
 | B&T MP9                    | 9mm P         | 1d10+1 | 1-2/20       | 25 ft | Lite, CQC, 1H, Recoil (10), Ammo 30        | 14  |
+| B&T SPC9                   | 9mm P         | 1d10+1 | 1-2/20       | 45 ft | 2H, CQC, Recoil (3), Takedown, Ammo 30     | 16  |
+| B&T TP9                    | 9mm P         | 1d10+1 | 1-3/20       | 25 ft | Lite, CQC, 1H, Recoil (11), Ammo 30        | 13  |
 | Bizon-2                    | 9×18 Improved | 1d10+2 | 1-3/20       | 35 ft | 2H, CQC, Recoil (7), Quirky, Ammo 66       | 14  |
 | CZ Scorpion EVO 3 A1       | 9mm P         | 1d10+1 | 1-2/20       | 35 ft | 2H, CQC, Recoil (5), Ammo 30               | 13  |
 | CZ Scorpion EVO 3 S1 Micro | 9mm P         | 1d10+1 | 1-2/20       | 25 ft | Lite, CQC, 1H, Recoil (9), Ammo 30         | 13  |
@@ -53,13 +57,15 @@ See [Weapon Properties](../rules/weapon-properties.md) for the property keywords
 
 ## Tier 3 - Top Tier
 
-| Name               | Caliber   | Damage | Misfire/Crit | Range | Properties                                                     | Req |
-|--------------------|-----------|--------|--------------|-------|----------------------------------------------------------------|-----|
-| H&K MP5/10         | 10mm ACP  | 2d6    | 1-2/20       | 30 ft | 2H, CQC, Recoil (7), Ammo 30                                   | 20  |
-| H&K MP5K briefcase | 9mm P     | 1d10+1 | 1-3/20       | 15 ft | Lite, CQC, 1H, Recoil (4), Imprecise, Inaccurate (-4), Ammo 15 | 20  |
-| H&K MP5SD6         | 9mm P     | 1d10+1 | 1-2/20       | 30 ft | 2H, CQC, Recoil (5), Ammo 30                                   | 20  |
-| KRISS Vector       | 10mm Auto | 2d6    | 1-2/20       | 30 ft | 2H, CQC, Recoil (3), Ammo 25                                   | 20  |
-| MAC M10            | 9mm P     | 1d10+1 | 1-3/20       | 25 ft | Lite, CQC, 1H, Recoil (5), Imprecise, Select Fire B/A, Ammo 32 | 25  |
-| MAC M10            | .45 ACP   | 1d12+1 | 1-3/20       | 25 ft | Lite, CQC, 1H, Recoil (6), Imprecise, Select Fire B/A, Ammo 32 | 28  |
-| MAC M11            | .380 ACP  | 1d8    | 1-3/20       | 25 ft | Lite, CQC, 1H, Recoil (8), Imprecise, Select Fire B/A, Ammo 32 | 25  |
-| Thompson M1928     | .45 ACP   | 1d12+1 | 1-3/20       | 35 ft | 2H, CQC, Recoil (3), Dependable, Takedown, Ammo 30             | 25  |
+| Name               | Caliber   | Damage | Misfire/Crit | Range | Properties                                                      | Req |
+|--------------------|-----------|--------|--------------|-------|-----------------------------------------------------------------|-----|
+| B&T APC9 SD        | 9mm P     | 1d10+1 | 1-2/20       | 30 ft | 2H, CQC, Recoil (4), Takedown, Ammo 30, **Integral Suppressor** | 20  |
+| B&T APC9K SD2      | 9mm P     | 1d10+1 | 1-2/20       | 20 ft | Lite, CQC, 1H, Recoil (8), Ammo 30, **Integral Suppressor**     | 22  |
+| H&K MP5/10         | 10mm ACP  | 2d6    | 1-2/20       | 30 ft | 2H, CQC, Recoil (7), Ammo 30                                    | 20  |
+| H&K MP5K briefcase | 9mm P     | 1d10+1 | 1-3/20       | 15 ft | Lite, CQC, 1H, Recoil (4), Imprecise, Inaccurate (-4), Ammo 15  | 20  |
+| H&K MP5SD6         | 9mm P     | 1d10+1 | 1-2/20       | 30 ft | 2H, CQC, Recoil (5), Ammo 30                                    | 20  |
+| KRISS Vector       | 10mm Auto | 2d6    | 1-2/20       | 30 ft | 2H, CQC, Recoil (3), Ammo 25                                    | 20  |
+| MAC M10            | 9mm P     | 1d10+1 | 1-3/20       | 25 ft | Lite, CQC, 1H, Recoil (5), Imprecise, Select Fire B/A, Ammo 32  | 25  |
+| MAC M10            | .45 ACP   | 1d12+1 | 1-3/20       | 25 ft | Lite, CQC, 1H, Recoil (6), Imprecise, Select Fire B/A, Ammo 32  | 28  |
+| MAC M11            | .380 ACP  | 1d8    | 1-3/20       | 25 ft | Lite, CQC, 1H, Recoil (8), Imprecise, Select Fire B/A, Ammo 32  | 25  |
+| Thompson M1928     | .45 ACP   | 1d12+1 | 1-3/20       | 35 ft | 2H, CQC, Recoil (3), Dependable, Takedown, Ammo 30              | 25  |
