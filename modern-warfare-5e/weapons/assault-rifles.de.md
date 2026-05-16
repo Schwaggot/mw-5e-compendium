@@ -72,6 +72,7 @@ und [Weapon Modifications](../rules/weapon-modifications.md) für die Mods-Spalt
 | Kalashnikov AK-12  | 5.45×39mm | 2d8+1   | 1-2/20       | 125 ft     | 2H, Recoil (9), Dependable, Select Fire S/B/A, Reloading, Ammo 30    | Full modification           | 15  |
 | MSBS Grot          | 5.56 NATO | 4d4     | 1-2/20       | 125 ft     | 2H, Recoil (10), Select Fire S/B/A, Reloading, Ammo 30               | Full modification           | 14  |
 | NORINCO QBZ-95     | 5.8×42mm  | 3d6+1   | 1-3/19-20    | 150 ft     | 2H, Recoil (17), Reloading, Ammo 30                                  | -                           | 14  |
+| OTs-14 Groza       | 9×39mm    | 2d8     | 1-3/20       | 100 ft     | 2H, Recoil (10), Reloading, Ammo 20                                  | -                           | 12  |
 | SAR 21             | 5.56 NATO | 4d4     | 1-3/20       | 125 ft     | 2H, Recoil (10), Reloading, Ammo 30                                  | Magazine, Sight             | 12  |
 | SIG MCX            | 5.56 NATO | 4d4     | 1-2/20       | 125 ft     | 2H, Recoil (11), Dependable, Select Fire S/B, Reloading, Ammo 30     | Full modification           | 18  |
 | SIG SG 550         | 5.56 NATO | 4d4     | 1-2/20       | 125 ft     | 2H, Recoil (10), Accurate (1), Dependable, Reloading, Ammo 30        | Full modification           | 18  |
