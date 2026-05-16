@@ -37,6 +37,8 @@ und [Weapon Modifications](../rules/weapon-modifications.md) für die Mods-Spalt
 | Kalashnikov AK-47       | 7.62×39mm | 3d6     | 1-2/20       | 125 ft     | 2H, Recoil (11), Dependable, Reloading, Ammo 30                    | -                                                      | 5   |
 | Kalashnikov AK-74       | 5.45×39mm | 2d8+1   | 1-2/20       | 125 ft     | 2H, Recoil (10), Reloading, Ammo 30                                | -                                                      | 5   |
 | Kalashnikov AK-74M      | 5.45×39mm | 2d8+1   | 1-2/20       | 125 ft     | 2H, Recoil (10), Dependable, Reloading, Ammo 30                    | Magazine, Sight, Side Rails                            | 7   |
+| Kalashnikov AKM         | 7.62×39mm | 3d6     | 1-2/20       | 125 ft     | 2H, Recoil (11), Dependable, Reloading, Ammo 30                    | -                                                      | 6   |
+| Kalashnikov AKMS        | 7.62×39mm | 3d6     | 1-2/20       | 125 ft     | 2H, Recoil (11), Reloading, Ammo 30                                | -                                                      | 6   |
 | Kalashnikov AKS         | 7.62×39mm | 3d6     | 1-2/20       | 125 ft     | 2H, Recoil (11), Reloading, Ammo 30                                | -                                                      | 6   |
 | Kalashnikov AKS-74      | 5.45×39mm | 2d8+1   | 1-2/20       | 125 ft     | 2H, Recoil (10), Reloading, Ammo 30                                | -                                                      | 5   |
 | Kalashnikov AKS-74U     | 5.45×39mm | 2d8+1   | 1-3/20       | 125 ft     | 2H, Recoil (12), Reloading, Ammo 30                                | -                                                      | 8   |
